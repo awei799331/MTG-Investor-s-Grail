@@ -17,6 +17,7 @@ function getImage() {
     if (blobJSON.object != "error") {
         var im = document.createElement("img")
         im.setAttribute("src", blobJSON.image_uris.normal)
+        im.draggable = false
     
         var imageHTML = document.getElementById("image")
         imageHTML.innerHTML = ""
