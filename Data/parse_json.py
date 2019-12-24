@@ -5,12 +5,14 @@ import pandas as pd
 directory = 'JsonAll'
 listyboi = []
 for filename in os.listdir(directory):
-    with open(directory + '/' + 'filename', 'r') as fileboi:
+    with open(directory + '/' + filename, 'r+', encoding='utf8') as fileboi:
         jason = json.load(fileboi)
-    listyboi.extend(jason[data])
+    listyboi.extend(jason['data'])
 
-print(len(listyboi))
 
-wowdf = pd.DataFrame.fromrecords(listyboi)
+wowdf = pd.DataFrame.from_records(listyboi)
+
+#for index, row in wowdf.itertuples():
+
 
 wowdf.to_csv('wowies.csv')
