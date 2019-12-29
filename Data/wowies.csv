@@ -1,0 +1,1263 @@
+,released_at,mana_cost,cmc,type_line,oracle_text,rarity,booster,prices
+0,2019-10-04,{2}{W},3.0,Creature — Human Knight,"When Acclaimed Contender enters the battlefield, if you control another Knight, look at the top five cards of your library. You may reveal a Knight, Aura, Equipment, or legendary artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",rare,True,"{'usd': '0.27', 'usd_foil': '0.54', 'eur': '0.22', 'tix': '0.01'}"
+1,2019-10-04,{1}{W}{U}{B},4.0,Legendary Creature — Faerie Warlock,"Flying, deathtouch, lifelink
+Other creatures you control with flying get +1/+0.
+Whenever you cast an artifact or enchantment spell, create a 1/1 blue Faerie creature token with flying.",mythic,False,"{'usd': '6.60', 'usd_foil': '4.15', 'eur': None, 'tix': None}"
+2,2019-10-04,{1}{W},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +1/+1 for each artifact and/or enchantment you control.",uncommon,True,"{'usd': '0.23', 'usd_foil': '2.34', 'eur': '0.11', 'tix': '0.02'}"
+3,2019-10-04,{2}{U} // {2}{U},3.0,Creature — Faerie // Sorcery — Adventure,,uncommon,True,"{'usd': '0.06', 'usd_foil': '0.14', 'eur': '0.04', 'tix': '0.01'}"
+4,2019-10-04,{2},2.0,Artifact,{T}: Add one mana of any color in your commander's color identity.,common,False,"{'usd': '4.96', 'usd_foil': None, 'eur': None, 'tix': None}"
+5,2019-10-04,{W/U}{W/U}{W/U}{W/U},4.0,Artifact Creature — Bird,"Flying
+When Arcanist's Owl enters the battlefield, look at the top four cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.22', 'eur': '0.08', 'tix': '0.01'}"
+6,2019-10-04,{3}{W},4.0,Creature — Archon,"Flying
+Protection from white (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything white.)
+Creatures can't attack you or a planeswalker you control unless their controller pays {1} for each of those creatures.",uncommon,True,"{'usd': '0.10', 'usd_foil': '0.22', 'eur': '0.07', 'tix': '0.01'}"
+7,2019-10-04,{3}{W},4.0,Creature — Human Knight,"Adamant — If at least three white mana was spent to cast this spell, Ardenvale Paladin enters the battlefield with a +1/+1 counter on it.",common,True,"{'usd': '0.03', 'usd_foil': '0.10', 'eur': '0.03', 'tix': '0.01'}"
+8,2019-10-04,{1}{W}{W} // {1}{W},3.0,Creature — Human Knight // Instant — Adventure,,common,True,"{'usd': '0.03', 'usd_foil': '0.08', 'eur': '0.03', 'tix': '0.01'}"
+9,2019-10-04,{B}{B}{B},3.0,Legendary Creature — Elf Noble,"Whenever Ayara, First of Locthwain or another black creature enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.
+{T}, Sacrifice another black creature: Draw a card.",rare,True,"{'usd': '1.00', 'usd_foil': '1.55', 'eur': '0.63', 'tix': '0.01'}"
+10,2019-10-04,{2}{B}{B},4.0,Instant,"Destroy target creature. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,True,"{'usd': '0.06', 'usd_foil': '0.15', 'eur': '0.03', 'tix': '0.01'}"
+11,2019-10-04,{4}{W}{U},6.0,Instant,"When you cast this spell from your hand, copy it if you control an artifact, then copy it if you control an enchantment. You may choose new targets for the copies.
+Return target nonland permanent to its owner's hand. You create a 2/2 white Knight creature token with vigilance.",rare,False,"{'usd': '0.38', 'usd_foil': None, 'eur': None, 'tix': None}"
+12,2019-10-04,{R},1.0,Instant,Target attacking creature gets +2/+2 until end of turn. Each attacking non-Human creature gains trample until end of turn.,common,True,"{'usd': '0.02', 'usd_foil': '0.07', 'eur': '0.04', 'tix': '0.01'}"
+13,2019-10-04,{4}{B},5.0,Creature — Human Warlock,"When Barrow Witches enters the battlefield, return target Knight card from your graveyard to your hand.",common,True,"{'usd': '0.03', 'usd_foil': '0.08', 'eur': '0.03', 'tix': '0.01'}"
+14,2019-10-04,{3}{W},4.0,Creature — Ox,"When Bartered Cow dies or when you discard it, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,True,"{'usd': '0.05', 'usd_foil': '0.08', 'eur': '0.03', 'tix': '0.01'}"
+15,2019-10-04,{6}{G} // {2}{G},7.0,Creature — Giant // Sorcery — Adventure,,uncommon,True,"{'usd': '0.11', 'usd_foil': '0.20', 'eur': '0.08', 'tix': '0.01'}"
+16,2019-10-04,{2}{B},3.0,Creature — Human Knight,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Belle of the Brawl attacks, other Knights you control get +1/+0 until end of turn.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.12', 'eur': '0.04', 'tix': '0.01'}"
+17,2019-10-04,{W},1.0,Creature — Human Noble,"Lifelink
+Beloved Princess can't be blocked by creatures with power 3 or greater.",common,True,"{'usd': '0.02', 'usd_foil': '0.15', 'eur': '0.03', 'tix': '0.01'}"
+18,2019-10-04,{1}{B},2.0,Creature — Human Knight,"Flash
+When Blacklance Paragon enters the battlefield, target Knight gains deathtouch and lifelink until end of turn.",rare,True,"{'usd': '0.31', 'usd_foil': '0.54', 'eur': '0.32', 'tix': '0.01'}"
+19,2019-10-04,{1}{R},2.0,Creature — Wolverine,"Whenever you draw your second card each turn, Bloodhaze Wolverine gets +1/+1 and gains first strike until end of turn.",common,True,"{'usd': '0.03', 'usd_foil': '0.05', 'eur': '0.03', 'tix': '0.01'}"
+20,2019-10-04,{2}{R},3.0,Sorcery,Up to three target creatures can't block this turn. Destroy any of them that are Walls.,common,True,"{'usd': '0.02', 'usd_foil': '0.06', 'eur': '0.05', 'tix': '0.01'}"
+21,2019-10-04,{3}{B}{B},5.0,Creature — Faerie,"Flying
+{2}{B}, Sacrifice a Food: Target creature gets -3/-3 until end of turn.",uncommon,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.05', 'tix': '0.01'}"
+22,2019-10-04,{2}{R} // {1}{R},3.0,Creature — Giant // Instant — Adventure,,rare,True,"{'usd': '2.23', 'usd_foil': '2.56', 'eur': '1.96', 'tix': '2.49'}"
+23,2019-10-04,{1}{G},2.0,Creature — Ouphe,{8}: Bramblefort Fink has base power and toughness 10/10 until end of turn. Activate this ability only if you control an Oko planeswalker.,uncommon,False,"{'usd': '0.12', 'usd_foil': None, 'eur': None, 'tix': None}"
+24,2019-10-04,{1}{U}{U} // {1}{U},3.0,Creature — Faerie Rogue // Instant — Adventure,,mythic,True,"{'usd': '24.52', 'usd_foil': '28.33', 'eur': '21.08', 'tix': '46.61'}"
+25,2019-10-04,{2}{R},3.0,Artifact Creature — Wall,"Defender, reach
+{T}: Brimstone Trebuchet deals 1 damage to each opponent.
+Whenever a Knight enters the battlefield under your control, untap Brimstone Trebuchet.",common,True,"{'usd': '0.02', 'usd_foil': '0.11', 'eur': '0.04', 'tix': '0.01'}"
+26,2019-10-04,{4}{R},5.0,Creature — Human Knight,"Trample, haste
+When Burning-Yard Trainer enters the battlefield, another target Knight you control gets +2/+2 and gains trample and haste until end of turn.",uncommon,True,"{'usd': '0.01', 'usd_foil': '0.10', 'eur': '0.02', 'tix': '0.01'}"
+27,2019-10-04,,0.0,Land,"Castle Ardenvale enters the battlefield tapped unless you control a Plains.
+{T}: Add {W}.
+{2}{W}{W}, {T}: Create a 1/1 white Human creature token.",rare,True,"{'usd': '1.06', 'usd_foil': '1.41', 'eur': '0.63', 'tix': '0.77'}"
+28,2019-10-04,,0.0,Land,"Castle Embereth enters the battlefield tapped unless you control a Mountain.
+{T}: Add {R}.
+{1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn.",rare,True,"{'usd': '0.81', 'usd_foil': '1.02', 'eur': '0.70', 'tix': '0.30'}"
+29,2019-10-04,,0.0,Land,"Castle Garenbrig enters the battlefield tapped unless you control a Forest.
+{T}: Add {G}.
+{2}{G}{G}, {T}: Add six {G}. Spend this mana only to cast creature spells or activate abilities of creatures.",rare,True,"{'usd': '1.57', 'usd_foil': '2.25', 'eur': '0.89', 'tix': '1.11'}"
+30,2019-10-04,,0.0,Land,"Castle Locthwain enters the battlefield tapped unless you control a Swamp.
+{T}: Add {B}.
+{1}{B}{B}, {T}: Draw a card, then you lose life equal to the number of cards in your hand.",rare,True,"{'usd': '3.16', 'usd_foil': '5.16', 'eur': '2.29', 'tix': '1.10'}"
+31,2019-10-04,,0.0,Land,"Castle Vantress enters the battlefield tapped unless you control an Island.
+{T}: Add {U}.
+{2}{U}{U}, {T}: Scry 2.",rare,True,"{'usd': '2.00', 'usd_foil': '2.98', 'eur': '1.68', 'tix': '0.53'}"
+32,2019-10-04,{B},1.0,Creature — Cat,"When Cauldron Familiar enters the battlefield, each opponent loses 1 life and you gain 1 life.
+Sacrifice a Food: Return Cauldron Familiar from your graveyard to the battlefield.",uncommon,True,"{'usd': '0.35', 'usd_foil': '1.38', 'eur': '0.16', 'tix': '0.01'}"
+33,2019-10-04,{4}{B},5.0,Sorcery,"Adamant — If at least three black mana was spent to cast this spell, put the top four cards of your library into your graveyard.
+You may choose a creature card in your graveyard. If you do, return it to the battlefield with an additional +1/+1 counter on it.",uncommon,True,"{'usd': '0.02', 'usd_foil': '0.08', 'eur': '0.05', 'tix': '0.01'}"
+34,2019-10-04,{1}{U}{U},3.0,Enchantment — Aura,"Enchant creature
+When Charmed Sleep enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",common,True,"{'usd': '0.04', 'usd_foil': '0.08', 'eur': '0.04', 'tix': '0.01'}"
+35,2019-10-04,{1}{W},2.0,Creature — Human Noble,"When Charming Prince enters the battlefield, choose one —
+• Scry 2.
+• You gain 3 life.
+• Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step.",rare,True,"{'usd': '0.63', 'usd_foil': '1.30', 'eur': '0.73', 'tix': '0.13'}"
+36,2019-10-04,{3}{B},4.0,Creature — Human Warlock,"When Chittering Witch enters the battlefield, create a number of 1/1 black Rat creature tokens equal to the number of opponents you have.
+{1}{B}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.",rare,False,"{'usd': '0.56', 'usd_foil': None, 'eur': None, 'tix': None}"
+37,2019-10-04,{2}{G}{W}{U},5.0,Legendary Creature — Human Druid,"Vigilance
+Whenever you cast a creature spell, draw a card, then you may put a land card from your hand onto the battlefield.
+{3}, {T}: Return target creature you control to its owner's hand.",mythic,False,"{'usd': '6.34', 'usd_foil': '3.69', 'eur': None, 'tix': None}"
+38,2019-10-04,{3}{B}{B},5.0,Creature — Troll,"Trample, haste
+When Clackbridge Troll enters the battlefield, target opponent creates three 0/1 white Goat creature tokens.
+At the beginning of combat on your turn, any opponent may sacrifice a creature. If a player does, tap Clackbridge Troll, you gain 3 life, and you draw a card.",rare,True,"{'usd': '0.23', 'usd_foil': '0.60', 'eur': '0.20', 'tix': '0.02'}"
+39,2019-10-04,{R},1.0,Sorcery,Gain control of target creature with converted mana cost 3 or less until end of turn. Untap that creature. It gains haste until end of turn.,uncommon,True,"{'usd': '0.07', 'usd_foil': '0.34', 'eur': '0.11', 'tix': '0.01'}"
+40,2019-10-04,{3},3.0,Artifact Creature — Gnome,"Adamant — When Clockwork Servant enters the battlefield, if at least three mana of the same color was spent to cast it, draw a card.",uncommon,True,"{'usd': '0.02', 'usd_foil': '0.09', 'eur': '0.07', 'tix': '0.01'}"
+41,2019-10-04,,0.0,Land,{T}: Add one mana of any color in your commander's color identity.,common,False,"{'usd': '0.99', 'usd_foil': None, 'eur': None, 'tix': None}"
+42,2019-10-04,{1}{U},2.0,Artifact Creature — Construct,"When Corridor Monitor enters the battlefield, untap target artifact or creature you control.",common,True,"{'usd': '0.03', 'usd_foil': '0.21', 'eur': '0.05', 'tix': '0.01'}"
+43,2019-10-04,{U/B}{U/B}{U/B}{U/B},4.0,Sorcery,"Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.18', 'eur': '0.06', 'tix': '0.01'}"
+44,2019-10-04,{2},2.0,Artifact Creature — Wall,"Defender
+{T}: Creatures you control gain haste until end of turn.",common,True,"{'usd': '0.05', 'usd_foil': '0.22', 'eur': '0.06', 'tix': '0.01'}"
+45,2019-10-04,{1}{R},2.0,Artifact — Equipment,"Equipped creature gets +1/+0 and has haste.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,True,"{'usd': '0.03', 'usd_foil': '0.13', 'eur': '0.05', 'tix': '0.01'}"
+46,2019-10-04,{1}{G} // {G},2.0,Creature — Human Peasant // Sorcery — Adventure,,common,True,"{'usd': '0.03', 'usd_foil': '0.07', 'eur': '0.04', 'tix': '0.01'}"
+47,2019-10-04,{X}{W}{U},2.0,Sorcery,"Return up to X target artifact and/or non-Aura enchantment cards each with converted mana cost X or less from your graveyard to the battlefield. If X is 6 or more, those permanents are 4/4 creatures in addition to their other types.",rare,True,"{'usd': '0.44', 'usd_foil': '0.60', 'eur': '0.28', 'tix': '0.05'}"
+48,2019-10-04,{W},1.0,Enchantment,Each player can't cast more than one noncreature spell each turn.,uncommon,True,"{'usd': '0.31', 'usd_foil': '1.13', 'eur': '0.21', 'tix': '0.01'}"
+49,2019-10-04,{B/G}{B/G}{B/G}{B/G},4.0,Creature — Skeleton Knight,"Haste
+When you gain life for the first time each turn, return Deathless Knight from your graveyard to your hand.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.23', 'eur': '0.07', 'tix': '0.01'}"
+50,2019-10-04,{1}{U}{U},3.0,Instant,Counter target spell. Its controller puts the top three cards of their library into their graveyard.,common,True,"{'usd': '0.11', 'usd_foil': '0.18', 'eur': '0.06', 'tix': '0.01'}"
+51,2019-10-04,{2}{W}{B},4.0,Enchantment,"At the beginning of each player's upkeep, that player sacrifices a nonland, nontoken permanent. If that player can't, they discard a card, they lose 2 life, you draw a card, you gain 2 life, you create a 2/2 white Knight creature token with vigilance, then you sacrifice Doom Foretold.",rare,True,"{'usd': '0.33', 'usd_foil': '0.64', 'eur': '0.23', 'tix': '0.02'}"
+52,2019-10-04,{U}{B},2.0,Instant,"Choose one —
+• Counter target spell with converted mana cost less than or equal to the number of cards in its controller's graveyard.
+• Destroy target creature with converted mana cost less than or equal to the number of cards in its controller's graveyard.",uncommon,True,"{'usd': '0.95', 'usd_foil': '4.19', 'eur': '0.84', 'tix': '0.01'}"
+53,2019-10-04,,0.0,Land — Mountain,"({T}: Add {R}.)
+Dwarven Mine enters the battlefield tapped unless you control three or more other Mountains.
+When Dwarven Mine enters the battlefield untapped, create a 1/1 red Dwarf creature token.",common,True,"{'usd': '0.04', 'usd_foil': '0.17', 'eur': '0.06', 'tix': '0.01'}"
+54,2019-10-04,{G},1.0,Creature — Human Peasant,"Whenever you cast a creature spell that has an Adventure, draw a card. (It doesn't need to have gone on the adventure first.)",uncommon,True,"{'usd': '0.13', 'usd_foil': '0.71', 'eur': '0.12', 'tix': '0.01'}"
+55,2019-10-04,{B/R}{B/R}{B/R}{B/R},4.0,Creature — Human Knight,"Menace (This creature can't be blocked except by two or more creatures.)
+{B/R}{B/R}{B/R}, Sacrifice another creature or an artifact: Elite Headhunter deals 2 damage to target creature or planeswalker.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.15', 'eur': '0.04', 'tix': '0.01'}"
+56,2019-10-04,{4}{R}{R},6.0,Legendary Artifact — Equipment,"Flash
+This spell costs {1} less to cast for each attacking creature you control.
+When Embercleave enters the battlefield, attach it to target creature you control.
+Equipped creature gets +1/+1 and has double strike and trample.
+Equip {3}",mythic,True,"{'usd': '11.27', 'usd_foil': '11.54', 'eur': '7.46', 'tix': '6.40'}"
+57,2019-10-04,{3}{R},4.0,Creature — Human Knight,"Haste
+Adamant — If at least three red mana was spent to cast this spell, Embereth Paladin enters the battlefield with a +1/+1 counter on it.",common,True,"{'usd': '0.03', 'usd_foil': '0.08', 'eur': '0.05', 'tix': '0.01'}"
+58,2019-10-04,{1}{R} // {R},2.0,Creature — Human Knight // Sorcery — Adventure,,uncommon,True,"{'usd': '0.06', 'usd_foil': '0.17', 'eur': '0.09', 'tix': '0.01'}"
+59,2019-10-04,{3}{R},4.0,Creature — Human Knight,"As long as it's your turn, Embereth Skyblazer has flying.
+Whenever Embereth Skyblazer attacks, you may pay {2}{R}. If you do, creatures you control get +X/+0 until end of turn, where X is the number of opponents you have.",rare,False,"{'usd': '0.32', 'usd_foil': None, 'eur': None, 'tix': None}"
+60,2019-10-04,{2}{U},3.0,Legendary Creature — Merfolk Wizard,"This spell costs {1} less to cast for each artifact you control.
+When Emry, Lurker of the Loch enters the battlefield, put the top four cards of your library into your graveyard.
+{T}: Choose target artifact card in your graveyard. You may cast that card this turn. (You still pay its costs. Timing rules still apply.)",rare,True,"{'usd': '2.39', 'usd_foil': '4.05', 'eur': '2.19', 'tix': '0.40'}"
+61,2019-10-04,{5},5.0,Artifact — Vehicle,"When Enchanted Carriage enters the battlefield, create two 1/1 white Mouse creature tokens.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.14', 'eur': '0.06', 'tix': '0.01'}"
+62,2019-10-04,{1}{B},2.0,Sorcery,Exile target creature with converted mana cost 3 or greater.,uncommon,True,"{'usd': '0.12', 'usd_foil': '0.29', 'eur': '0.07', 'tix': '0.01'}"
+63,2019-10-04,{3}{R}{G},5.0,Sorcery,"Exile the top five cards of your library. You may play cards exiled this way until the end of your next turn.
+You may play an additional land this turn.",rare,True,"{'usd': '0.17', 'usd_foil': '0.30', 'eur': '0.17', 'tix': '0.02'}"
+64,2019-10-04,{B},1.0,Creature — Faerie,"Flying
+Whenever Eye Collector deals combat damage to a player, each player puts the top card of their library into their graveyard.",common,True,"{'usd': '0.02', 'usd_foil': '0.09', 'eur': '0.05', 'tix': '0.01'}"
+65,2019-10-04,,0.0,Land,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Then if you control four or more lands, untap that land.",rare,True,"{'usd': '15.92', 'usd_foil': '16.96', 'eur': '12.87', 'tix': '4.19'}"
+66,2019-10-04,{1}{G}{W},3.0,Creature — Treefolk Druid,"Vigilance
+Faeburrow Elder gets +1/+1 for each color among permanents you control.
+{T}: For each color among permanents you control, add one mana of that color.",rare,True,"{'usd': '0.66', 'usd_foil': '1.82', 'eur': '0.46', 'tix': '0.02'}"
+67,2019-10-04,{1}{U} // {3}{U},2.0,Creature — Faerie Wizard // Sorcery — Adventure,,rare,True,"{'usd': '0.77', 'usd_foil': '1.15', 'eur': '0.59', 'tix': '0.19'}"
+68,2019-10-04,{4}{U},5.0,Creature — Faerie,"Flying
+{3}{U}: Create a 1/1 blue Faerie creature token with flying. Draw a card.",rare,False,"{'usd': '1.49', 'usd_foil': None, 'eur': None, 'tix': None}"
+69,2019-10-04,{W} // {1}{W},1.0,Creature — Faerie // Sorcery — Adventure,,common,True,"{'usd': '0.03', 'usd_foil': '0.13', 'eur': '0.02', 'tix': '0.01'}"
+70,2019-10-04,{1}{U},2.0,Creature — Faerie Rogue,"Flash
+Flying
+Whenever you draw your second card each turn, put a +1/+1 counter on Faerie Vandal.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.19', 'eur': '0.07', 'tix': '0.01'}"
+71,2019-10-04,{2}{G}{G}{G}{G},6.0,Creature — Troll Noble,"Vigilance, trample
+When Feasting Troll King enters the battlefield, if you cast it from your hand, create three Food tokens. (They're artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+Sacrifice three Foods: Return Feasting Troll King from your graveyard to the battlefield. Activate this ability only during your turn.",rare,True,"{'usd': '0.25', 'usd_foil': '0.47', 'eur': '0.22', 'tix': '0.02'}"
+72,2019-10-04,{1}{G},2.0,Instant,"Fell the Pheasant deals 5 damage to target creature with flying. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,True,"{'usd': '0.03', 'usd_foil': '0.08', 'eur': '0.12', 'tix': '0.01'}"
+73,2019-10-04,{2}{R},3.0,Enchantment,Attacking non-Human creatures you control get +1/+0 and have trample.,uncommon,True,"{'usd': '0.06', 'usd_foil': '0.11', 'eur': '0.06', 'tix': '0.01'}"
+74,2019-10-04,{R},1.0,Creature — Human Knight,"First strike, haste
+Whenever Fervent Champion attacks, another target attacking Knight you control gets +1/+0 until end of turn.
+Equip abilities you activate that target Fervent Champion cost {3} less to activate.",rare,True,"{'usd': '1.01', 'usd_foil': '1.51', 'eur': '1.09', 'tix': '0.08'}"
+75,2019-10-04,{4}{B},5.0,Instant,"Target creature gets -X/-X until end of turn, where X is the number of cards in your graveyard.",common,True,"{'usd': '0.02', 'usd_foil': '0.06', 'eur': '0.04', 'tix': '0.01'}"
+76,2019-10-04,{2}{G}{G},4.0,Creature — Wolf,"Trample
+When Fierce Witchstalker enters the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,True,"{'usd': '0.03', 'usd_foil': '0.10', 'eur': '0.04', 'tix': '0.01'}"
+77,2019-10-04,{R/W}{R/W}{R/W}{R/W},4.0,Creature — Human Knight,"Double strike
+{R/W}{R/W}{R/W}{R/W}: Fireborn Knight gets +1/+1 until end of turn.",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.17', 'eur': '0.02', 'tix': '0.01'}"
+78,2019-10-04,{3}{R},4.0,Enchantment,"You can cast spells only during your turn and you can cast no more than two spells each turn.
+You may cast spells with converted mana cost less than or equal to the number of lands you control without paying their mana costs.",rare,True,"{'usd': '1.57', 'usd_foil': '2.96', 'eur': '1.36', 'tix': '0.11'}"
+79,2019-10-04,{G} // {5}{G}{G},1.0,Creature — Human Berserker // Sorcery — Adventure,,uncommon,True,"{'usd': '0.05', 'usd_foil': '0.16', 'eur': '0.06', 'tix': '0.01'}"
+80,2019-10-04,{1}{R},2.0,Instant,"As an additional cost to cast this spell, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature's power to any target.",common,True,"{'usd': '0.06', 'usd_foil': '0.09', 'eur': '0.07', 'tix': '0.01'}"
+81,2019-10-04,{1}{W},2.0,Creature — Fox,"As long as you control an artifact or enchantment, Flutterfox has flying.",common,True,"{'usd': '0.03', 'usd_foil': '0.07', 'eur': '0.05', 'tix': '0.01'}"
+82,2019-10-04,{1}{U},2.0,Artifact,"Players have no maximum hand size.
+{X}{X}, {T}: Each player draws X cards.
+{2}{U}, {T}: Each opponent puts a number of cards equal to the number of cards in their hand from the top of their library into their graveyard.",rare,True,"{'usd': '0.22', 'usd_foil': '0.31', 'eur': '0.14', 'tix': '0.01'}"
+83,2019-10-04,{2}{B},3.0,Sorcery,"Target player draws two cards and loses 2 life.
+Adamant — If at least three black mana was spent to cast this spell, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,True,"{'usd': '0.03', 'usd_foil': '0.09', 'eur': '0.03', 'tix': '0.01'}"
+84,2019-10-04,,0.0,Basic Land — Forest,({T}: Add {G}.),common,True,"{'usd': '0.30', 'usd_foil': '0.38', 'eur': '0.02', 'tix': '0.01'}"
+85,2019-10-04,{1}{B},2.0,Sorcery,"Put any number of target creature cards from your graveyard on top of your library.
+Draw a card.",common,True,"{'usd': '0.03', 'usd_foil': '0.18', 'eur': '0.06', 'tix': '0.01'}"
+86,2019-10-04,{2}{W},3.0,Enchantment,"Creatures you control get +0/+1.
+When Fortifying Provisions enters the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,True,"{'usd': '0.02', 'usd_foil': '0.07', 'eur': '0.03', 'tix': '0.01'}"
+87,2019-10-04,{B} // {2}{B},1.0,Creature — Zombie Knight // Instant — Adventure,,uncommon,True,"{'usd': '0.15', 'usd_foil': '0.28', 'eur': '0.09', 'tix': '0.01'}"
+88,2019-10-04,{1}{U},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature loses all abilities and is a blue Frog creature with base power and toughness 1/1. (It loses all other card types and creature types.)",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.21', 'eur': '0.08', 'tix': '0.01'}"
+89,2019-10-04,{X}{U}{U}{U},3.0,Legendary Creature — Human Wizard,"When Gadwick, the Wizened enters the battlefield, draw X cards.
+Whenever you cast a blue spell, tap target nonland permanent an opponent controls.",rare,True,"{'usd': '1.10', 'usd_foil': '1.38', 'eur': '0.39', 'tix': '0.15'}"
+90,2019-10-04,{3}{G} // {1}{G},4.0,Creature — Human Warrior // Instant — Adventure,,common,True,"{'usd': '0.02', 'usd_foil': '0.06', 'eur': '0.06', 'tix': '0.01'}"
+91,2019-10-04,{4}{G},5.0,Creature — Giant Knight,"Adamant — If at least three green mana was spent to cast this spell, Garenbrig Paladin enters the battlefield with a +1/+1 counter on it.
+Garenbrig Paladin can't be blocked by creatures with power 2 or less.",common,True,"{'usd': '0.03', 'usd_foil': '0.06', 'eur': '0.02', 'tix': '0.01'}"
+92,2019-10-04,{1}{G},2.0,Creature — Human Soldier,"Whenever you cast a creature spell that has an Adventure, Garenbrig Squire gets +1/+1 until end of turn. (It doesn't need to have gone on the adventure first.)",common,True,"{'usd': '0.02', 'usd_foil': '0.04', 'eur': '0.02', 'tix': '0.01'}"
+93,2019-10-04,{2}{W},3.0,Creature — Griffin,"Flying
+Whenever Garrison Griffin attacks, target Knight you control gains flying until end of turn.",common,False,"{'usd': '0.07', 'usd_foil': None, 'eur': None, 'tix': None}"
+94,2019-10-04,{4}{B}{G},6.0,Legendary Planeswalker — Garruk,"0: Create two 2/2 black and green Wolf creature tokens with ""When this creature dies, put a loyalty counter on each Garruk you control.""
+−3: Destroy target creature. Draw a card.
+−6: You get an emblem with ""Creatures you control get +3/+3 and have trample.""",mythic,True,"{'usd': '3.79', 'usd_foil': '6.39', 'eur': '3.95', 'tix': '1.04'}"
+95,2019-10-04,{W} // {2}{W},1.0,Creature — Human Peasant // Instant — Adventure,,rare,True,"{'usd': '0.22', 'usd_foil': '0.30', 'eur': '0.17', 'tix': '0.01'}"
+96,2019-10-04,{2}{G},3.0,Sorcery,"You may sacrifice two Foods. If you do, create a 7/7 green Giant creature token. Otherwise, create three Food tokens. (They're artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.14', 'eur': '0.06', 'tix': '0.01'}"
+97,2019-10-04,{1}{B},2.0,Artifact — Equipment,"Equipped creature gets +2/+1.
+Whenever equipped creature deals combat damage to a creature, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,True,"{'usd': '0.04', 'usd_foil': '0.09', 'eur': '0.06', 'tix': '0.01'}"
+98,2019-10-04,{G},1.0,Creature — Bird,"Flying
+When Gilded Goose enters the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+{1}{G}, {T}: Create a Food token.
+{T}, Sacrifice a Food: Add one mana of any color.",rare,True,"{'usd': '5.43', 'usd_foil': '6.37', 'eur': '4.56', 'tix': '1.40'}"
+99,2019-10-04,,0.0,Land — Forest,"({T}: Add {G}.)
+Gingerbread Cabin enters the battlefield tapped unless you control three or more other Forests.
+When Gingerbread Cabin enters the battlefield untapped, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,True,"{'usd': '0.06', 'usd_foil': '0.17', 'eur': '0.05', 'tix': '0.01'}"
+100,2019-10-04,{1},1.0,Artifact Creature — Food Golem,"Haste
+{1}: Gingerbrute can't be blocked this turn except by creatures with haste.
+{2}, {T}, Sacrifice Gingerbrute: You gain 3 life.",common,True,"{'usd': '0.07', 'usd_foil': '0.95', 'eur': '0.08', 'tix': '0.01'}"
+101,2019-10-04,{1}{W},2.0,Artifact,"When Glass Casket enters the battlefield, exile target creature an opponent controls with converted mana cost 3 or less until Glass Casket leaves the battlefield.",uncommon,True,"{'usd': '0.09', 'usd_foil': '0.21', 'eur': '0.07', 'tix': '0.01'}"
+102,2019-10-04,{2}{B}{G},4.0,Creature — Troll,"Trample
+When Gluttonous Troll enters the battlefield, create a number of Food tokens equal to the number of opponents you have. (Food tokens are artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+{1}{G}, Sacrifice another nonland permanent: Gluttonous Troll gets +2/+2 until end of turn.",rare,False,"{'usd': '0.35', 'usd_foil': None, 'eur': None, 'tix': None}"
+103,2019-10-04,{2},2.0,Artifact — Food,"When Golden Egg enters the battlefield, draw a card.
+{1}, {T}, Sacrifice Golden Egg: Add one mana of any color.
+{2}, {T}, Sacrifice Golden Egg: You gain 3 life.",common,True,"{'usd': '0.05', 'usd_foil': '0.49', 'eur': '0.07', 'tix': '0.01'}"
+104,2019-10-04,{1}{R}{G},3.0,Legendary Creature — Goblin Shaman,Each other non-Human creature you control enters the battlefield with an additional +1/+1 counter on it.,uncommon,True,"{'usd': '0.08', 'usd_foil': '0.77', 'eur': '0.08', 'tix': '0.01'}"
+105,2019-10-04,{2}{W},3.0,Enchantment,"When Happily Ever After enters the battlefield, each player gains 5 life and draws a card.
+At the beginning of your upkeep, if there are five colors among permanents you control, there are six or more card types among permanents you control and/or cards in your graveyard, and your life total is greater than or equal to your starting life total, you win the game.",rare,True,"{'usd': '0.14', 'usd_foil': '0.24', 'eur': '0.09', 'tix': '0.01'}"
+106,2019-10-04,{4}{W}{W},6.0,Creature — Archon,"Flying
+Non-Archon creatures have base power and toughness 3/3.
+When Harmonious Archon enters the battlefield, create two 1/1 white Human creature tokens.",mythic,True,"{'usd': '0.46', 'usd_foil': '1.05', 'eur': '0.45', 'tix': '0.22'}"
+107,2019-10-04,{3},3.0,Artifact Creature — Golem,"Adamant — If at least three mana of the same color was spent to cast this spell, Henge Walker enters the battlefield with a +1/+1 counter on it.",common,True,"{'usd': '0.02', 'usd_foil': '0.06', 'eur': '0.03', 'tix': '0.01'}"
+108,2019-10-04,{3},3.0,Artifact,"As Heraldic Banner enters the battlefield, choose a color.
+Creatures you control of the chosen color get +1/+0.
+{T}: Add one mana of the chosen color.",uncommon,True,"{'usd': '0.18', 'usd_foil': '0.55', 'eur': '0.11', 'tix': '0.01'}"
+109,2019-10-04,{1}{W},2.0,Creature — Faerie,"Flying, lifelink
+Creatures entering the battlefield or dying don't cause abilities to trigger.",rare,True,"{'usd': '0.59', 'usd_foil': '1.02', 'eur': '0.43', 'tix': '0.05'}"
+110,2019-10-04,{U}{U} // {2}{U},2.0,Creature — Faerie // Instant — Adventure,,uncommon,True,"{'usd': '0.08', 'usd_foil': '0.15', 'eur': '0.11', 'tix': '0.01'}"
+111,2019-10-04,,0.0,Land — Plains,"({T}: Add {W}.)
+Idyllic Grange enters the battlefield tapped unless you control three or more other Plains.
+When Idyllic Grange enters the battlefield untapped, put a +1/+1 counter on target creature you control.",common,True,"{'usd': '0.04', 'usd_foil': '0.13', 'eur': '0.05', 'tix': '0.01'}"
+112,2019-10-04,{U}{R},2.0,Enchantment,"Whenever you draw your second card each turn, create a 1/1 blue Faerie creature token with flying.
+{4}{U}{R}: Draw a card, then discard a card.",uncommon,True,"{'usd': '0.08', 'usd_foil': '0.30', 'eur': '0.07', 'tix': '0.01'}"
+113,2019-10-04,{1},1.0,Artifact Creature — Construct,"When Inquisitive Puppet enters the battlefield, scry 1.
+Exile Inquisitive Puppet: Create a 1/1 white Human creature token.",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.14', 'eur': '0.08', 'tix': '0.01'}"
+114,2019-10-04,{1}{G},2.0,Instant,"You may sacrifice a Food. If you do, target creature gets +5/+5 until end of turn. Otherwise, that creature gets +3/+3 until end of turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.05', 'eur': '0.04', 'tix': '0.01'}"
+115,2019-10-04,{R}{W},2.0,Creature — Human Knight,Other Knights you control get +1/+1.,uncommon,True,"{'usd': '0.09', 'usd_foil': '0.32', 'eur': '0.09', 'tix': '0.01'}"
+116,2019-10-04,{5}{U}{U},7.0,Instant,"This spell costs {3} less to cast if an opponent has seven or more cards in their graveyard.
+Draw four cards.",uncommon,True,"{'usd': '0.19', 'usd_foil': '0.78', 'eur': '0.12', 'tix': '0.01'}"
+117,2019-10-04,{1}{R}{R}{R},4.0,Sorcery,Add seven {R}. You can cast only one more spell this turn.,rare,True,"{'usd': '0.20', 'usd_foil': '0.35', 'eur': '0.15', 'tix': '0.01'}"
+118,2019-10-04,{2}{R},3.0,Creature — Human Wizard,"Whenever you draw your second card each turn, Irencrag Pyromancer deals 3 damage to any target.",rare,True,"{'usd': '0.30', 'usd_foil': '0.59', 'eur': '0.40', 'tix': '0.02'}"
+119,2019-10-04,,0.0,Basic Land — Island,({T}: Add {U}.),common,True,"{'usd': '0.44', 'usd_foil': '0.68', 'eur': '0.07', 'tix': '0.01'}"
+120,2019-10-04,{1}{R},2.0,Sorcery,Choose target creature you control and target creature you don't control. The creature you control gets +2/+1 until end of turn if it's a Knight. Then those creatures fight each other. (Each deals damage equal to its power to the other.),uncommon,True,"{'usd': '0.03', 'usd_foil': '0.11', 'eur': '0.02', 'tix': '0.01'}"
+121,2019-10-04,{2},2.0,Artifact Creature — Scarecrow Knight,{3}: Jousting Dummy gets +1/+0 until end of turn.,common,True,"{'usd': '0.02', 'usd_foil': '0.13', 'eur': '0.03', 'tix': '0.01'}"
+122,2019-10-04,{3}{G}{G},5.0,Creature — Cat,"Whenever one or more non-Human creatures you control deal combat damage to a player, draw a card.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.22', 'eur': '0.08', 'tix': '0.01'}"
+123,2019-10-04,{1}{G},2.0,Enchantment — Aura,"Enchant creature
+When Kenrith's Transformation enters the battlefield, draw a card.
+Enchanted creature loses all abilities and is a green Elk creature with base power and toughness 3/3. (It loses all other card types and creature types.)",uncommon,True,"{'usd': '0.08', 'usd_foil': '0.33', 'eur': '0.10', 'tix': '0.01'}"
+124,2019-10-04,{4}{W},5.0,Legendary Creature — Human Noble,"{R}: All creatures gain trample and haste until end of turn.
+{1}{G}: Put a +1/+1 counter on target creature.
+{2}{W}: Target player gains 5 life.
+{3}{U}: Target player draws a card.
+{4}{B}: Put target creature card from a graveyard onto the battlefield under its owner's control.",mythic,False,"{'usd': None, 'usd_foil': '5.27', 'eur': None, 'tix': None}"
+125,2019-10-04,{2}{W},3.0,Creature — Human Knight,,common,True,"{'usd': '0.01', 'usd_foil': '0.09', 'eur': '0.02', 'tix': '0.01'}"
+126,2019-10-04,{1}{W}{B},3.0,Enchantment,"Whenever a Knight you control attacks, each opponent loses 1 life and you gain 1 life.
+{6}{W}{B}, Sacrifice Knights' Charge: Return all Knight creature cards from your graveyard to the battlefield.",rare,False,"{'usd': '2.51', 'usd_foil': None, 'eur': None, 'tix': None}"
+127,2019-10-04,{2}{B}{R}{G},5.0,Legendary Creature — Dragon Noble,"Flying
+Whenever Korvold, Fae-Cursed King enters the battlefield or attacks, sacrifice another permanent.
+Whenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",mythic,False,"{'usd': '16.96', 'usd_foil': '8.74', 'eur': None, 'tix': None}"
+128,2019-10-04,{B},1.0,Instant,Target creature gets +2/+1 and gains deathtouch until end of turn.,common,True,"{'usd': '0.04', 'usd_foil': '0.07', 'eur': '0.03', 'tix': '0.01'}"
+129,2019-10-04,{W}{W}{W},3.0,Legendary Creature — Human Noble,"Vigilance
+Whenever a white creature you control attacks, you gain 1 life.",rare,True,"{'usd': '0.19', 'usd_foil': '0.35', 'eur': '0.15', 'tix': '0.01'}"
+130,2019-10-04,{U/R}{U/R}{U/R}{U/R},4.0,Creature — Dragon,"Flying
+Whenever Loch Dragon enters the battlefield or attacks, you may discard a card. If you do, draw a card.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.15', 'eur': '0.05', 'tix': '0.01'}"
+131,2019-10-04,{4}{U}{B},6.0,Creature — Serpent,"Flash
+{U}, Sacrifice an Island: Lochmere Serpent can't be blocked this turn.
+{B}, Sacrifice a Swamp: You gain 1 life and draw a card.
+{U}{B}: Exile five target cards from an opponent's graveyard. Return Lochmere Serpent from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.",rare,True,"{'usd': '0.13', 'usd_foil': '0.33', 'eur': '0.17', 'tix': '0.01'}"
+132,2019-10-04,{1},1.0,Artifact Creature — Gargoyle,{4}: Locthwain Gargoyle gets +2/+0 and gains flying until end of turn.,common,True,"{'usd': '0.02', 'usd_foil': '0.07', 'eur': '0.06', 'tix': '0.01'}"
+133,2019-10-04,{3}{B},4.0,Creature — Human Knight,"Menace (This creature can't be blocked except by two or more creatures.)
+Adamant — If at least three black mana was spent to cast this spell, Locthwain Paladin enters the battlefield with a +1/+1 counter on it.",common,True,"{'usd': '0.03', 'usd_foil': '0.07', 'eur': '0.02', 'tix': '0.01'}"
+134,2019-10-04,{4}{W} // {2}{W},5.0,Creature — Unicorn // Sorcery — Adventure,,common,True,"{'usd': '0.02', 'usd_foil': '0.07', 'eur': '0.05', 'tix': '0.01'}"
+135,2019-10-04,{1}{B}{B},3.0,Creature — Spirit Knight,"When Lost Legion enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",common,True,"{'usd': '0.02', 'usd_foil': '0.07', 'eur': '0.02', 'tix': '0.01'}"
+136,2019-10-04,{2}{G} // {G},3.0,Creature — Beast Noble // Sorcery — Adventure,,rare,True,"{'usd': '1.40', 'usd_foil': '1.30', 'eur': '0.63', 'tix': '0.87'}"
+137,2019-10-04,{2},2.0,Artifact,"Whenever you cast an Adventure instant or sorcery spell, copy it. You may choose new targets for the copy.",uncommon,True,"{'usd': '0.11', 'usd_foil': '0.73', 'eur': '0.10', 'tix': '0.01'}"
+138,2019-10-04,{2}{W},3.0,Artifact — Equipment,"Equipped creature gets +1/+1 for each charge counter on Mace of the Valiant and has vigilance.
+Whenever a creature enters the battlefield under your control, put a charge counter on Mace of the Valiant.
+Equip {3}",rare,False,"{'usd': '0.38', 'usd_foil': None, 'eur': None, 'tix': None}"
+139,2019-10-04,{3}{R},4.0,Creature — Goblin,"Whenever you draw your second card each turn, create two 1/1 black Rat creature tokens.",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.10', 'eur': '0.06', 'tix': '0.01'}"
+140,2019-10-04,{1}{B},2.0,Creature — Human Noble,"{2}, Sacrifice an artifact or another creature: Put a +1/+1 counter on Malevolent Noble.",common,True,"{'usd': '0.02', 'usd_foil': '0.06', 'eur': '0.01', 'tix': '0.01'}"
+141,2019-10-04,{U},1.0,Artifact — Equipment,"Equipped creature gets +1/+2.
+Whenever you draw your second card each turn, attach Mantle of Tides to target creature you control.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,True,"{'usd': '0.03', 'usd_foil': '0.11', 'eur': '0.07', 'tix': '0.01'}"
+142,2019-10-04,{G}{U},2.0,Creature — Faerie,"Flying
+{T}: Add {G} or {U}.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.21', 'eur': '0.07', 'tix': '0.01'}"
+143,2019-10-04,{1}{G},2.0,Creature — Elf Knight,Sacrifice a Food: Target creature blocks Maraleaf Rider this turn if able.,common,True,"{'usd': '0.02', 'usd_foil': '0.08', 'eur': '0.03', 'tix': '0.01'}"
+144,2019-10-04,{2}{B},3.0,Sorcery,Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. You may put a card that has an Adventure that player owns from exile into that player's graveyard.,common,True,"{'usd': '0.02', 'usd_foil': '0.05', 'eur': '0.02', 'tix': '0.01'}"
+145,2019-10-04,{2}{R} // {R},3.0,Creature — Human Peasant // Instant — Adventure,,common,True,"{'usd': '0.08', 'usd_foil': '0.22', 'eur': '0.08', 'tix': '0.01'}"
+146,2019-10-04,{U} // {U},1.0,Creature — Merfolk Wizard // Sorcery — Adventure,,common,True,"{'usd': '0.07', 'usd_foil': '0.28', 'eur': '0.08', 'tix': '0.01'}"
+147,2019-10-04,{2}{U},3.0,Artifact,"{T}: Add {U}.
+{2}{U}: Put an hour counter on Midnight Clock.
+At the beginning of each upkeep, put an hour counter on Midnight Clock.
+When the twelfth hour counter is put on Midnight Clock, shuffle your hand and graveyard into your library, then draw seven cards. Exile Midnight Clock.",rare,True,"{'usd': '0.29', 'usd_foil': '0.48', 'eur': '0.16', 'tix': '0.01'}"
+148,2019-10-04,{1}{U}{U},3.0,Enchantment,You may have Mirrormade enter the battlefield as a copy of any artifact or enchantment on the battlefield.,rare,True,"{'usd': '1.24', 'usd_foil': '2.15', 'eur': '0.37', 'tix': '0.02'}"
+149,2019-10-04,{3}{U},4.0,Creature — Turtle,"Whenever Mistford River Turtle attacks, another target attacking non-Human creature can't be blocked this turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.09', 'eur': '0.05', 'tix': '0.01'}"
+150,2019-10-04,{5}{U},6.0,Creature — Merfolk Rogue,"When Moonlit Scavengers enters the battlefield, if you control an artifact or enchantment, return target creature an opponent controls to its owner's hand.",common,True,"{'usd': '0.02', 'usd_foil': '0.05', 'eur': '0.02', 'tix': '0.01'}"
+151,2019-10-04,,0.0,Basic Land — Mountain,({T}: Add {R}.),common,True,"{'usd': '0.19', 'usd_foil': '0.32', 'eur': '0.07', 'tix': '0.01'}"
+152,2019-10-04,{1}{B}{B} // {1}{B}{B},3.0,Creature — Zombie Knight // Instant — Adventure,,rare,True,"{'usd': '5.72', 'usd_foil': '4.84', 'eur': '5.15', 'tix': '3.17'}"
+153,2019-10-04,{2}{W},3.0,Creature — Faerie,"Flying
+Each creature you control that has an Adventure enters the battlefield with an additional +1/+1 counter on it. (It doesn't need to have gone on the adventure first.)",uncommon,True,"{'usd': '0.02', 'usd_foil': '0.12', 'eur': '0.05', 'tix': '0.01'}"
+154,2019-10-04,{2}{U},3.0,Instant,"This spell costs {2} less to cast if it targets a blue spell.
+Counter target spell unless its controller pays {3}.",uncommon,True,"{'usd': '2.39', 'usd_foil': '5.84', 'eur': '0.71', 'tix': '0.20'}"
+155,2019-10-04,,0.0,Land — Island,"({T}: Add {U}.)
+Mystic Sanctuary enters the battlefield tapped unless you control three or more other Islands.
+When Mystic Sanctuary enters the battlefield untapped, you may put target instant or sorcery card from your graveyard on top of your library.",common,True,"{'usd': '0.31', 'usd_foil': '4.52', 'eur': '0.20', 'tix': '0.02'}"
+156,2019-10-04,{3}{G},4.0,Creature — Elf Warrior,"This spell costs {2} less to cast if an opponent controls a green permanent.
+Deathtouch
+Whenever Oakhame Adversary deals combat damage to a player, draw a card.",uncommon,True,"{'usd': '0.08', 'usd_foil': '0.57', 'eur': '0.06', 'tix': '0.01'}"
+157,2019-10-04,{G/W}{G/W}{G/W}{G/W} // {G/W}{G/W}{G/W}{G/W},4.0,Creature — Elf Knight // Sorcery — Adventure,,uncommon,True,"{'usd': '0.03', 'usd_foil': '0.12', 'eur': '0.05', 'tix': '0.01'}"
+158,2019-10-04,{1}{B}{B},3.0,Creature — Human Knight,"Oathsworn Knight enters the battlefield with four +1/+1 counters on it.
+Oathsworn Knight attacks each combat if able.
+If damage would be dealt to Oathsworn Knight while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from it.",rare,True,"{'usd': '0.17', 'usd_foil': '0.33', 'eur': '0.11', 'tix': '0.01'}"
+159,2019-10-04,{3}{R},4.0,Creature — Ogre Knight,"Whenever Ogre Errant attacks, another target attacking Knight gains menace until end of turn. (It can't be blocked except by two or more creatures.)",common,True,"{'usd': '0.01', 'usd_foil': '0.05', 'eur': '0.02', 'tix': '0.01'}"
+160,2019-10-04,{2}{U},3.0,Creature — Faerie,Flying,common,False,"{'usd': '0.11', 'usd_foil': None, 'eur': None, 'tix': None}"
+161,2019-10-04,{3}{G}{U},5.0,Instant,"Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named Oko, the Trickster, reveal it, and put it into your hand. If you search your library this way, shuffle it.",rare,False,"{'usd': '0.20', 'usd_foil': None, 'eur': None, 'tix': None}"
+162,2019-10-04,{4}{G}{U},6.0,Legendary Planeswalker — Oko,"+1: Put two +1/+1 counters on up to one target creature you control.
+0: Until end of turn, Oko, the Trickster becomes a copy of target creature you control. Prevent all damage that would be dealt to him this turn.
+−7: Until end of turn, each creature you control has base power and toughness 10/10 and gains trample.",mythic,False,"{'usd': '3.09', 'usd_foil': '1.82', 'eur': None, 'tix': None}"
+163,2019-10-04,{3}{G},4.0,Instant,"Return target card from your graveyard to your hand. Put up to one other target card from your graveyard on top of your library. Exile Once and Future.
+Adamant — If at least three green mana was spent to cast this spell, instead return those cards to your hand and exile Once and Future.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.24', 'eur': '0.07', 'tix': '0.01'}"
+164,2019-10-04,{2}{R}{R},4.0,Creature — Dragon,"Flying
+When Opportunistic Dragon enters the battlefield, choose target Human or artifact an opponent controls. For as long as Opportunistic Dragon remains on the battlefield, gain control of that permanent, it loses all abilities, and it can't attack or block.",rare,True,"{'usd': '0.16', 'usd_foil': '0.30', 'eur': '0.11', 'tix': '0.01'}"
+165,2019-10-04,{U},1.0,Instant,"Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Draw a card.",common,True,"{'usd': '0.12', 'usd_foil': '0.76', 'eur': '0.09', 'tix': '0.01'}"
+166,2019-10-04,{1}{B} // {1}{B},2.0,Creature — Human Knight // Sorcery — Adventure,,uncommon,True,"{'usd': '0.14', 'usd_foil': '0.30', 'eur': '0.10', 'tix': '0.01'}"
+167,2019-10-04,{W},1.0,Instant,Outflank deals damage to target attacking or blocking creature equal to the number of creatures you control.,common,True,"{'usd': '0.03', 'usd_foil': '0.09', 'eur': '0.02', 'tix': '0.01'}"
+168,2019-10-04,{1}{R}{W}{W},4.0,Enchantment,"At the beginning of your upkeep, choose one at random. Create a red and white creature token with those characteristics.
+• 3/1 Human Warrior with trample and haste.
+• 2/1 Human Cleric with lifelink and haste.
+• 1/2 Human Rogue with haste and ""When this creature enters the battlefield, it deals 1 damage to any target.""",mythic,True,"{'usd': '0.74', 'usd_foil': '1.48', 'eur': '0.65', 'tix': '0.64'}"
+169,2019-10-04,{3}{G},4.0,Sorcery,"Put a +1/+1 counter on target creature you control, then it fights target creature you don't control. (Each deals damage equal to its power to the other.)
+Adamant — If at least three green mana was spent to cast this spell, the creature you control gains indestructible until end of turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.05', 'eur': '0.03', 'tix': '0.01'}"
+170,2019-10-04,{U},1.0,Creature — Human Wizard,"When Overwhelmed Apprentice enters the battlefield, each opponent puts the top two cards of their library into their graveyard. Then you scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",uncommon,True,"{'usd': '0.13', 'usd_foil': '0.32', 'eur': '0.11', 'tix': '0.01'}"
+171,2019-10-04,{1}{B},2.0,Creature — Human Warlock,"Rats you control have menace.
+{1}{B}, {T}: Create a 1/1 black Rat creature token.
+{2}{B}{B}, {T}, Sacrifice three Rats: Gain control of target creature.",rare,True,"{'usd': '0.29', 'usd_foil': '0.43', 'eur': '0.15', 'tix': '0.01'}"
+172,2019-10-04,,0.0,Basic Land — Plains,({T}: Add {W}.),common,True,"{'usd': '0.12', 'usd_foil': '0.17', 'eur': '0.05', 'tix': '0.01'}"
+173,2019-05-03,{2}{R},3.0,Creature — Zombie Minotaur Warrior,"As long as it's your turn, Ahn-Crop Invader has first strike.
+{1}, Sacrifice another creature: Ahn-Crop Invader gets +2/+0 until end of turn.",common,True,"{'usd': '0.04', 'usd_foil': '0.11', 'eur': '0.06', 'tix': '0.01'}"
+174,2019-05-03,{1}{B},2.0,Sorcery,"Choose one or both —
+• Return target creature card from your graveyard to your hand.
+• Return target planeswalker card from your graveyard to your hand.",common,True,"{'usd': '0.07', 'usd_foil': '0.20', 'eur': '0.05', 'tix': '0.01'}"
+175,2019-05-03,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",uncommon,True,"{'usd': '0.11', 'usd_foil': '0.79', 'eur': '0.07', 'tix': '0.01'}"
+176,2019-05-03,{2}{G}{W},4.0,Legendary Planeswalker — Ajani,"Creatures you control have vigilance.
++1: You gain 3 life.
+−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.",rare,True,"{'usd': '0.75', 'usd_foil': '1.81', 'eur': '0.50', 'tix': '0.09'}"
+177,2019-05-03,{2}{B/R}{B/R},4.0,Legendary Planeswalker — Angrath,"Creatures you control have menace.
+−2: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",uncommon,True,"{'usd': '0.14', 'usd_foil': '0.89', 'eur': '0.08', 'tix': '0.01'}"
+178,2019-05-03,{B}{R},2.0,Sorcery,"Choose one —
+• Target player sacrifices an artifact.
+• Target player sacrifices a creature.
+• Target player sacrifices a planeswalker.",uncommon,True,"{'usd': '0.32', 'usd_foil': '2.21', 'eur': '0.23', 'tix': '0.01'}"
+179,2019-05-03,{G},1.0,Creature — Beast,"Reach
+When Arboreal Grazer enters the battlefield, you may put a land card from your hand onto the battlefield tapped.",common,True,"{'usd': '0.22', 'usd_foil': '4.38', 'eur': '0.10', 'tix': '0.01'}"
+180,2019-05-03,{2}{G},3.0,Creature — Wolf,Arlinn's Wolf can't be blocked by creatures with power 2 or less.,common,True,"{'usd': '0.06', 'usd_foil': '0.14', 'eur': '0.06', 'tix': '0.01'}"
+181,2019-05-03,{4}{G}{G},6.0,Legendary Planeswalker — Arlinn,"Each creature you control that's a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it.
+−2: Create a 2/2 green Wolf creature token.",uncommon,True,"{'usd': '0.11', 'usd_foil': '0.91', 'eur': '0.10', 'tix': '0.01'}"
+182,2019-05-03,{1}{U/B}{U/B},3.0,Legendary Planeswalker — Ashiok,"Spells and abilities your opponents control can't cause their controller to search their library.
+−1: Target player puts the top four cards of their library into their graveyard. Then exile each opponent's graveyard.",uncommon,True,"{'usd': '1.63', 'usd_foil': '10.90', 'eur': '1.06', 'tix': '0.63'}"
+183,2019-05-03,{4}{U},5.0,Creature — Nightmare,{3}{U}: Ashiok's Skulker can't be blocked this turn.,common,True,"{'usd': '0.03', 'usd_foil': '0.12', 'eur': '0.05', 'tix': '0.01'}"
+184,2019-05-03,{1}{U},2.0,Creature — Merfolk Wizard,"When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",uncommon,True,"{'usd': '0.10', 'usd_foil': '0.53', 'eur': '0.11', 'tix': '0.01'}"
+185,2019-05-03,{2}{U},3.0,Creature — Zombie Bird Warrior,"Flying
+When Aven Eternal enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,True,"{'usd': '0.06', 'usd_foil': '0.17', 'eur': '0.04', 'tix': '0.01'}"
+186,2019-05-03,{3}{G}{G},5.0,Instant,Put nine +1/+1 counters on target land you control. It becomes a legendary 0/0 Elemental creature with haste named Vitu-Ghazi. It's still a land.,rare,True,"{'usd': '0.17', 'usd_foil': '0.57', 'eur': '0.13', 'tix': '0.03'}"
+187,2019-05-03,{2}{G},3.0,Instant,Up to two target creatures you control each deal damage equal to their power to another target creature.,common,True,"{'usd': '0.03', 'usd_foil': '0.17', 'eur': '0.04', 'tix': '0.01'}"
+188,2019-05-03,{B},1.0,Creature — Nightmare Hound,"Lifelink, haste",common,True,"{'usd': '0.08', 'usd_foil': '0.42', 'eur': '0.05', 'tix': '0.01'}"
+189,2019-05-03,{1}{W},2.0,Instant,Put a +1/+1 counter on target creature. That creature gains first strike until end of turn. You gain 2 life.,common,True,"{'usd': '0.03', 'usd_foil': '0.16', 'eur': '0.02', 'tix': '0.01'}"
+190,2019-05-03,{3}{G}{U},5.0,Creature — Hydra Mutant,"Trample
+Bioessence Hydra enters the battlefield with a +1/+1 counter on it for each loyalty counter on planeswalkers you control.
+Whenever one or more loyalty counters are put on planeswalkers you control, put that many +1/+1 counters on Bioessence Hydra.",rare,True,"{'usd': '0.19', 'usd_foil': '0.70', 'eur': '0.14', 'tix': '0.03'}"
+191,2019-05-03,,0.0,Land,"Blast Zone enters the battlefield with a charge counter on it.
+{T}: Add {C}.
+{X}{X}, {T}: Put X charge counters on Blast Zone.
+{3}, {T}, Sacrifice Blast Zone: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Blast Zone.",rare,True,"{'usd': '3.04', 'usd_foil': '10.93', 'eur': '3.74', 'tix': '11.60'}"
+192,2019-05-03,{1}{B}{B},3.0,Sorcery,"Up to one target creature gets -2/-2 until end of turn. Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.20', 'eur': '0.08', 'tix': '0.01'}"
+193,2019-05-03,{2}{R},3.0,Instant,"Blindblast deals 1 damage to target creature. That creature can't block this turn.
+Draw a card.",common,True,"{'usd': '0.02', 'usd_foil': '0.12', 'eur': '0.02', 'tix': '0.01'}"
+194,2019-05-03,{3}{G},4.0,Creature — Plant Elemental,"When Bloom Hulk enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,True,"{'usd': '0.05', 'usd_foil': '0.19', 'eur': '0.04', 'tix': '0.01'}"
+195,2019-05-03,{3}{B}{B}{B},6.0,Legendary Artifact,"You may look at the top card of your library any time.
+You may play the top card of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost.
+{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life.",rare,True,"{'usd': '1.68', 'usd_foil': '3.96', 'eur': '0.80', 'tix': '0.22'}"
+196,2019-05-03,{3}{R},4.0,Instant,"This spell costs {3} less to cast if you control a creature with power 4 or greater.
+Change the target of target spell or ability with a single target.",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.50', 'eur': '0.09', 'tix': '0.01'}"
+197,2019-05-03,{4}{W},5.0,Sorcery,Tap all creatures your opponents control. Creatures you control gain lifelink until end of turn.,uncommon,True,"{'usd': '0.05', 'usd_foil': '0.21', 'eur': '0.05', 'tix': '0.01'}"
+198,2019-05-03,{1}{G},2.0,Sorcery,Look at the top three cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. You gain 3 life.,uncommon,True,"{'usd': '0.11', 'usd_foil': '0.79', 'eur': '0.11', 'tix': '0.01'}"
+199,2019-05-03,{3}{U},4.0,Sorcery,Each player puts the top four cards of their library into their graveyard. Return up to two instant and/or sorcery cards from your graveyard to your hand. Exile Bond of Insight.,uncommon,True,"{'usd': '0.07', 'usd_foil': '0.45', 'eur': '0.06', 'tix': '0.01'}"
+200,2019-05-03,{4}{R}{R},6.0,Sorcery,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Bond of Passion deals 2 damage to any other target.,uncommon,True,"{'usd': '0.05', 'usd_foil': '0.13', 'eur': '0.03', 'tix': '0.01'}"
+201,2019-05-03,{4}{B},5.0,Sorcery,Return target creature card from your graveyard to the battlefield. It gains haste until your next turn.,uncommon,True,"{'usd': '0.08', 'usd_foil': '0.73', 'eur': '0.08', 'tix': '0.01'}"
+202,2019-05-03,{5}{W},6.0,Creature — Giant Soldier,"When Bulwark Giant enters the battlefield, you gain 5 life.",common,True,"{'usd': '0.02', 'usd_foil': '0.11', 'eur': '0.02', 'tix': '0.01'}"
+203,2019-05-03,{1}{R},2.0,Creature — Human Wizard,"Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end of turn, then scry 1.",common,True,"{'usd': '0.08', 'usd_foil': '0.44', 'eur': '0.06', 'tix': '0.01'}"
+204,2019-05-03,{1}{U},2.0,Sorcery,"Return target nonland permanent to its owner's hand.
+Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,True,"{'usd': '0.08', 'usd_foil': '0.38', 'eur': '0.06', 'tix': '0.01'}"
+205,2019-05-03,{2}{B}{B}{G}{G},6.0,Sorcery,"Choose one or more —
+• Destroy target artifact.
+• Destroy target creature.
+• Destroy target enchantment.
+• Destroy target land.
+• Destroy target planeswalker.",rare,True,"{'usd': '2.34', 'usd_foil': '3.47', 'eur': '0.59', 'tix': '0.44'}"
+206,2019-05-03,{3}{G},4.0,Creature — Centaur Druid,"When Centaur Nurturer enters the battlefield, you gain 3 life.
+{T}: Add one mana of any color.",common,True,"{'usd': '0.05', 'usd_foil': '0.16', 'eur': '0.01', 'tix': '0.01'}"
+207,2019-05-03,{4}{R},5.0,Creature — Cyclops Warrior,{3}{R}: Target creature can't block this turn.,common,True,"{'usd': '0.02', 'usd_foil': '0.12', 'eur': '0.02', 'tix': '0.01'}"
+208,2019-05-03,{4}{G},5.0,Creature — Troll,Each creature you control with power 4 or greater can't be blocked by more than one creature.,uncommon,True,"{'usd': '0.03', 'usd_foil': '0.14', 'eur': '0.07', 'tix': '0.01'}"
+209,2019-05-03,{2}{R}{R},4.0,Legendary Planeswalker — Chandra,"Whenever one or more loyalty counters are removed from Chandra, Fire Artisan, she deals that much damage to target opponent or planeswalker.
++1: Exile the top card of your library. You may play it this turn.
+−7: Exile the top seven cards of your library. You may play them this turn.",rare,True,"{'usd': '0.51', 'usd_foil': '2.79', 'eur': '0.96', 'tix': '0.11'}"
+210,2019-05-03,{1}{R},2.0,Instant,Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets.,common,True,"{'usd': '0.05', 'usd_foil': '0.15', 'eur': '0.05', 'tix': '0.01'}"
+211,2019-05-03,{1}{R},2.0,Instant,Chandra's Triumph deals 3 damage to target creature or planeswalker an opponent controls. Chandra's Triumph deals 5 damage to that permanent instead if you control a Chandra planeswalker.,uncommon,True,"{'usd': '0.10', 'usd_foil': '0.54', 'eur': '0.07', 'tix': '0.01'}"
+212,2019-05-03,{3}{B},4.0,Creature — Human Knight,Lifelink,common,True,"{'usd': '0.02', 'usd_foil': '0.11', 'eur': '0.01', 'tix': '0.01'}"
+213,2019-05-03,{W},1.0,Creature — Cat,"Lifelink
+When Charmed Stray enters the battlefield, put a +1/+1 counter on each other creature you control named Charmed Stray.",common,True,"{'usd': '0.06', 'usd_foil': '0.44', 'eur': '0.04', 'tix': '0.01'}"
+214,2019-05-03,{4}{B}{B},6.0,Sorcery,Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total converted mana cost of those cards. Put them onto the battlefield under your control.,rare,True,"{'usd': '0.42', 'usd_foil': '2.25', 'eur': '0.42', 'tix': '0.11'}"
+215,2019-05-03,{4}{U}{U},6.0,Instant,"This spell can't be countered.
+Draw two cards, then amass X, where X is the number of cards in your hand. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",rare,True,"{'usd': '0.26', 'usd_foil': '0.48', 'eur': '0.16', 'tix': '0.05'}"
+216,2019-05-03,{1}{U},2.0,Sorcery,"Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Draw a card.",common,True,"{'usd': '0.16', 'usd_foil': '0.76', 'eur': '0.07', 'tix': '0.01'}"
+217,2019-05-03,{2}{G},3.0,Sorcery,"Put a +1/+1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,True,"{'usd': '0.06', 'usd_foil': '0.21', 'eur': '0.05', 'tix': '0.01'}"
+218,2019-05-03,{W}{B},2.0,Creature — Vampire,"Whenever Cruel Celebrant or another creature or planeswalker you control dies, each opponent loses 1 life and you gain 1 life.",uncommon,True,"{'usd': '0.46', 'usd_foil': '3.59', 'eur': '0.16', 'tix': '0.01'}"
+219,2019-05-03,{3}{U},4.0,Instant,"Counter target spell unless its controller pays {2}.
+Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,True,"{'usd': '0.03', 'usd_foil': '0.14', 'eur': '0.02', 'tix': '0.01'}"
+220,2019-05-03,{4}{R},5.0,Creature — Cyclops Wizard,"When Cyclops Electromancer enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of instant and sorcery cards in your graveyard.",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.12', 'eur': '0.06', 'tix': '0.01'}"
+221,2019-05-03,{2}{B},3.0,Legendary Planeswalker — Davriel,"At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel, Rogue Shadowmage deals 2 damage to them.
+−1: Target player discards a card.",uncommon,True,"{'usd': '0.27', 'usd_foil': '1.87', 'eur': '0.17', 'tix': '0.01'}"
+222,2019-05-03,{3}{B},4.0,Sorcery,Target player discards two cards and loses 2 life.,common,True,"{'usd': '0.03', 'usd_foil': '0.13', 'eur': '0.02', 'tix': '0.01'}"
+223,2019-05-03,{1}{B}{B}{G},4.0,Instant,"Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",uncommon,True,"{'usd': '0.15', 'usd_foil': '1.97', 'eur': '0.11', 'tix': '0.01'}"
+224,2019-05-03,{W},1.0,Instant,"Target creature gets +1/+0 until end of turn.
+Draw a card.",common,True,"{'usd': '0.11', 'usd_foil': '0.78', 'eur': '0.07', 'tix': '0.01'}"
+225,2019-05-03,{2}{B},3.0,Sorcery,"Choose up to four target cards in your graveyard. If you control a Bolas planeswalker, return those cards to your hand. Otherwise, an opponent chooses two of them. Leave the chosen cards in your graveyard and put the rest into your hand.
+Exile Deliver Unto Evil.",rare,True,"{'usd': '0.18', 'usd_foil': '1.39', 'eur': '0.13', 'tix': '0.02'}"
+226,2019-05-03,{3}{R},4.0,Sorcery,Destroy target artifact or land.,common,True,"{'usd': '0.03', 'usd_foil': '0.13', 'eur': '0.01', 'tix': '0.01'}"
+227,2019-05-03,{W}{B},2.0,Instant,Exile target permanent with converted mana cost 4 or greater.,uncommon,True,"{'usd': '0.39', 'usd_foil': '2.87', 'eur': '0.23', 'tix': '0.01'}"
+228,2019-05-03,{1}{W},2.0,Instant,Target creature gets +2/+2 and gains flying until end of turn. You gain 2 life.,common,False,"{'usd': '0.25', 'usd_foil': None, 'eur': None, 'tix': None}"
+229,2019-05-03,{2}{R},3.0,Creature — Hellion,"As Devouring Hellion enters the battlefield, you may sacrifice any number of creatures and/or planeswalkers. If you do, it enters with twice that many +1/+1 counters on it.",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.17', 'eur': '0.06', 'tix': '0.01'}"
+230,2019-05-03,{1}{W},2.0,Instant,Divine Arrow deals 4 damage to target attacking or blocking creature.,common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.05', 'tix': '0.01'}"
+231,2019-05-03,{1}{R}{G},3.0,Legendary Planeswalker — Domri,"Creatures you control get +1/+0.
++1: Add {R} or {G}. Creature spells you cast this turn can't be countered.
+−2: Target creature you control fights target creature you don't control.",rare,True,"{'usd': '1.30', 'usd_foil': '2.62', 'eur': '0.89', 'tix': '1.04'}"
+232,2019-05-03,{R}{G},2.0,Sorcery,Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature or planeswalker you don't control.,uncommon,True,"{'usd': '0.10', 'usd_foil': '0.69', 'eur': '0.09', 'tix': '0.01'}"
+233,2019-05-03,{2}{W/U},3.0,Legendary Planeswalker — Dovin,"Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.
+−1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.",uncommon,True,"{'usd': '0.16', 'usd_foil': '1.23', 'eur': '0.13', 'tix': '0.01'}"
+234,2019-05-03,{W}{U},2.0,Instant,"This spell can't be countered.
+Counter target noncreature spell.",uncommon,True,"{'usd': '0.98', 'usd_foil': '2.76', 'eur': '0.57', 'tix': '0.10'}"
+235,2019-05-03,{1}{R},2.0,Creature — Zombie Wizard,"Trample
+Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with converted mana cost less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.",rare,True,"{'usd': '3.11', 'usd_foil': '11.89', 'eur': '4.37', 'tix': '12.99'}"
+236,2019-05-03,{B}{R},2.0,Creature — Zombie Warrior,"Haste
+Whenever Dreadhorde Butcher deals combat damage to a player or planeswalker, put a +1/+1 counter on Dreadhorde Butcher.
+When Dreadhorde Butcher dies, it deals damage equal to its power to any target.",rare,True,"{'usd': '0.66', 'usd_foil': '0.97', 'eur': '0.56', 'tix': '0.18'}"
+237,2019-05-03,{1}{B},2.0,Enchantment,"At the beginning of your upkeep, you lose 1 life and amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Whenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn.",rare,True,"{'usd': '0.51', 'usd_foil': '2.10', 'eur': '0.71', 'tix': '0.12'}"
+238,2019-05-03,{3}{R},4.0,Creature — Zombie Jackal Warrior,"When Dreadhorde Twins enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have trample.",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.22', 'eur': '0.04', 'tix': '0.01'}"
+239,2019-05-03,{B},1.0,Creature — Zombie Cat,"Menace (This creature can't be blocked except by two or more creatures.)
+{2}{B}, Sacrifice another creature or planeswalker: Put two +1/+1 counters on Dreadmalkin.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.32', 'eur': '0.07', 'tix': '0.01'}"
+240,2019-05-03,{1}{B},2.0,Creature — Human Rogue,Duskmantle Operative can't be blocked by creatures with power 4 or greater.,common,True,"{'usd': '0.02', 'usd_foil': '0.09', 'eur': '0.02', 'tix': '0.01'}"
+241,2019-05-03,{2}{W}{U},4.0,Creature — Human Wizard,"Flying
+When Elite Guardmage enters the battlefield, you gain 3 life and draw a card.",uncommon,True,"{'usd': '0.07', 'usd_foil': '1.11', 'eur': '0.10', 'tix': '0.01'}"
+242,2019-05-03,,0.0,Land,"{T}: Add {C}.
+{1}, {T}, Sacrifice Emergence Zone: You may cast spells this turn as though they had flash.",uncommon,True,"{'usd': '0.19', 'usd_foil': '3.67', 'eur': '0.16', 'tix': '0.01'}"
+243,2019-05-03,{4}{W},5.0,Creature — Griffin,Flying,common,True,"{'usd': '0.02', 'usd_foil': '0.12', 'eur': '0.01', 'tix': '0.01'}"
+244,2019-05-03,{2}{U}{U}{B},5.0,Sorcery,"Enter the God-Eternals deals 4 damage to target creature and you gain life equal to the damage dealt this way. Target player puts the top four cards of their library into their graveyard. Amass 4. (Put four +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",rare,True,"{'usd': '0.48', 'usd_foil': '1.29', 'eur': '0.55', 'tix': '0.08'}"
+245,2019-05-03,{1}{U},2.0,Creature — Human Wizard,"{1}{U}, {T}: Draw a card, then discard a card.",common,True,"{'usd': '0.04', 'usd_foil': '0.13', 'eur': '0.03', 'tix': '0.01'}"
+246,2019-05-03,{4}{U},5.0,Creature — Zombie Wizard,"When Eternal Skylord enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have flying.",uncommon,True,"{'usd': '0.08', 'usd_foil': '0.35', 'eur': '0.06', 'tix': '0.01'}"
+247,2019-05-03,{1}{B},2.0,Creature — Zombie,"Eternal Taskmaster enters the battlefield tapped.
+Whenever Eternal Taskmaster attacks, you may pay {2}{B}. If you do, return target creature card from your graveyard to your hand.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.50', 'eur': '0.07', 'tix': '0.01'}"
+248,2019-05-03,{2}{G},3.0,Creature — Elf Druid,"Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",uncommon,True,"{'usd': '0.37', 'usd_foil': '4.27', 'eur': '0.30', 'tix': '0.01'}"
+249,2019-05-03,{1}{U},2.0,Legendary Creature — Homunculus,"When Fblthp, the Lost enters the battlefield, draw a card. If it entered from your library or was cast from your library, draw two cards instead.
+When Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library.",rare,True,"{'usd': '0.41', 'usd_foil': '1.50', 'eur': '0.36', 'tix': '0.19'}"
+250,2019-05-03,{R}{W}{W},3.0,Legendary Creature — Angel,"Flying
+Whenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step.",rare,True,"{'usd': '1.75', 'usd_foil': '4.25', 'eur': '0.97', 'tix': '1.07'}"
+251,2019-05-03,{X}{G}{G},2.0,Sorcery,"Search your library and/or graveyard for a creature card with converted mana cost X or less and put it onto the battlefield. If you search your library this way, shuffle it. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn.",mythic,True,"{'usd': '11.26', 'usd_foil': '20.37', 'eur': '8.19', 'tix': '9.67'}"
+252,2019-05-03,{X}{B}{B},2.0,Sorcery,"Destroy up to three target creatures with toughness X or less. If X is 10 or more, return all creature cards from your graveyard to the battlefield.",mythic,True,"{'usd': '1.00', 'usd_foil': '1.92', 'eur': '1.02', 'tix': '0.44'}"
+253,2019-05-03,{X}{W}{W},2.0,Sorcery,"Create X 2/2 white Soldier creature tokens with vigilance. If X is 10 or more, also create X 4/4 white Angel creature tokens with flying and vigilance.",mythic,True,"{'usd': '1.71', 'usd_foil': '3.85', 'eur': '1.26', 'tix': '1.38'}"
+254,2019-05-03,{X}{R}{R},2.0,Sorcery,"You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with converted mana cost X or less without paying their mana costs. If a card cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.",mythic,True,"{'usd': '2.48', 'usd_foil': '9.98', 'eur': '3.31', 'tix': '4.05'}"
+255,2019-05-03,{X}{U}{U},2.0,Sorcery,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",mythic,True,"{'usd': '1.87', 'usd_foil': '4.01', 'eur': '1.04', 'tix': '2.43'}"
+256,2019-05-03,{4},4.0,Artifact,"Firemind Vessel enters the battlefield tapped.
+{T}: Add two mana of different colors.",uncommon,True,"{'usd': '0.13', 'usd_foil': '1.02', 'eur': '0.11', 'tix': '0.01'}"
+257,2019-05-03,{2}{U},3.0,Creature — Human Wizard,"Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",uncommon,True,"{'usd': '0.22', 'usd_foil': '2.18', 'eur': '0.11', 'tix': '0.01'}"
+258,2019-05-03,{1}{G},2.0,Instant,Put target creature with flying on the bottom of its owner's library.,common,True,"{'usd': '0.04', 'usd_foil': '0.12', 'eur': '0.02', 'tix': '0.01'}"
+259,2019-05-03,,0.0,Basic Land — Forest,({T}: Add {G}.),common,True,"{'usd': '0.06', 'usd_foil': '0.39', 'eur': '0.05', 'tix': '0.01'}"
+260,2019-05-03,,0.0,Land — Gate,"Gateway Plaza enters the battlefield tapped.
+When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.",common,True,"{'usd': '0.08', 'usd_foil': '0.47', 'eur': '0.06', 'tix': '0.01'}"
+261,2019-05-03,{G},1.0,Instant,Target creature gets +3/+3 until end of turn.,common,True,"{'usd': '0.06', 'usd_foil': '0.15', 'eur': '0.06', 'tix': '0.01'}"
+262,2019-05-03,{1}{W}{W},3.0,Legendary Planeswalker — Gideon,"As long as it's your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.
+Prevent all damage that would be dealt to Gideon Blackblade during your turn.
++1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.
+−6: Exile target nonland permanent.",mythic,True,"{'usd': '5.27', 'usd_foil': '8.56', 'eur': '5.78', 'tix': '4.89'}"
+263,2019-05-03,{2}{W}{W},4.0,Sorcery,"Put a +1/+1 counter on each creature you control. You may search your library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, and put it into your hand. If you search your library this way, shuffle it.",rare,False,"{'usd': '0.19', 'usd_foil': None, 'eur': None, 'tix': None}"
+264,2019-05-03,{3}{W},4.0,Creature — Human Soldier,"Whenever you gain life, put two +1/+1 counters on Gideon's Company.
+{3}{W}: Put a loyalty counter on target Gideon planeswalker.",uncommon,False,"{'usd': '1.84', 'usd_foil': None, 'eur': None, 'tix': None}"
+265,2019-05-03,{W},1.0,Instant,Choose a creature or planeswalker you control. All damage that would be dealt this turn to you and permanents you control is dealt to the chosen permanent instead (if it's still on the battlefield).,common,True,"{'usd': '0.05', 'usd_foil': '0.25', 'eur': '0.03', 'tix': '0.01'}"
+266,2019-05-03,{1}{W},2.0,Instant,"Target opponent sacrifices a creature that attacked or blocked this turn. If you control a Gideon planeswalker, that player sacrifices two of those creatures instead.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.37', 'eur': '0.08', 'tix': '0.01'}"
+267,2019-05-03,{4}{W}{W},6.0,Legendary Planeswalker — Gideon,"Whenever you attack with two or more non-Gideon creatures, put a +1/+1 counter on each of those creatures.
++2: Until end of turn, Gideon, the Oathsworn becomes a 5/5 white Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn. (He can't attack if he was cast this turn.)
+−9: Exile Gideon, the Oathsworn and each creature your opponents control.",mythic,False,"{'usd': None, 'usd_foil': '1.33', 'eur': None, 'tix': None}"
+268,2019-05-03,{1}{U}{B},3.0,Creature — Zombie Wizard,"When Gleaming Overseer enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have hexproof and menace.",uncommon,True,"{'usd': '0.09', 'usd_foil': '0.76', 'eur': '0.09', 'tix': '0.01'}"
+269,2019-05-03,{1}{R},2.0,Creature — Goblin Warrior,,common,True,"{'usd': '0.02', 'usd_foil': '0.08', 'eur': '0.04', 'tix': '0.01'}"
+270,2019-05-03,{3}{R},4.0,Creature — Goblin Warrior,"Haste
+When Goblin Assault Team dies, put a +1/+1 counter on target creature you control.",common,True,"{'usd': '0.03', 'usd_foil': '0.16', 'eur': '0.03', 'tix': '0.01'}"
+271,2019-05-03,{3}{B}{B},5.0,Legendary Creature — Zombie God,"Menace
+When God-Eternal Bontu enters the battlefield, sacrifice any number of other permanents, then draw that many cards.
+When God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",mythic,True,"{'usd': '2.98', 'usd_foil': '5.87', 'eur': '2.23', 'tix': '1.71'}"
+272,2019-05-03,{2}{U}{U},4.0,Legendary Creature — Zombie God,"Flying
+You may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.
+When God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",mythic,True,"{'usd': '4.14', 'usd_foil': '8.62', 'eur': '5.12', 'tix': '2.91'}"
+273,2019-05-03,{3}{W}{W},5.0,Legendary Creature — Zombie God,"Double strike
+Whenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance.
+When God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",mythic,True,"{'usd': '4.25', 'usd_foil': '6.28', 'eur': '3.72', 'tix': '4.17'}"
+274,2019-05-03,{3}{G}{G},5.0,Legendary Creature — Zombie God,"Deathtouch
+When God-Eternal Rhonas enters the battlefield, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn.
+When God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",mythic,True,"{'usd': '3.41', 'usd_foil': '6.71', 'eur': '2.53', 'tix': '1.76'}"
+275,2019-05-03,{6},6.0,Legendary Artifact,"Spells your opponents cast cost {2} more to cast.
+At the beginning of your end step, each opponent loses 1 life.",uncommon,True,"{'usd': '0.13', 'usd_foil': '1.90', 'eur': '0.08', 'tix': '0.01'}"
+276,2019-05-03,{1}{W},2.0,Creature — Spirit,"Flying
+Whenever Grateful Apparition deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",uncommon,True,"{'usd': '0.11', 'usd_foil': '0.70', 'eur': '0.10', 'tix': '0.01'}"
+277,2019-05-03,{R},1.0,Creature — Zombie Warrior,"First strike
+When Grim Initiate dies, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,True,"{'usd': '0.05', 'usd_foil': '0.38', 'eur': '0.03', 'tix': '0.01'}"
+278,2019-05-03,{2},2.0,Artifact,"When Guild Globe enters the battlefield, draw a card.
+{2}, {T}, Sacrifice Guild Globe: Add two mana of different colors.",common,True,"{'usd': '0.08', 'usd_foil': '0.52', 'eur': '0.07', 'tix': '0.01'}"
+279,2019-05-03,{2}{U},3.0,Creature — Faerie Rogue,"Flying
+Whenever Guildpact Informant deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,False,"{'usd': '0.30', 'usd_foil': None, 'eur': None, 'tix': None}"
+280,2019-05-03,{1}{R},2.0,Instant,"As an additional cost to cast this spell, sacrifice a creature or planeswalker.
+Heartfire deals 4 damage to any target.",common,True,"{'usd': '0.05', 'usd_foil': '0.35', 'eur': '0.07', 'tix': '0.01'}"
+281,2019-05-03,{2}{R}{W},4.0,Instant,"Discard all the cards in your hand, then draw that many cards plus one. You gain life equal to the number of cards in your hand.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.36', 'eur': '0.08', 'tix': '0.01'}"
+282,2019-05-03,{3}{B},4.0,Creature — Zombie Warrior,"When Herald of the Dreadhorde dies, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,True,"{'usd': '0.03', 'usd_foil': '0.17', 'eur': '0.04', 'tix': '0.01'}"
+283,2019-05-03,{2}{R},3.0,Sorcery,"As an additional cost to cast this spell, discard a card.
+Draw two cards. Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,True,"{'usd': '0.03', 'usd_foil': '0.20', 'eur': '0.04', 'tix': '0.01'}"
+284,2019-05-03,{G}{W},2.0,Creature — Dinosaur,"Vigilance
+When Huatli's Raptor enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",uncommon,True,"{'usd': '0.09', 'usd_foil': '0.50', 'eur': '0.08', 'tix': '0.01'}"
+285,2019-05-03,{2}{G/W},3.0,Legendary Planeswalker — Huatli,"Each creature you control assigns combat damage equal to its toughness rather than its power.
+−3: You gain life equal to the greatest toughness among creatures you control.",uncommon,True,"{'usd': '0.12', 'usd_foil': '0.91', 'eur': '0.10', 'tix': '0.01'}"
+286,2019-05-03,{4}{W},5.0,Instant,"Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle your library.",rare,True,"{'usd': '0.14', 'usd_foil': '0.52', 'eur': '0.12', 'tix': '0.02'}"
+287,2019-05-03,{3}{R}{R},5.0,Legendary Creature — Boar God,"Trample
+Whenever Ilharg, the Raze-Boar attacks, you may put a creature card from your hand onto the battlefield tapped and attacking. Return that creature to your hand at the beginning of the next end step.
+When Ilharg, the Raze-Boar dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",mythic,True,"{'usd': '3.80', 'usd_foil': '7.81', 'eur': '3.46', 'tix': '7.09'}"
+288,2019-05-03,,0.0,Land,"Whenever you cast a planeswalker spell, you gain 1 life.
+{T}: Add {C}.
+{1}, {T}: Add two mana of different colors. Spend this mana only to cast planeswalker spells.",uncommon,True,"{'usd': '0.26', 'usd_foil': '3.51', 'eur': '0.13', 'tix': '0.01'}"
+289,2019-05-03,{1}{U}{R},3.0,Sorcery,"Amass X, where X is the number of instant and sorcery cards in your graveyard. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.30', 'eur': '0.05', 'tix': '0.01'}"
+290,2019-05-03,{5}{R},6.0,Creature — Zombie Manticore,"When Invading Manticore enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,True,"{'usd': '0.02', 'usd_foil': '0.12', 'eur': '0.02', 'tix': '0.01'}"
+291,2019-05-03,{3},3.0,Artifact Creature — Golem,"Menace (This creature can't be blocked except by two or more creatures.)
+When Iron Bully enters the battlefield, put a +1/+1 counter on target creature.",common,True,"{'usd': '0.03', 'usd_foil': '0.13', 'eur': '0.05', 'tix': '0.01'}"
+292,2019-05-03,{3}{W},4.0,Creature — Beast,,common,True,"{'usd': '0.02', 'usd_foil': '0.14', 'eur': '0.01', 'tix': '0.01'}"
+293,2019-05-03,,0.0,Basic Land — Island,({T}: Add {U}.),common,True,"{'usd': '0.11', 'usd_foil': '0.50', 'eur': '0.04', 'tix': '0.01'}"
+294,2019-05-03,{4}{U}{U},6.0,Legendary Planeswalker — Jace,"Whenever you draw your second card each turn, put a +1/+1 counter on target creature you control.
++1: Draw a card.
+−7: Creatures you control can't be blocked this turn.",mythic,False,"{'usd': None, 'usd_foil': '2.07', 'eur': None, 'tix': None}"
+295,2019-05-03,{2}{U}{U},4.0,Creature — Wizard Illusion,"Whenever you draw a card, put a +1/+1 counter on Jace's Projection.
+{3}{U}: Put a loyalty counter on target Jace planeswalker.",uncommon,False,"{'usd': '0.24', 'usd_foil': None, 'eur': None, 'tix': None}"
+296,2019-05-03,{3}{U}{U},5.0,Sorcery,"Return up to two target creatures to their owner's hand. You may search your library and/or graveyard for a card named Jace, Arcane Strategist, reveal it, and put it into your hand. If you search your library this way, shuffle it.",rare,False,"{'usd': '0.20', 'usd_foil': None, 'eur': None, 'tix': None}"
+297,2019-05-03,{2}{U},3.0,Sorcery,"Draw two cards. If you control a Jace planeswalker, draw three cards instead.",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.28', 'eur': '0.07', 'tix': '0.01'}"
+298,2019-05-03,{1}{U}{U}{U},4.0,Legendary Planeswalker — Jace,"If you would draw a card while your library has no cards in it, you win the game instead.
++1: Target player puts the top two cards of their library into their graveyard. Draw a card.
+−8: Draw seven cards. Then if your library has no cards in it, you win the game.",rare,True,"{'usd': '2.79', 'usd_foil': '6.58', 'eur': '1.27', 'tix': '1.30'}"
+299,2019-05-03,{1}{R},2.0,Instant,Jaya's Greeting deals 3 damage to target creature. Scry 1.,common,True,"{'usd': '0.05', 'usd_foil': '0.16', 'eur': '0.03', 'tix': '0.01'}"
+300,2019-05-03,{4}{R},5.0,Legendary Planeswalker — Jaya,"If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.
+−2: Jaya, Venerated Firemage deals 2 damage to any target.",uncommon,True,"{'usd': '0.14', 'usd_foil': '0.60', 'eur': '0.09', 'tix': '0.01'}"
+301,2019-05-03,{2}{G},3.0,Legendary Planeswalker — Yanggu,"Each creature you control with a +1/+1 counter on it has ""{T}: Add one mana of any color.""
+−1: Put a +1/+1 counter on target creature.",uncommon,True,"{'usd': '0.22', 'usd_foil': '0.84', 'eur': '0.11', 'tix': '0.01'}"
+302,2019-05-03,,0.0,Land,"{T}: Add {C}.
+{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",rare,True,"{'usd': '1.66', 'usd_foil': '2.32', 'eur': '1.11', 'tix': '0.25'}"
+303,2019-05-03,{4},4.0,Legendary Planeswalker — Karn,"Activated abilities of artifacts your opponents control can't be activated.
++1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+−2: You may choose an artifact card you own from outside the game or in exile, reveal that card, and put it into your hand.",rare,True,"{'usd': '5.55', 'usd_foil': '18.18', 'eur': '7.22', 'tix': '24.50'}"
+304,2019-05-03,{3}{U},4.0,Legendary Planeswalker — Kasmina,"Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.
+−2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.",uncommon,True,"{'usd': '0.24', 'usd_foil': '1.58', 'eur': '0.13', 'tix': '0.01'}"
+305,2019-05-03,{1}{U},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 1/1.",common,True,"{'usd': '0.06', 'usd_foil': '0.27', 'eur': '0.04', 'tix': '0.01'}"
+306,2019-05-03,{3}{W/B}{W/B}{W/B},6.0,Legendary Planeswalker — Kaya,"Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.
+−3: Exile target creature.",uncommon,True,"{'usd': '0.12', 'usd_foil': '0.71', 'eur': '0.07', 'tix': '0.01'}"
+307,2019-05-03,{B},1.0,Enchantment — Aura,"Enchant creature or planeswalker you control
+When enchanted permanent dies or is put into exile, return that card to the battlefield under your control.",common,True,"{'usd': '0.11', 'usd_foil': '1.04', 'eur': '0.09', 'tix': '0.01'}"
+308,2019-05-03,{2}{G/U},3.0,Legendary Planeswalker — Kiora,"Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card.
+−1: Untap target permanent.",uncommon,True,"{'usd': '0.27', 'usd_foil': '1.62', 'eur': '0.16', 'tix': '0.02'}"
+309,2019-05-03,{5}{U},6.0,Creature — Leviathan,"When Kiora's Dambreaker enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,True,"{'usd': '0.02', 'usd_foil': '0.15', 'eur': '0.06', 'tix': '0.01'}"
+310,2019-05-03,{2}{G},3.0,Creature — Insect Assassin,Deathtouch,common,True,"{'usd': '0.04', 'usd_foil': '0.12', 'eur': '0.01', 'tix': '0.01'}"
+311,2019-05-03,{2}{R},3.0,Legendary Creature — Goblin,"Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power.",rare,True,"{'usd': '0.53', 'usd_foil': '2.16', 'eur': '0.55', 'tix': '0.05'}"
+312,2019-05-03,{1}{G},2.0,Creature — Human Warrior,"Trample
+Whenever a creature with power 4 or greater enters the battlefield under your control, put a +1/+1 counter on Kronch Wrangler.",common,True,"{'usd': '0.05', 'usd_foil': '0.13', 'eur': '0.03', 'tix': '0.01'}"
+313,2019-05-03,{W},1.0,Creature — Human Soldier,"{1}, {T}: Tap target creature with converted mana cost 2 or greater.",common,True,"{'usd': '0.05', 'usd_foil': '0.23', 'eur': '0.03', 'tix': '0.01'}"
+314,2019-05-03,{4}{B},5.0,Creature — Zombie Hippo,,common,True,"{'usd': '0.01', 'usd_foil': '0.12', 'eur': '0.02', 'tix': '0.01'}"
+315,2019-05-03,{1}{U},2.0,Instant,"Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+You and permanents you control gain hexproof until end of turn. (You and they can't be the targets of spells or abilities your opponents control.)",uncommon,True,"{'usd': '0.15', 'usd_foil': '1.29', 'eur': '0.10', 'tix': '0.01'}"
+316,2019-05-03,{1}{B},2.0,Creature — Zombie Beast,"When Lazotep Reaver enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,True,"{'usd': '0.10', 'usd_foil': '0.61', 'eur': '0.10', 'tix': '0.01'}"
+317,2019-05-03,{1}{B}{G},3.0,Creature — Nightmare Beast,"Deathtouch, lifelink
+{T}: Add one mana of any color.",uncommon,True,"{'usd': '0.16', 'usd_foil': '0.90', 'eur': '0.11', 'tix': '0.01'}"
+318,2019-05-03,{4}{B}{B},6.0,Legendary Planeswalker — Liliana,"Whenever a creature you control dies, draw a card.
++1: Create a 2/2 black Zombie creature token.
+−4: Each player sacrifices two creatures.
+−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.",mythic,True,"{'usd': '14.48', 'usd_foil': '27.33', 'eur': '13.76', 'tix': '2.97'}"
+319,2019-05-03,{1}{B},2.0,Instant,"Each opponent sacrifices a creature. If you control a Liliana planeswalker, each opponent also discards a card.",uncommon,True,"{'usd': '0.13', 'usd_foil': '1.11', 'eur': '0.20', 'tix': '0.01'}"
+320,2019-05-03,{R}{R}{G},3.0,Creature — Elemental,"{1}{R}, Discard a land card: Living Twister deals 2 damage to any target.
+{G}: Return a tapped land you control to its owner's hand.",rare,True,"{'usd': '0.24', 'usd_foil': '0.95', 'eur': '0.16', 'tix': '0.03'}"
+321,2019-05-03,{3}{W},4.0,Creature — Elephant Soldier,"Vigilance
+When Loxodon Sergeant enters the battlefield, other creatures you control gain vigilance until end of turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.13', 'eur': '0.02', 'tix': '0.01'}"
+322,2019-05-03,{2}{W},3.0,Creature — Human Soldier,"Whenever Makeshift Battalion and at least two other creatures attack, put a +1/+1 counter on Makeshift Battalion.",common,True,"{'usd': '0.03', 'usd_foil': '0.11', 'eur': '0.02', 'tix': '0.01'}"
+323,2019-05-03,{3},3.0,Artifact,"When Mana Geode enters the battlefield, scry 1.
+{T}: Add one mana of any color.",common,True,"{'usd': '0.15', 'usd_foil': '1.28', 'eur': '0.11', 'tix': '0.01'}"
+324,2019-05-03,{1}{W},2.0,Creature — Human Soldier,"When Martyr for the Cause dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,True,"{'usd': '0.05', 'usd_foil': '0.17', 'eur': '0.02', 'tix': '0.01'}"
+325,2019-05-03,{3}{B}{B},5.0,Legendary Creature — Human Assassin,"Menace
+When Massacre Girl enters the battlefield, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.",rare,True,"{'usd': '0.53', 'usd_foil': '2.83', 'eur': '0.42', 'tix': '0.27'}"
+326,2019-05-03,{1}{B}{R},3.0,Creature — Devil,"Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any target.",uncommon,True,"{'usd': '0.23', 'usd_foil': '3.27', 'eur': '0.13', 'tix': '0.01'}"
+327,2019-05-03,{G}{U},2.0,Creature — Merfolk Mutant,"Flying
+When Merfolk Skydiver enters the battlefield, put a +1/+1 counter on target creature you control.
+{3}{G}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",uncommon,True,"{'usd': '0.09', 'usd_foil': '0.95', 'eur': '0.07', 'tix': '0.01'}"
+328,2019-05-03,{1}{R}{R},3.0,Artifact — Vehicle,"Trample
+Whenever you cast a noncreature spell, Mizzium Tank becomes an artifact creature and gets +1/+1 until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,True,"{'usd': '0.13', 'usd_foil': '0.46', 'eur': '0.12', 'tix': '0.02'}"
+329,2019-05-03,,0.0,Land,"{T}: Add {C}.
+{4}: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs {1} less to activate for each legendary creature and planeswalker you control.",rare,True,"{'usd': '0.28', 'usd_foil': '0.91', 'eur': '0.26', 'tix': '0.07'}"
+330,2019-05-03,,0.0,Basic Land — Mountain,({T}: Add {R}.),common,True,"{'usd': '0.08', 'usd_foil': '0.51', 'eur': '0.02', 'tix': '0.01'}"
+331,2019-05-03,{3}{G},4.0,Legendary Creature — Hound,"Trample, vigilance
+If one or more +1/+1 counters would be put on Mowu, Loyal Companion, that many plus one +1/+1 counters are put on it instead.",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.84', 'eur': '0.06', 'tix': '0.01'}"
+332,2019-05-03,{2}{U},3.0,Creature — Zombie Naga,,common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.03', 'tix': '0.01'}"
+333,2019-05-03,{1}{R},2.0,Instant,Up to two target creatures each get +2/+0 until end of turn.,common,True,"{'usd': '0.01', 'usd_foil': '0.12', 'eur': '0.05', 'tix': '0.01'}"
+334,2019-05-03,{2}{R/W}{R/W},4.0,Legendary Planeswalker — Nahiri,"As long as it's your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate.
+−X: Nahiri, Storm of Stone deals X damage to target tapped creature.",uncommon,True,"{'usd': '0.08', 'usd_foil': '0.58', 'eur': '0.10', 'tix': '0.01'}"
+335,2019-05-03,{1}{U}{U},3.0,Legendary Planeswalker — Narset,"Each opponent can't draw more than one card each turn.
+−2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",uncommon,True,"{'usd': '2.26', 'usd_foil': '19.35', 'eur': '2.19', 'tix': '0.80'}"
+336,2019-05-03,{U}{U},2.0,Instant,"Copy target instant or sorcery spell, then return it to its owner's hand. You may choose new targets for the copy.",rare,True,"{'usd': '1.35', 'usd_foil': '6.56', 'eur': '0.73', 'tix': '0.16'}"
+337,2019-05-03,{2}{R}{R},4.0,Legendary Creature — Zombie Minotaur Warrior,"Trample
+Whenever Neheb, Dreadhorde Champion deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.",rare,True,"{'usd': '0.35', 'usd_foil': '1.10', 'eur': '0.21', 'tix': '0.13'}"
+338,2019-05-03,{G}{U},2.0,Sorcery,"As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle your library.",uncommon,True,"{'usd': '0.26', 'usd_foil': '2.54', 'eur': '0.19', 'tix': '0.01'}"
+339,2019-05-03,{2}{G},3.0,Enchantment — Aura,"Enchant land
+When New Horizons enters the battlefield, put a +1/+1 counter on target creature you control.
+Enchanted land has ""{T}: Add two mana of any one color.""",common,True,"{'usd': '0.03', 'usd_foil': '0.17', 'eur': '0.05', 'tix': '0.01'}"
+340,2019-05-03,{U}{B}{B}{B}{R},5.0,Legendary Planeswalker — Bolas,"Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.
++1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
+−3: Destroy target creature or planeswalker.
+−8: Each opponent who doesn't control a legendary creature or planeswalker loses the game.",mythic,True,"{'usd': '9.23', 'usd_foil': '18.52', 'eur': '8.43', 'tix': '4.14'}"
+341,2019-05-03,{G}{G},2.0,Sorcery,"Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle your library.",uncommon,True,"{'usd': '0.08', 'usd_foil': '0.91', 'eur': '0.10', 'tix': '0.01'}"
+342,2019-05-03,{3}{G}{G},5.0,Legendary Planeswalker — Nissa,"Whenever you tap a Forest for mana, add an additional {G}.
++1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.
+−8: You get an emblem with ""Lands you control have indestructible."" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library.",rare,True,"{'usd': '6.12', 'usd_foil': '9.80', 'eur': '4.32', 'tix': '4.43'}"
+343,2019-05-03,{W}{U}{B}{R}{G},5.0,Legendary Creature — Dragon Avatar,"Flying
+When Niv-Mizzet Reborn enters the battlefield, reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.",mythic,True,"{'usd': '2.93', 'usd_foil': '14.61', 'eur': '2.07', 'tix': '4.11'}"
+344,2019-05-03,{2}{U},3.0,Instant,"Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Scry 1.",common,True,"{'usd': '0.02', 'usd_foil': '0.13', 'eur': '0.03', 'tix': '0.01'}"
+345,2019-05-03,{1}{W}{B},3.0,Legendary Enchantment,"When Oath of Kaya enters the battlefield, it deals 3 damage to any target and you gain 3 life.
+Whenever an opponent attacks a planeswalker you control with one or more creatures, Oath of Kaya deals 2 damage to that player and you gain 2 life.",rare,True,"{'usd': '0.60', 'usd_foil': '2.15', 'eur': '0.45', 'tix': '1.03'}"
+346,2019-05-03,{2}{B},3.0,Instant,"Target creature gets -5/-5 until end of turn. If that creature would die this turn, exile it instead.",common,True,"{'usd': '0.06', 'usd_foil': '0.46', 'eur': '0.05', 'tix': '0.01'}"
+347,2019-05-03,{3}{B}{B},5.0,Legendary Planeswalker — Nixilis,"Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 damage to that player.
+−2: Destroy target creature. Its controller draws two cards.",uncommon,True,"{'usd': '0.14', 'usd_foil': '1.03', 'eur': '0.09', 'tix': '0.01'}"
+348,2019-01-25,{W}{U}{U},3.0,Instant,Counter target spell. You gain 3 life.,rare,True,"{'usd': '2.23', 'usd_foil': '3.01', 'eur': '1.23', 'tix': '3.36'}"
+349,2019-01-25,{2}{R},3.0,Sorcery,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.),common,True,"{'usd': '0.03', 'usd_foil': '0.18', 'eur': '0.04', 'tix': '0.01'}"
+350,2019-01-25,{1}{G}{U},3.0,Creature — Homunculus Mutant,"Flying
+{2}{G}{U}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)",common,True,"{'usd': '0.02', 'usd_foil': '0.17', 'eur': '0.04', 'tix': '0.01'}"
+351,2019-01-25,{2}{R}{R},4.0,Creature — Elemental,"At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature card. Until your next turn, Amplifire's base power becomes twice that card's power and its base toughness becomes twice that card's toughness. Put the revealed cards on the bottom of your library in a random order.",rare,True,"{'usd': '0.08', 'usd_foil': '0.33', 'eur': '0.07', 'tix': '0.01'}"
+352,2019-01-25,{3}{W},4.0,Enchantment,"Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of creatures you control.",uncommon,True,"{'usd': '0.10', 'usd_foil': '0.48', 'eur': '0.08', 'tix': '0.01'}"
+353,2019-01-25,{3}{W}{W},5.0,Creature — Angel,"Flash
+Flying
+When Angel of Grace enters the battlefield, until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.
+{4}{W}{W}, Exile Angel of Grace from your graveyard: Your life total becomes 10.",mythic,True,"{'usd': '0.73', 'usd_foil': '1.84', 'eur': '1.29', 'tix': '0.98'}"
+354,2019-01-25,{G}{U},2.0,Instant,"Choose one or both —
+• Target creature gets +1/+1 until end of turn.
+• Return target creature to its owner's hand.",common,True,"{'usd': '0.03', 'usd_foil': '0.15', 'eur': '0.05', 'tix': '0.01'}"
+355,2019-01-25,{5}{W},6.0,Creature — Angel,"Flying
+When Archway Angel enters the battlefield, you gain 2 life for each Gate you control.",uncommon,True,"{'usd': '0.13', 'usd_foil': '0.92', 'eur': '0.06', 'tix': '0.01'}"
+356,2019-01-25,{2}{U},3.0,Instant,"Return target creature to its owner's hand.
+Addendum — If you cast this spell during your main phase, draw a card.",common,True,"{'usd': '0.04', 'usd_foil': '0.12', 'eur': '0.04', 'tix': '0.01'}"
+357,2019-01-25,{W},1.0,Instant,"Target creature gets +2/+2 until end of turn.
+Addendum — If you cast this spell during your main phase, that creature gains flying until end of turn.",common,True,"{'usd': '0.06', 'usd_foil': '0.14', 'eur': '0.03', 'tix': '0.01'}"
+358,2019-01-25,{3}{B}{B},5.0,Sorcery,"Each player discards all the cards in their hand, then creates that many 2/2 black Zombie creature tokens.",rare,True,"{'usd': '0.17', 'usd_foil': '0.46', 'eur': '0.14', 'tix': '0.01'}"
+359,2019-01-25,{3}{G},4.0,Creature — Beast,,common,True,"{'usd': '0.02', 'usd_foil': '0.09', 'eur': '0.01', 'tix': '0.01'}"
+360,2019-01-25,,0.0,Land — Gate,"Azorius Guildgate enters the battlefield tapped.
+{T}: Add {W} or {U}.",common,True,"{'usd': '0.05', 'usd_foil': '0.42', 'eur': '0.04', 'tix': '0.01'}"
+361,2019-01-25,{3}{W}{U},5.0,Creature — Human Knight,"Vigilance
+Azorius Knight-Arbiter can't be blocked.",common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.05', 'tix': '0.01'}"
+362,2019-01-25,{3},3.0,Artifact,"{T}: Add {W} or {U}.
+{W/U}{W/U}{W/U}{W/U}, {T}, Sacrifice Azorius Locket: Draw two cards.",common,True,"{'usd': '0.05', 'usd_foil': '0.25', 'eur': '0.07', 'tix': '0.01'}"
+363,2019-01-25,{4}{W}{U},6.0,Creature — Human Knight,"Flying, first strike
+Creatures your opponents control get -1/-0.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.18', 'eur': '0.03', 'tix': '0.01'}"
+364,2019-01-25,{1}{B},2.0,Sorcery,"As an additional cost to cast this spell, sacrifice two creatures.
+Draw three cards.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.64', 'eur': '0.08', 'tix': '0.01'}"
+365,2019-01-25,{W}{W}{B}{B},4.0,Creature — Spirit,"When Basilica Bell-Haunt enters the battlefield, each opponent discards a card and you gain 3 life.",uncommon,True,"{'usd': '0.14', 'usd_foil': '1.46', 'eur': '0.13', 'tix': '0.01'}"
+366,2019-01-25,{B/R}{B/R} // {4}{B}{R},8.0,Instant // Instant,,rare,True,"{'usd': '0.17', 'usd_foil': '0.53', 'eur': '0.05', 'tix': '0.02'}"
+367,2019-01-25,{B}{B}{R},3.0,Instant,"Destroy target artifact, creature, or planeswalker.",rare,True,"{'usd': '2.74', 'usd_foil': '4.55', 'eur': '2.69', 'tix': '0.22'}"
+368,2019-01-25,{U},1.0,Creature — Merfolk Wizard Mutant,"{1}{U}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever one or more +1/+1 counters are put on Benthic Biomancer, draw a card, then discard a card.",rare,True,"{'usd': '0.56', 'usd_foil': '2.16', 'eur': '0.34', 'tix': '0.26'}"
+369,2019-01-25,{3}{G}{G},5.0,Creature — Ooze,"When Biogenic Ooze enters the battlefield, create a 2/2 green Ooze creature token.
+At the beginning of your end step, put a +1/+1 counter on each Ooze you control.
+{1}{G}{G}{G}: Create a 2/2 green Ooze creature token.",mythic,True,"{'usd': '1.76', 'usd_foil': '5.78', 'eur': '2.57', 'tix': '1.03'}"
+370,2019-01-25,{4}{G}{G},6.0,Sorcery,"Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.",uncommon,True,"{'usd': '0.11', 'usd_foil': '0.44', 'eur': '0.08', 'tix': '0.01'}"
+371,2019-01-25,{G}{U},2.0,Creature — Mutant,"Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+{T}: The next time target creature adapts this turn, it adapts as though it had no +1/+1 counters on it.",rare,True,"{'usd': '0.38', 'usd_foil': '1.55', 'eur': '0.30', 'tix': '0.06'}"
+372,2019-01-25,{1}{B},2.0,Instant,"Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+Draw a card.",common,True,"{'usd': '0.03', 'usd_foil': '0.10', 'eur': '0.04', 'tix': '0.01'}"
+373,2019-01-25,{4}{B},5.0,Creature — Human Rogue,"Spectacle {2}{B} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+When Blade Juggler enters the battlefield, it deals 1 damage to you and you draw a card.",common,True,"{'usd': '0.02', 'usd_foil': '0.23', 'eur': '0.03', 'tix': '0.01'}"
+374,2019-01-25,,0.0,Land — Swamp Mountain,"({T}: Add {B} or {R}.)
+As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,True,"{'usd': '14.32', 'usd_foil': '17.51', 'eur': '11.62', 'tix': '3.07'}"
+375,2019-01-25,{2}{B},3.0,Creature — Vampire,"Whenever Bloodmist Infiltrator attacks, you may sacrifice another creature. If you do, Bloodmist Infiltrator can't be blocked this turn.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.20', 'eur': '0.05', 'tix': '0.01'}"
+376,2019-01-25,{3}{R}{G},5.0,Creature — Ogre Warrior,"{T}, Remove a +1/+1 counter from a creature you control: Bolrac-Clan Crusher deals 2 damage to any target.",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.11', 'eur': '0.03', 'tix': '0.01'}"
+377,2019-01-25,,0.0,Land — Forest Island,"({T}: Add {G} or {U}.)
+As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,True,"{'usd': '19.09', 'usd_foil': '25.69', 'eur': '16.06', 'tix': '5.80'}"
+378,2019-01-25,{2}{W},3.0,Sorcery,Exile target creature with power 4 or greater.,common,True,"{'usd': '0.03', 'usd_foil': '0.09', 'eur': '0.04', 'tix': '0.01'}"
+379,2019-01-25,{2}{R},3.0,Instant,Creatures you control get +2/+0 until end of turn.,common,True,"{'usd': '0.03', 'usd_foil': '0.14', 'eur': '0.07', 'tix': '0.01'}"
+380,2019-01-25,{2}{R},3.0,Creature — Human Rogue,"Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Whenever Burning-Tree Vandal attacks, you may discard a card. If you do, draw a card.",common,True,"{'usd': '0.02', 'usd_foil': '0.16', 'eur': '0.03', 'tix': '0.01'}"
+381,2019-01-25,{5}{B}{R},7.0,Enchantment,"Captive Audience enters the battlefield under the control of an opponent of your choice.
+At the beginning of your upkeep, choose one that hasn't been chosen —
+• Your life total becomes 4.
+• Discard your hand.
+• Each opponent creates five 2/2 black Zombie creature tokens.",mythic,True,"{'usd': '0.93', 'usd_foil': '1.85', 'eur': '0.78', 'tix': '0.87'}"
+382,2019-01-25,{B/R} // {2}{B}{R},5.0,Instant // Sorcery,,uncommon,True,"{'usd': '0.06', 'usd_foil': '0.70', 'eur': '0.06', 'tix': '0.01'}"
+383,2019-01-25,{3}{B},4.0,Creature — Imp,"Flying
+When Carrion Imp enters the battlefield, you may exile target creature card from a graveyard. If you do, you gain 2 life.",common,True,"{'usd': '0.04', 'usd_foil': '0.07', 'eur': '0.02', 'tix': '0.01'}"
+384,2019-01-25,{4}{B},5.0,Creature — Crocodile,,common,True,"{'usd': '0.03', 'usd_foil': '0.14', 'eur': '0.02', 'tix': '0.01'}"
+385,2019-01-25,{1}{R},2.0,Enchantment,"Whenever a creature you control with power 1 or less attacks, Cavalcade of Calamity deals 1 damage to the player or planeswalker that creature is attacking.",uncommon,True,"{'usd': '0.34', 'usd_foil': '3.88', 'eur': '0.26', 'tix': '0.01'}"
+386,2019-01-25,{1}{R}{G},3.0,Creature — Boar,"Haste (This creature can attack and {T} as soon as it comes under your control.)
+As long as you control a Domri planeswalker, Charging War Boar gets +1/+1 and has trample. (It can deal excess damage to the player or planeswalker it's attacking.)",uncommon,False,"{'usd': '0.22', 'usd_foil': None, 'eur': None, 'tix': None}"
+387,2019-01-25,{4}{U},5.0,Creature — Elemental,"Flying
+When Chillbringer enters the battlefield, tap target creature an opponent controls. It doesn't untap during its controller's next untap step.",common,True,"{'usd': '0.02', 'usd_foil': '0.12', 'eur': '0.03', 'tix': '0.01'}"
+388,2019-01-25,{R}{G},2.0,Enchantment,"Whenever an opponent casts a noncreature spell, Cindervines deals 1 damage to that player.
+{1}, Sacrifice Cindervines: Destroy target artifact or enchantment. Cindervines deals 2 damage to that permanent's controller.",rare,True,"{'usd': '1.40', 'usd_foil': '2.79', 'eur': '1.24', 'tix': '2.15'}"
+389,2019-01-25,{3}{W},4.0,Creature — Elephant Soldier,"When Civic Stalwart enters the battlefield, creatures you control get +1/+1 until end of turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.04', 'tix': '0.01'}"
+390,2019-01-25,{2}{R},3.0,Creature — Goblin Shaman,"Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Whenever Clamor Shaman attacks, target creature an opponent controls can't block this turn.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.13', 'eur': '0.05', 'tix': '0.01'}"
+391,2019-01-25,{R}{G},2.0,Creature — Human Shaman,"{1}{R}, {T}: Target creature can't block this turn.
+{2}{G}, {T}: Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.16', 'eur': '0.04', 'tix': '0.01'}"
+392,2019-01-25,{2}{U},3.0,Sorcery,"Target player shuffles their graveyard into their library.
+Draw a card.",common,True,"{'usd': '0.04', 'usd_foil': '0.24', 'eur': '0.08', 'tix': '0.01'}"
+393,2019-01-25,{4}{B},5.0,Instant,"Target creature gets -3/-3 until end of turn. If you control a creature with power 4 or greater, you may return up to one target creature card from your graveyard to your hand.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.12', 'eur': '0.05', 'tix': '0.01'}"
+394,2019-01-25,{2}{U},3.0,Instant,"Target creature gets -4/-0 until end of turn.
+Draw a card.
+Addendum — If you cast this spell during your main phase, tap that creature and it doesn't untap during its controller's next untap step.",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.13', 'eur': '0.03', 'tix': '0.01'}"
+395,2019-01-25,{1}{R/G} // {R}{G},4.0,Instant // Instant,,uncommon,True,"{'usd': '0.20', 'usd_foil': '1.01', 'eur': '0.13', 'tix': '0.01'}"
+396,2019-01-25,{G}{U},2.0,Creature — Merfolk Wizard,"{1}{G}, {T}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
+{1}{U}, {T}: Move a +1/+1 counter from target creature you control onto another target creature you control.",uncommon,True,"{'usd': '0.08', 'usd_foil': '0.40', 'eur': '0.05', 'tix': '0.01'}"
+397,2019-01-25,{1}{W},2.0,Creature — Pegasus,Flying (This creature can't be blocked except by creatures with flying or reach.),common,True,"{'usd': '0.03', 'usd_foil': '0.10', 'eur': '0.05', 'tix': '0.01'}"
+398,2019-01-25,{1}{W/B} // {2}{W}{B},6.0,Instant // Sorcery,,uncommon,True,"{'usd': '0.07', 'usd_foil': '0.75', 'eur': '0.07', 'tix': '0.01'}"
+399,2019-01-25,{5}{B},6.0,Sorcery,Destroy target creature. Consign to the Pit deals 2 damage to that creature's controller.,common,True,"{'usd': '0.02', 'usd_foil': '0.09', 'eur': '0.01', 'tix': '0.01'}"
+400,2019-01-25,{2}{U},3.0,Creature — Merfolk Warrior,,common,True,"{'usd': '0.01', 'usd_foil': '0.10', 'eur': '0.01', 'tix': '0.01'}"
+401,2019-01-25,{1}{B}{B},3.0,Sorcery,"All creatures get -2/-2 until end of turn. Exile all creature cards in all graveyards that were put there from the battlefield this turn. If a creature would die this turn, exile it instead.",uncommon,True,"{'usd': '0.27', 'usd_foil': '1.85', 'eur': '0.21', 'tix': '0.01'}"
+402,2019-01-25,{B}{R},2.0,Creature — Human Shaman,"{3}{B}, {T}: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+{R}, {T}: Cult Guildmage deals 1 damage to target opponent or planeswalker.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.27', 'eur': '0.05', 'tix': '0.01'}"
+403,2019-01-25,{3}{R},4.0,Creature — Viashino Rogue,"When Dagger Caster enters the battlefield, it deals 1 damage to each opponent and 1 damage to each creature your opponents control.",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.22', 'eur': '0.04', 'tix': '0.01'}"
+404,2019-01-25,{3}{B},4.0,Sorcery,"Spectacle {1}{B} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Return up to two target creature cards from your graveyard to your hand.",common,True,"{'usd': '0.02', 'usd_foil': '0.15', 'eur': '0.04', 'tix': '0.01'}"
+405,2019-01-25,{5}{B},6.0,Creature — Thrull,"Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)",common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.02', 'tix': '0.01'}"
+406,2019-01-25,{R},1.0,Sorcery,"Choose one —
+• Destroy target artifact.
+• Destroy target creature with defender.",common,True,"{'usd': '0.03', 'usd_foil': '0.11', 'eur': '0.02', 'tix': '0.01'}"
+407,2019-01-25,{1}{W/U} // {2}{W}{U},6.0,Instant // Instant,,uncommon,True,"{'usd': '0.09', 'usd_foil': '0.66', 'eur': '0.10', 'tix': '0.01'}"
+408,2019-01-25,{1}{W}{U},3.0,Creature — Vedalken Wizard,"When Deputy of Detention enters the battlefield, exile target nonland permanent an opponent controls and all other nonland permanents that player controls with the same name as that permanent until Deputy of Detention leaves the battlefield.",rare,True,"{'usd': '3.11', 'usd_foil': '7.12', 'eur': '3.94', 'tix': '6.18'}"
+409,2019-01-25,{2}{R}{G},4.0,Legendary Planeswalker — Domri,"+1: Add {R} or {G}. If that mana is spent on a creature spell, it gains riot. (It enters the battlefield with your choice of a +1/+1 counter or haste.)
+−3: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+−8: You get an emblem with ""At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.""",mythic,True,"{'usd': '1.36', 'usd_foil': '3.02', 'eur': '2.05', 'tix': '1.24'}"
+410,2019-01-25,{4}{R}{G},6.0,Legendary Planeswalker — Domri,"+2: Creatures you control get +1/+1 and gain haste until end of turn.
+−3: Domri, City Smasher deals 3 damage to any target.
+−8: Put three +1/+1 counters on each creature you control. Those creatures gain trample until end of turn.",mythic,False,"{'usd': None, 'usd_foil': '1.44', 'eur': None, 'tix': None}"
+411,2019-01-25,{3}{R}{G},5.0,Creature — Beast,"Trample
+When Domri's Nodorog enters the battlefield, you may search your library and/or graveyard for a card named Domri, City Smasher, reveal it, and put it into your hand. If you search your library this way, shuffle it.",rare,False,"{'usd': '0.26', 'usd_foil': None, 'eur': None, 'tix': None}"
+412,2019-01-25,{4}{W}{U},6.0,Legendary Planeswalker — Dovin,"+1: You gain 2 life and draw a card.
+−1: Tap target creature. It doesn't untap during its controller's next untap step.
+−9: Tap all permanents target opponent controls. That player skips their next untap step.",mythic,False,"{'usd': None, 'usd_foil': '1.45', 'eur': None, 'tix': None}"
+413,2019-01-25,{1}{W}{U},3.0,Legendary Planeswalker — Dovin,"+1: Until end of turn, whenever a creature you control deals combat damage to a player, put a loyalty counter on Dovin, Grand Arbiter.
+−1: Create a 1/1 colorless Thopter artifact creature token with flying. You gain 1 life.
+−7: Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in a random order.",mythic,True,"{'usd': '1.31', 'usd_foil': '4.03', 'eur': '1.62', 'tix': '1.33'}"
+414,2019-01-25,{1}{W}{U},3.0,Enchantment,"When Dovin's Acuity enters the battlefield, you gain 2 life and draw a card.
+Whenever you cast an instant spell during your main phase, you may return Dovin's Acuity to its owner's hand.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.51', 'eur': '0.07', 'tix': '0.01'}"
+415,2019-01-25,{4},4.0,Artifact Creature — Homunculus,"As long as you control a Dovin planeswalker, Dovin's Automaton gets +2/+2 and has vigilance. (Attacking doesn't cause it to tap.)",uncommon,False,"{'usd': '0.06', 'usd_foil': None, 'eur': None, 'tix': None}"
+416,2019-01-25,{2}{W}{U},4.0,Instant,"Put up to one target tapped creature on top of its owner's library. You may search your library and/or graveyard for a card named Dovin, Architect of Law, reveal it, and put it into your hand. If you search your library this way, shuffle it.",rare,False,"{'usd': '0.25', 'usd_foil': None, 'eur': None, 'tix': None}"
+417,2019-01-25,{2}{B},3.0,Sorcery,"Spectacle {B} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Target player reveals their hand. You choose a nonland card from it. That player discards that card.",uncommon,True,"{'usd': '0.13', 'usd_foil': '0.90', 'eur': '0.13', 'tix': '0.01'}"
+418,2019-01-25,{X}{R}{R},2.0,Instant,Electrodominance deals X damage to any target. You may cast a card with converted mana cost X or less from your hand without paying its mana cost.,rare,True,"{'usd': '1.02', 'usd_foil': '3.91', 'eur': '1.09', 'tix': '0.24'}"
+419,2019-01-25,{W},1.0,Creature — Human Soldier,"{1}{U}, {T}: Tap target creature.",common,False,"{'usd': '0.10', 'usd_foil': None, 'eur': None, 'tix': '0.59'}"
+420,2019-01-25,{5}{W}{U},7.0,Instant,"Each player shuffles their hand and graveyard into their library, then draws seven cards. Exile Emergency Powers.
+Addendum — If you cast this spell during your main phase, you may put a permanent card with converted mana cost 7 or less from your hand onto the battlefield.",mythic,True,"{'usd': '0.55', 'usd_foil': '2.12', 'eur': '0.52', 'tix': '0.30'}"
+421,2019-01-25,{5}{G}{G}{G},8.0,Creature — Boar,"Vigilance, trample, haste
+When End-Raze Forerunners enters the battlefield, other creatures you control get +2/+2 and gain vigilance and trample until end of turn.",rare,True,"{'usd': '0.34', 'usd_foil': '1.19', 'eur': '0.25', 'tix': '0.02'}"
+422,2019-01-25,{2}{G}{G},4.0,Creature — Rhino,Enraged Ceratok can't be blocked by creatures with power 2 or less.,uncommon,True,"{'usd': '0.03', 'usd_foil': '0.14', 'eur': '0.05', 'tix': '0.01'}"
+423,2019-01-25,{U}{U},2.0,Instant,Counter target creature spell. Put a +1/+1 counter on up to one target creature you control.,uncommon,True,"{'usd': '0.23', 'usd_foil': '1.05', 'eur': '0.18', 'tix': '0.01'}"
+424,2019-01-25,{4}{W}{B},6.0,Enchantment,"Creatures you control get +1/+1.
+Creatures your opponents control get -1/-1.
+{2}{W}{B}: Exile target card from an opponent's graveyard. If it was a creature card, you create a 1/1 white and black Spirit creature token with flying.",rare,True,"{'usd': '0.46', 'usd_foil': '1.57', 'eur': '0.28', 'tix': '0.10'}"
+425,2019-01-25,{2}{W},3.0,Instant,Destroy target artifact or enchantment. Scry 1.,common,True,"{'usd': '0.04', 'usd_foil': '0.08', 'eur': '0.05', 'tix': '0.01'}"
+426,2019-01-25,{2}{U},3.0,Enchantment,"At the beginning of your upkeep, scry 1.
+{5}{U}: Exchange control of Eyes Everywhere and target nonland permanent. Activate this ability only any time you could cast a sorcery.",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.37', 'eur': '0.07', 'tix': '0.01'}"
+427,2019-01-25,{1}{U},2.0,Creature — Faerie Rogue,"Flash
+Flying
+When Faerie Duelist enters the battlefield, target creature an opponent controls gets -2/-0 until end of turn.",common,True,"{'usd': '0.06', 'usd_foil': '0.16', 'eur': '0.06', 'tix': '0.01'}"
+428,2019-01-25,{1}{R},2.0,Creature — Cat,,common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.02', 'tix': '0.01'}"
+429,2019-01-25,{W}{B},2.0,Instant,"As an additional cost to cast this spell, pay 5 life or sacrifice a creature or enchantment.
+Destroy target creature.",common,True,"{'usd': '0.04', 'usd_foil': '0.31', 'eur': '0.05', 'tix': '0.01'}"
+430,2019-01-25,{B}{R},2.0,Creature — Human Shaman,"Haste
+At the beginning of your upkeep, you may sacrifice a creature. When you do, Fireblade Artist deals 2 damage to target opponent or planeswalker.",uncommon,True,"{'usd': '0.15', 'usd_foil': '0.89', 'eur': '0.12', 'tix': '0.01'}"
+431,2019-01-25,{5}{R},6.0,Instant,Flames of the Raze-Boar deals 4 damage to target creature an opponent controls. Then Flames of the Raze-Boar deals 2 damage to each other creature that player controls if you control a creature with power 4 or greater.,uncommon,True,"{'usd': '0.02', 'usd_foil': '0.11', 'eur': '0.03', 'tix': '0.01'}"
+432,2019-01-25,{B},1.0,Enchantment,"Whenever you pay life, put that many blood counters on Font of Agonies.
+{1}{B}, Remove four blood counters from Font of Agonies: Destroy target creature.",rare,True,"{'usd': '0.26', 'usd_foil': '1.16', 'eur': '0.16', 'tix': '0.02'}"
+433,2019-01-25,{B/R},1.0,Creature — Devil,"When Footlight Fiend dies, it deals 1 damage to any target.",common,True,"{'usd': '0.09', 'usd_foil': '0.51', 'eur': '0.06', 'tix': '0.01'}"
+434,2019-01-25,{1}{W}{W},3.0,Creature — Spirit Cleric,"When Forbidding Spirit enters the battlefield, until your next turn, creatures can't attack you or a planeswalker you control unless their controller pays {2} for each of those creatures.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.35', 'eur': '0.07', 'tix': '0.01'}"
+435,2019-01-25,,0.0,Basic Land — Forest,({T}: Add {G}.),common,False,"{'usd': '0.39', 'usd_foil': '0.40', 'eur': None, 'tix': '0.01'}"
+436,2019-01-25,{2}{R}{G},4.0,Creature — Cat Beast,"Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Trample
+{4}{R}{G}: Frenzied Arynx gets +3/+0 until end of turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.15', 'eur': '0.02', 'tix': '0.01'}"
+437,2019-01-25,{G}{G}{U}{U},4.0,Creature — Elf Lizard Wizard,"Flash
+When Frilled Mystic enters the battlefield, you may counter target spell.",uncommon,True,"{'usd': '0.33', 'usd_foil': '3.78', 'eur': '0.23', 'tix': '0.02'}"
+438,2019-01-25,{3}{G}{U},5.0,Creature — Frog Lizard,"Trample
+When Galloping Lizrog enters the battlefield, you may remove any number of +1/+1 counters from among creatures you control. If you do, put twice that many +1/+1 counters on Galloping Lizrog.",uncommon,True,"{'usd': '0.10', 'usd_foil': '0.39', 'eur': '0.07', 'tix': '0.01'}"
+439,2019-01-25,{2}{G},3.0,Creature — Sheep,"Gatebreaker Ram gets +1/+1 for each Gate you control.
+As long as you control two or more Gates, Gatebreaker Ram has vigilance and trample.",uncommon,True,"{'usd': '0.19', 'usd_foil': '0.97', 'eur': '0.12', 'tix': '0.01'}"
+440,2019-01-25,{8},8.0,Artifact Creature — Construct,"This spell costs {1} less to cast for each Gate you control.
+Gate Colossus can't be blocked by creatures with power 2 or less.
+Whenever a Gate enters the battlefield under your control, you may put Gate Colossus from your graveyard on top of your library.",uncommon,True,"{'usd': '0.17', 'usd_foil': '0.47', 'eur': '0.08', 'tix': '0.01'}"
+441,2019-01-25,{2}{R},3.0,Sorcery,"Gates Ablaze deals X damage to each creature, where X is the number of Gates you control.",uncommon,True,"{'usd': '0.18', 'usd_foil': '1.60', 'eur': '0.16', 'tix': '0.01'}"
+442,2019-01-25,,0.0,Land — Gate,"Gateway Plaza enters the battlefield tapped.
+When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.",common,True,"{'usd': '0.07', 'usd_foil': '0.40', 'eur': '0.05', 'tix': '0.01'}"
+443,2019-01-25,{2}{U},3.0,Creature — Vedalken Rogue,"Whenever a Gate enters the battlefield under your control, Gateway Sneak can't be blocked this turn.
+Whenever Gateway Sneak deals combat damage to a player, draw a card.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.14', 'eur': '0.08', 'tix': '0.01'}"
+444,2019-01-25,{3}{B}{R},5.0,Instant,Destroy target creature. Scry 1.,common,True,"{'usd': '0.02', 'usd_foil': '0.09', 'eur': '0.02', 'tix': '0.01'}"
+445,2019-01-25,{3}{R},4.0,Creature — Human Warrior,"Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Menace (This creature can't be blocked except by two or more creatures.)",common,True,"{'usd': '0.01', 'usd_foil': '0.09', 'eur': '0.02', 'tix': '0.01'}"
+446,2019-01-25,{1}{G},2.0,Instant,Target creature gets +3/+3 and gains reach until end of turn.,common,True,"{'usd': '0.03', 'usd_foil': '0.07', 'eur': '0.01', 'tix': '0.01'}"
+447,2019-01-25,{2},2.0,Artifact,Multicolored creatures you control get +1/+1.,rare,True,"{'usd': '0.14', 'usd_foil': '0.52', 'eur': '0.16', 'tix': '0.02'}"
+448,2019-01-25,{2}{R},3.0,Sorcery,Create a number of 1/1 red Goblin creature tokens equal to two plus the number of cards named Goblin Gathering in your graveyard.,common,True,"{'usd': '0.04', 'usd_foil': '0.26', 'eur': '0.03', 'tix': '0.01'}"
+449,2019-01-25,,0.0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,True,"{'usd': '7.43', 'usd_foil': '16.60', 'eur': '8.77', 'tix': '2.57'}"
+450,2019-01-25,{3}{W}{B},5.0,Creature — Thrull,"Flying
+When Grasping Thrull enters the battlefield, it deals 2 damage to each opponent and you gain 2 life.",common,True,"{'usd': '0.03', 'usd_foil': '0.16', 'eur': '0.04', 'tix': '0.01'}"
+451,2019-01-25,{1}{R},2.0,Creature — Goblin Shaman,{3}{G}: Gravel-Hide Goblin gets +2/+2 until end of turn.,common,True,"{'usd': '0.02', 'usd_foil': '0.07', 'eur': '0.02', 'tix': '0.01'}"
+452,2019-01-25,{2}{B},3.0,Instant,Exile target creature with power 3 or less.,common,True,"{'usd': '0.03', 'usd_foil': '0.07', 'eur': '0.04', 'tix': '0.01'}"
+453,2019-01-25,{1}{G},2.0,Creature — Elf Crab Warrior,"{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
+Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may search your library for a card named Growth-Chamber Guardian, reveal it, put it into your hand, then shuffle your library.",rare,True,"{'usd': '0.65', 'usd_foil': '1.63', 'eur': '0.95', 'tix': '0.12'}"
+454,2019-01-25,{G}{U},2.0,Instant,Draw a card. You may put a land card from your hand onto the battlefield.,common,True,"{'usd': '0.26', 'usd_foil': '2.05', 'eur': '0.16', 'tix': '0.01'}"
+455,2019-01-25,{3}{G},4.0,Creature — Human Shaman,"Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Whenever Gruul Beastmaster attacks, another target creature you control gets +X/+0 until end of turn, where X is Gruul Beastmaster's power.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.11', 'eur': '0.06', 'tix': '0.01'}"
+456,2019-01-25,,0.0,Land — Gate,"Gruul Guildgate enters the battlefield tapped.
+{T}: Add {R} or {G}.",common,True,"{'usd': '0.05', 'usd_foil': '0.45', 'eur': '0.04', 'tix': '0.01'}"
+457,2019-01-25,{3},3.0,Artifact,"{T}: Add {R} or {G}.
+{R/G}{R/G}{R/G}{R/G}, {T}, Sacrifice Gruul Locket: Draw two cards.",common,True,"{'usd': '0.04', 'usd_foil': '0.22', 'eur': '0.06', 'tix': '0.01'}"
+458,2019-01-25,{1}{R}{G},3.0,Creature — Ogre Warrior,"Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Trample
+As long as it's your turn, you and Gruul Spellbreaker have hexproof.",rare,True,"{'usd': '1.30', 'usd_foil': '1.79', 'eur': '1.44', 'tix': '1.36'}"
+459,2019-01-25,{3}{G},4.0,Enchantment,"Whenever a nontoken creature enters the battlefield under your control, if it doesn't have the same name as another creature you control or a creature card in your graveyard, draw a card.",rare,True,"{'usd': '2.50', 'usd_foil': '4.67', 'eur': '1.43', 'tix': '0.02'}"
+460,2019-01-25,{B},1.0,Creature — Skeleton Warrior,"Gutterbones enters the battlefield tapped.
+{1}{B}: Return Gutterbones from your graveyard to your hand. Activate this ability only during your turn and only if an opponent lost life this turn.",rare,True,"{'usd': '2.44', 'usd_foil': '3.26', 'eur': '1.57', 'tix': '2.49'}"
+461,2019-01-25,{1}{G}{U},3.0,Creature — Vedalken Wizard,{T}: Add {G}{U}.,uncommon,True,"{'usd': '0.10', 'usd_foil': '0.47', 'eur': '0.07', 'tix': '0.01'}"
+462,2019-01-25,{2}{W},3.0,Creature — Human Soldier,"When Haazda Officer enters the battlefield, target creature you control gets +1/+1 until end of turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.06', 'eur': '0.04', 'tix': '0.01'}"
+463,2019-01-25,{1}{B}{R},3.0,Creature — Human Rogue,"Spectacle {B}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+{B}: Hackrobat gains deathtouch until end of turn.
+{R}: Hackrobat gets +2/-2 until end of turn.",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.18', 'eur': '0.06', 'tix': '0.01'}"
+464,2019-01-25,,0.0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,True,"{'usd': '7.84', 'usd_foil': '19.16', 'eur': '7.94', 'tix': '3.37'}"
+465,2019-01-25,{1}{W},2.0,Creature — Human Warrior,"Whenever you cast a multicolored spell, create a 1/1 white Human creature token.",rare,True,"{'usd': '0.53', 'usd_foil': '1.99', 'eur': '0.67', 'tix': '0.12'}"
+466,2019-01-25,{1}{W}{U},3.0,Enchantment,"Each creature you control assigns combat damage equal to its toughness rather than its power.
+Creatures you control can attack as though they didn't have defender.
+{2}{W}{U}: Untap target creature.",uncommon,True,"{'usd': '0.14', 'usd_foil': '1.07', 'eur': '0.15', 'tix': '0.01'}"
+467,2019-01-25,{4}{U},5.0,Creature — Homunculus,Hexproof (This creature can't be the target of spells or abilities your opponents control.),common,True,"{'usd': '0.03', 'usd_foil': '0.08', 'eur': '0.03', 'tix': '0.01'}"
+468,2019-01-25,{X}{G}{U},2.0,Creature — Jellyfish Hydra Beast,"When you cast this spell, you gain half X life and draw half X cards. Round down each time.
+Flying, trample
+Hydroid Krasis enters the battlefield with X +1/+1 counters on it.",mythic,True,"{'usd': '16.97', 'usd_foil': '33.78', 'eur': '15.74', 'tix': '17.24'}"
+469,2019-01-25,{3}{B},4.0,Enchantment,"At the beginning of your upkeep, Ill-Gotten Inheritance deals 1 damage to each opponent and you gain 1 life.
+{5}{B}, Sacrifice Ill-Gotten Inheritance: It deals 4 damage to target opponent and you gain 4 life.",common,True,"{'usd': '0.07', 'usd_foil': '0.24', 'eur': '0.06', 'tix': '0.01'}"
+470,2019-01-25,{1}{R},2.0,Creature — Viashino Shaman,"Whenever an opponent activates an ability of an artifact, creature, or land that isn't a mana ability, Immolation Shaman deals 1 damage to that player.
+{3}{R}{R}: Immolation Shaman gets +3/+3 and gains menace until end of turn.",rare,True,"{'usd': '0.15', 'usd_foil': '0.49', 'eur': '0.14', 'tix': '0.01'}"
+471,2019-01-25,{1}{W},2.0,Creature — Human Cleric,"Whenever another creature enters the battlefield under your control, you gain 1 life.",common,True,"{'usd': '0.05', 'usd_foil': '0.30', 'eur': '0.06', 'tix': '0.01'}"
+472,2019-01-25,{W}{B},2.0,Creature — Human Cleric,"Vigilance
+Afterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)",common,True,"{'usd': '0.05', 'usd_foil': '0.32', 'eur': '0.09', 'tix': '0.01'}"
+473,2019-01-25,{1}{G},2.0,Creature — Elf Druid,"{T}: Add one mana of any type that a land you control could produce. If Incubation Druid has a +1/+1 counter on it, add three mana of that type instead.
+{3}{G}{G}: Adapt 3. (If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)",rare,True,"{'usd': '0.92', 'usd_foil': '3.94', 'eur': '1.43', 'tix': '0.20'}"
+474,2019-01-25,{G/U} // {1}{G}{U},4.0,Sorcery // Instant,,uncommon,True,"{'usd': '0.14', 'usd_foil': '1.88', 'eur': '0.17', 'tix': '0.01'}"
+475,2019-01-25,,0.0,Basic Land — Island,({T}: Add {U}.),common,False,"{'usd': '0.48', 'usd_foil': '0.56', 'eur': None, 'tix': '0.01'}"
+476,2019-01-25,{1}{B}{R},3.0,Legendary Creature — Human Shaman,"Other creatures you control get +1/+0.
+Whenever a nontoken creature you control dies, Judith, the Scourge Diva deals 1 damage to any target.",rare,True,"{'usd': '0.43', 'usd_foil': '2.46', 'eur': '0.69', 'tix': '0.02'}"
+477,2019-01-25,{4},4.0,Artifact Creature — Golem,"Defender
+{T}: Put target card from a graveyard on the bottom of its owner's library.",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.20', 'eur': '0.06', 'tix': '0.01'}"
+478,2019-01-25,{1}{W},2.0,Instant,"Exile target creature you control, then return that card to the battlefield under its owner's control. It gains first strike until end of turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.18', 'eur': '0.03', 'tix': '0.01'}"
+479,2019-01-25,{1}{W}{B},3.0,Legendary Planeswalker — Kaya,"+1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way.
+−1: Exile target nonland permanent with converted mana cost 1 or less.
+−5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.",mythic,True,"{'usd': '4.83', 'usd_foil': '14.63', 'eur': '4.80', 'tix': '7.47'}"
+480,2019-01-25,{W}{W}{B}{B},4.0,Sorcery,Destroy all creatures. You gain life equal to the number of creatures you controlled that were destroyed this way.,rare,True,"{'usd': '1.04', 'usd_foil': '3.04', 'eur': '1.52', 'tix': '0.72'}"
+481,2019-01-25,{4}{W},5.0,Creature — Human Knight,"Knight of Sorrows can block an additional creature each combat.
+Afterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)",common,True,"{'usd': '0.02', 'usd_foil': '0.14', 'eur': '0.02', 'tix': '0.01'}"
+482,2019-01-25,{5}{W}{B},7.0,Creature — Giant Knight,"{3}, Sacrifice another nontoken creature: Create a 1/1 white and black Spirit creature token with flying.
+Afterlife 3 (When this creature dies, create three 1/1 white and black Spirit creature tokens with flying.)",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.13', 'eur': '0.05', 'tix': '0.01'}"
+483,2019-01-25,{W}{U},2.0,Legendary Creature — Human Soldier,"Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls.
+Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.",rare,True,"{'usd': '0.48', 'usd_foil': '1.32', 'eur': '0.36', 'tix': '0.39'}"
+484,2019-01-25,{1}{W}{U},3.0,Enchantment — Aura,"Flash
+Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.",common,True,"{'usd': '0.03', 'usd_foil': '0.30', 'eur': '0.05', 'tix': '0.01'}"
+485,2019-01-25,{2}{R},3.0,Sorcery,"Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.",uncommon,True,"{'usd': '2.72', 'usd_foil': '3.49', 'eur': '2.55', 'tix': '0.20'}"
+486,2019-01-25,{4}{W},5.0,Creature — Beast,"Vigilance
+When Lumbering Battlement enters the battlefield, exile any number of other nontoken creatures you control until it leaves the battlefield.
+Lumbering Battlement gets +2/+2 for each card exiled with it.",rare,True,"{'usd': '0.13', 'usd_foil': '0.60', 'eur': '0.11', 'tix': '0.01'}"
+487,2019-01-25,{2}{B}{R},4.0,Instant,Put target creature card from an opponent's graveyard onto the battlefield under your control. It gets +2/+0 and gains haste until end of turn. Sacrifice it at the beginning of the next end step.,uncommon,True,"{'usd': '0.04', 'usd_foil': '0.19', 'eur': '0.07', 'tix': '0.01'}"
+488,2019-01-25,{4}{G},5.0,Creature — Spider,Reach (This creature can block creatures with flying.),common,True,"{'usd': '0.03', 'usd_foil': '0.08', 'eur': '0.02', 'tix': '0.01'}"
+489,2019-01-25,{X}{X}{U}{U}{U}{U},4.0,Sorcery,Gain control of X target creatures and/or planeswalkers.,rare,True,"{'usd': '1.01', 'usd_foil': '3.15', 'eur': '0.66', 'tix': '0.04'}"
+490,2019-01-25,{3}{U}{U},5.0,Creature — Octopus,"When Mesmerizing Benthid enters the battlefield, create two 0/2 blue Illusion creature tokens with ""Whenever this creature blocks a creature, that creature doesn't untap during its controller's next untap step.""
+Mesmerizing Benthid has hexproof as long as you control an Illusion.",mythic,True,"{'usd': '0.42', 'usd_foil': '1.49', 'eur': '0.50', 'tix': '0.20'}"
+491,2019-01-25,{2}{W},3.0,Creature — Human Cleric,"Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)",uncommon,True,"{'usd': '0.10', 'usd_foil': '0.66', 'eur': '0.12', 'tix': '0.01'}"
+492,2019-01-25,{5}{R},6.0,Enchantment,"Whenever a nontoken creature enters the battlefield under your control, flip a coin until you lose a flip. For each flip you won, create a token that's a copy of that creature. Those tokens gain haste. Exile them at the beginning of the next end step.",rare,True,"{'usd': '0.28', 'usd_foil': '0.98', 'eur': '0.18', 'tix': '0.02'}"
+493,2019-01-25,{1}{W}{B},3.0,Instant,Destroy target creature or enchantment.,uncommon,True,"{'usd': '0.25', 'usd_foil': '0.81', 'eur': '0.17', 'tix': '0.02'}"
+494,2019-01-25,,0.0,Basic Land — Mountain,({T}: Add {R}.),common,False,"{'usd': '0.24', 'usd_foil': '0.35', 'eur': None, 'tix': '0.01'}"
+495,2019-01-25,{3}{R}{G},5.0,Legendary Creature — Centaur Druid,"You can't cast noncreature spells.
+Whenever you tap a land for mana, add one mana of any type that land produced.",rare,True,"{'usd': '0.21', 'usd_foil': '0.92', 'eur': '0.15', 'tix': '0.01'}"
+496,2019-01-25,{2}{B},3.0,Creature — Beast,Deathtouch,common,True,"{'usd': '0.03', 'usd_foil': '0.05', 'eur': '0.03', 'tix': '0.01'}"
+497,2019-01-25,{G},1.0,Sorcery,"Search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle your library.",common,True,"{'usd': '0.05', 'usd_foil': '0.49', 'eur': '0.06', 'tix': '0.01'}"
+498,2019-01-25,{1}{B},2.0,Creature — Human Rogue,"Deathtouch
+Afterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)",uncommon,True,"{'usd': '0.19', 'usd_foil': '0.78', 'eur': '0.13', 'tix': '0.01'}"
+499,2019-01-25,,0.0,Land — Gate,"Orzhov Guildgate enters the battlefield tapped.
+{T}: Add {W} or {B}.",common,True,"{'usd': '0.04', 'usd_foil': '0.42', 'eur': '0.04', 'tix': '0.01'}"
+500,2019-01-25,{3},3.0,Artifact,"{T}: Add {W} or {B}.
+{W/B}{W/B}{W/B}{W/B}, {T}, Sacrifice Orzhov Locket: Draw two cards.",common,True,"{'usd': '0.06', 'usd_foil': '0.28', 'eur': '0.10', 'tix': '0.01'}"
+501,2019-01-25,{4}{B},5.0,Creature — Human Rogue,"Whenever Orzhov Racketeers deals combat damage to a player, that player discards a card.
+Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)",uncommon,True,"{'usd': '0.02', 'usd_foil': '0.12', 'eur': '0.06', 'tix': '0.01'}"
+502,2019-01-25,{1}{U},2.0,Creature — Human Advisor,"{1}, {T}: Target player puts the top card of their library into their graveyard.
+Tap four untapped Advisors you control: Target player puts the top twelve cards of their library into their graveyard.
+A deck can have any number of cards named Persistent Petitioners.",common,True,"{'usd': '0.88', 'usd_foil': '1.58', 'eur': '0.16', 'tix': '0.01'}"
+503,2019-01-25,{2}{B},3.0,Creature — Spirit,"Menace, deathtouch
+Instant and sorcery spells you control have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.)",rare,True,"{'usd': '0.29', 'usd_foil': '1.06', 'eur': '0.28', 'tix': '0.01'}"
+504,2019-01-25,{W}{B},2.0,Creature — Vampire Cleric,"{1}, Sacrifice another creature: Pitiless Pontiff gains deathtouch and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",uncommon,True,"{'usd': '0.11', 'usd_foil': '0.80', 'eur': '0.11', 'tix': '0.01'}"
+505,2019-01-25,{1}{B},2.0,Creature — Zombie,"Whenever Plague Wight becomes blocked, each creature blocking it gets -1/-1 until end of turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.16', 'eur': '0.01', 'tix': '0.01'}"
+506,2019-01-25,,0.0,Basic Land — Plains,({T}: Add {W}.),common,False,"{'usd': '0.15', 'usd_foil': '0.24', 'eur': None, 'tix': '0.01'}"
+507,2019-01-25,,0.0,Land,"When Plaza of Harmony enters the battlefield, if you control two or more Gates, you gain 3 life.
+{T}: Add {C}.
+{T}: Add one mana of any type that a Gate you control could produce.",rare,True,"{'usd': '0.38', 'usd_foil': '2.21', 'eur': '0.51', 'tix': '0.27'}"
+508,2019-01-25,{3}{U}{U},5.0,Instant,"Draw three cards.
+Addendum — If you cast this spell during your main phase, instead scry 3, then draw three cards.",rare,True,"{'usd': '0.23', 'usd_foil': '0.81', 'eur': '0.16', 'tix': '0.07'}"
+509,2019-01-25,{1}{B},2.0,Creature — Human Cleric,"{T}, Sacrifice two other creatures: Any number of target players each lose 2 life and sacrifice a creature. You add {B}{B} and draw a card.",rare,True,"{'usd': '1.06', 'usd_foil': '2.90', 'eur': '1.86', 'tix': '0.12'}"
+510,2019-01-25,{2}{G}{U},4.0,Legendary Creature — Elf Ooze Wizard,"{T}, Sacrifice another creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.",mythic,True,"{'usd': '2.76', 'usd_foil': '10.60', 'eur': '3.28', 'tix': '1.49'}"
+511,2019-01-25,{1}{W},2.0,Creature — Cat,,common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.01', 'tix': '0.01'}"
+512,2019-01-25,{4}{U}{U},6.0,Instant,"Draw four cards, then discard two cards.",common,True,"{'usd': '0.02', 'usd_foil': '0.12', 'eur': '0.01', 'tix': '0.01'}"
+513,2019-01-25,{U},1.0,Creature — Salamander Drake,"Flying
+{7}{U}: Adapt 4. This ability costs {1} less to activate for each instant and sorcery card in your graveyard. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)",uncommon,True,"{'usd': '0.43', 'usd_foil': '2.07', 'eur': '0.57', 'tix': '0.02'}"
+514,2019-01-25,{1}{U},2.0,Instant,Counter target spell unless its controller pays {2}.,common,True,"{'usd': '0.10', 'usd_foil': '0.46', 'eur': '0.07', 'tix': '0.01'}"
+515,2019-01-25,{2}{B}{R},4.0,Creature — Demon,"Spectacle {3}{B}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+When Rafter Demon enters the battlefield, if its spectacle cost was paid, each opponent discards a card.",common,True,"{'usd': '0.01', 'usd_foil': '0.08', 'eur': '0.05', 'tix': '0.01'}"
+516,2019-01-25,{1}{R},2.0,Sorcery,Ragefire deals 3 damage to target creature.,common,False,"{'usd': '0.11', 'usd_foil': None, 'eur': None, 'tix': None}"
+517,2019-01-25,{B}{B}{R}{R},4.0,Creature — Human Rogue,"When Rakdos Firewheeler enters the battlefield, it deals 2 damage to target opponent and 2 damage to up to one target creature or planeswalker.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.41', 'eur': '0.05', 'tix': '0.01'}"
+518,2019-01-25,,0.0,Land — Gate,"Rakdos Guildgate enters the battlefield tapped.
+{T}: Add {B} or {R}.",common,True,"{'usd': '0.03', 'usd_foil': '0.43', 'eur': '0.04', 'tix': '0.01'}"
+519,2019-01-25,{3},3.0,Artifact,"{T}: Add {B} or {R}.
+{B/R}{B/R}{B/R}{B/R}, {T}, Sacrifice Rakdos Locket: Draw two cards.",common,True,"{'usd': '0.07', 'usd_foil': '0.22', 'eur': '0.09', 'tix': '0.01'}"
+520,2019-01-25,{1}{B}{R},3.0,Creature — Ogre Warrior,"Whenever Rakdos Roustabout becomes blocked, it deals 1 damage to the player or planeswalker it's attacking.",common,True,"{'usd': '0.03', 'usd_foil': '0.09', 'eur': '0.02', 'tix': '0.01'}"
+521,2019-01-25,{4}{B}{R},6.0,Legendary Creature — Demon,"Flying, trample
+When Rakdos, the Showstopper enters the battlefield, flip a coin for each creature that isn't a Demon, Devil, or Imp. Destroy each creature whose coin comes up tails.",mythic,True,"{'usd': '0.54', 'usd_foil': '2.66', 'eur': '0.71', 'tix': '0.46'}"
+522,2019-01-25,{1}{B},2.0,Creature — Human Shaman,"Menace (This creature can't be blocked except by two or more creatures.)
+{3}{R}: Rakdos Trumpeter gets +2/+0 until end of turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.16', 'eur': '0.02', 'tix': '0.01'}"
+523,2018-10-05,{5}{G},6.0,Creature — Beast,"When Affectionate Indrik enters the battlefield, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",uncommon,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.05', 'tix': '0.01'}"
+524,2018-10-05,{7}{G}{G},9.0,Creature — Elemental,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.)
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.15', 'eur': '0.05', 'tix': '0.01'}"
+525,2018-10-05,{3}{R},4.0,Creature — Phoenix,"Flying, haste
+At the beginning of combat on your turn, if you've cast three or more instant and sorcery spells this turn, return Arclight Phoenix from your graveyard to the battlefield.",mythic,True,"{'usd': '7.81', 'usd_foil': '26.45', 'eur': '10.45', 'tix': '20.83'}"
+526,2018-10-05,{2}{U}{B},4.0,Instant,"Choose one or both —
+• Tap target creature.
+• Target creature gets -2/-4 until end of turn.",common,True,"{'usd': '0.03', 'usd_foil': '0.12', 'eur': '0.03', 'tix': '0.01'}"
+527,2018-10-05,{B}{G},2.0,Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.",rare,True,"{'usd': '15.89', 'usd_foil': '32.84', 'eur': '15.78', 'tix': '10.30'}"
+528,2018-10-05,{G/W}{G/W} // {4}{G}{W},8.0,Instant // Instant,,rare,True,"{'usd': '0.19', 'usd_foil': '0.46', 'eur': '0.11', 'tix': '0.01'}"
+529,2018-10-05,{1}{B}{G},3.0,Creature — Zombie Soldier,"When Attendant of Vraska dies, if you control a Vraska planeswalker, you gain life equal to Attendant of Vraska's power.",uncommon,False,"{'usd': '0.15', 'usd_foil': None, 'eur': None, 'tix': '0.40'}"
+530,2018-10-05,{2}{R}{W},4.0,Legendary Creature — Angel,"Flying
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of combat on your turn, choose up to one target creature you control. Until end of turn, that creature gets +2/+0, gains trample if it's red, and gains vigilance if it's white.",mythic,True,"{'usd': '2.25', 'usd_foil': '5.00', 'eur': '2.82', 'tix': '0.37'}"
+531,2018-10-05,{4}{R},5.0,Creature — Minotaur Soldier,"Haste
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)",common,True,"{'usd': '0.03', 'usd_foil': '0.21', 'eur': '0.03', 'tix': '0.01'}"
+532,2018-10-05,{B},1.0,Creature — Skeleton Wall,"Defender
+When Barrier of Bones enters the battlefield, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)",common,True,"{'usd': '0.03', 'usd_foil': '0.15', 'eur': '0.05', 'tix': '0.01'}"
+533,2018-10-05,{3}{B},4.0,Creature — Bat,Flying (This creature can't be blocked except by creatures with flying or reach.),common,True,"{'usd': '0.03', 'usd_foil': '0.14', 'eur': '0.02', 'tix': '0.01'}"
+534,2018-10-05,{1}{U}{R},3.0,Sorcery,"Beacon Bolt deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",uncommon,True,"{'usd': '0.11', 'usd_foil': '0.48', 'eur': '0.09', 'tix': '0.01'}"
+535,2018-10-05,{U}{R},2.0,Creature — Vedalken Wizard,"Whenever you cast an instant or sorcery spell that targets only Beamsplitter Mage, if you control one or more other creatures that spell could target, choose one of those creatures. Copy that spell. The copy targets the chosen creature.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.29', 'eur': '0.04', 'tix': '0.01'}"
+536,2018-10-05,{2}{G}{G},4.0,Creature — Elf Druid,"Whenever you cast a creature spell, draw a card.",rare,True,"{'usd': '1.85', 'usd_foil': '1.90', 'eur': '1.95', 'tix': '0.25'}"
+537,2018-10-05,{2}{W},3.0,Creature — Human Soldier,"Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)",common,True,"{'usd': '0.03', 'usd_foil': '0.15', 'eur': '0.03', 'tix': '0.01'}"
+538,2018-10-05,{1}{B}{B},3.0,Creature — Vampire Assassin,"Lifelink
+When Blood Operative enters the battlefield, you may exile target card from a graveyard.
+Whenever you surveil, if Blood Operative is in your graveyard, you may pay 3 life. If you do, return Blood Operative to your hand.",rare,True,"{'usd': '0.07', 'usd_foil': '0.53', 'eur': '0.10', 'tix': '0.02'}"
+539,2018-10-05,{5}{R},6.0,Creature — Beast,"Trample
+Whenever Book Devourer deals combat damage to a player, you may discard all the cards in your hand. If you do, draw that many cards.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.13', 'eur': '0.07', 'tix': '0.01'}"
+540,2018-10-05,{R}{W},2.0,Creature — Human Soldier,"Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+{2}{R}{W}: Boros Challenger gets +1/+1 until end of turn.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.36', 'eur': '0.09', 'tix': '0.01'}"
+541,2018-10-05,,0.0,Land — Gate,"Boros Guildgate enters the battlefield tapped.
+{T}: Add {R} or {W}.",common,True,"{'usd': '0.05', 'usd_foil': '0.47', 'eur': '0.05', 'tix': '0.01'}"
+542,2018-10-05,{3},3.0,Artifact,"{T}: Add {R} or {W}.
+{R/W}{R/W}{R/W}{R/W}, {T}, Sacrifice Boros Locket: Draw two cards.",common,True,"{'usd': '0.08', 'usd_foil': '0.47', 'eur': '0.10', 'tix': '0.01'}"
+543,2018-10-05,{1}{W},2.0,Creature — Human Soldier,"Vigilance
+{T}, Sacrifice Bounty Agent: Destroy target legendary permanent that's an artifact, creature, or enchantment.",rare,True,"{'usd': '0.19', 'usd_foil': '0.47', 'eur': '0.12', 'tix': '0.02'}"
+544,2018-10-05,{4}{G}{G},6.0,Instant,"Target creature gets +3/+3 until end of turn.
+Target creature gets +3/+3 until end of turn.
+Target creature gets +3/+3 until end of turn.",rare,True,"{'usd': '0.05', 'usd_foil': '0.33', 'eur': '0.08', 'tix': '0.02'}"
+545,2018-10-05,{1}{B},2.0,Creature — Rat,"When Burglar Rat enters the battlefield, each opponent discards a card.",common,True,"{'usd': '0.14', 'usd_foil': '0.58', 'eur': '0.07', 'tix': '0.01'}"
+546,2018-10-05,{4}{G}{W},6.0,Sorcery,"You gain X life and draw X cards, where X is the number of creatures you control. Creatures you control get +1/+1 until end of turn.",rare,True,"{'usd': '0.18', 'usd_foil': '0.59', 'eur': '0.17', 'tix': '0.02'}"
+547,2018-10-05,{3}{W},4.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +3/+2 and has vigilance.",common,True,"{'usd': '0.02', 'usd_foil': '0.13', 'eur': '0.02', 'tix': '0.01'}"
+548,2018-10-05,{3}{U},4.0,Enchantment — Aura,"Flash
+Enchant creature
+When Capture Sphere enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",common,True,"{'usd': '0.03', 'usd_foil': '0.14', 'eur': '0.04', 'tix': '0.01'}"
+549,2018-10-05,{1}{G}{W},3.0,Creature — Centaur Cleric,"When Centaur Peacemaker enters the battlefield, each player gains 4 life.",common,True,"{'usd': '0.04', 'usd_foil': '0.15', 'eur': '0.02', 'tix': '0.01'}"
+550,2018-10-05,{X},0.0,Artifact Creature — Construct,"Chamber Sentry enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
+{X}, {T}, Remove X +1/+1 counters from Chamber Sentry: It deals X damage to any target.
+{W}{U}{B}{R}{G}: Return Chamber Sentry from your graveyard to your hand.",rare,True,"{'usd': '0.20', 'usd_foil': '0.95', 'eur': '0.16', 'tix': '0.02'}"
+551,2018-10-05,{1}{R}{W},3.0,Instant,"Creatures you control gain indestructible. Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.",mythic,True,"{'usd': '0.86', 'usd_foil': '3.45', 'eur': '0.77', 'tix': '0.97'}"
+552,2018-10-05,{1}{B}{G},3.0,Creature — Troll,"Trample
+At the beginning of your upkeep, exile a creature card from your graveyard. If you do, put a +1/+1 counter on Charnel Troll. Otherwise, sacrifice it.
+{B}{G}, Discard a creature card: Put a +1/+1 counter on Charnel Troll.",rare,True,"{'usd': '0.46', 'usd_foil': '1.38', 'eur': '0.09', 'tix': '0.01'}"
+553,2018-10-05,{3}{U},4.0,Instant,"Draw two cards.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",uncommon,True,"{'usd': '0.26', 'usd_foil': '1.09', 'eur': '0.25', 'tix': '0.01'}"
+554,2018-10-05,{1}{B},2.0,Creature — Vampire,Lifelink,common,True,"{'usd': '0.03', 'usd_foil': '0.20', 'eur': '0.04', 'tix': '0.01'}"
+555,2018-10-05,{3},3.0,Artifact,"Lands you control have ""{T}: Add one mana of any color.""
+{T}: Add one mana of any color.",rare,True,"{'usd': '6.17', 'usd_foil': '9.50', 'eur': '3.67', 'tix': '0.02'}"
+556,2018-10-05,{3}{G},4.0,Sorcery,"Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle your library.",uncommon,True,"{'usd': '0.60', 'usd_foil': '3.36', 'eur': '0.42', 'tix': '0.01'}"
+557,2018-10-05,{5}{U},6.0,Creature — Sphinx,"Flying
+When Citywatch Sphinx dies, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.13', 'eur': '0.06', 'tix': '0.01'}"
+558,2018-10-05,{1}{W}{W},3.0,Sorcery,Destroy all creatures with toughness 4 or greater.,rare,True,"{'usd': '0.20', 'usd_foil': '0.43', 'eur': '0.15', 'tix': '0.02'}"
+559,2018-10-05,{3}{W},4.0,Instant,Destroy target creature with toughness 4 or greater.,common,True,"{'usd': '0.03', 'usd_foil': '0.12', 'eur': '0.01', 'tix': '0.01'}"
+560,2018-10-05,{4}{R},5.0,Instant,Command the Storm deals 5 damage to target creature.,common,True,"{'usd': '0.04', 'usd_foil': '0.12', 'eur': '0.05', 'tix': '0.01'}"
+561,2018-10-05,{G}{G}{W}{W},4.0,Creature — Centaur Knight,"Vigilance
+When Conclave Cavalier dies, create two 2/2 green and white Elf Knight creature tokens with vigilance.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.52', 'eur': '0.08', 'tix': '0.01'}"
+562,2018-10-05,{G}{W},2.0,Creature — Elf Cleric,"{G}, {T}: Creatures you control gain trample until end of turn.
+{5}{W}, {T}: Create a 2/2 green and white Elf Knight creature token with vigilance.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.32', 'eur': '0.08', 'tix': '0.01'}"
+563,2018-10-05,{3}{W},4.0,Enchantment,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When Conclave Tribunal enters the battlefield, exile target nonland permanent an opponent controls until Conclave Tribunal leaves the battlefield.",uncommon,True,"{'usd': '0.14', 'usd_foil': '0.70', 'eur': '0.16', 'tix': '0.01'}"
+564,2018-10-05,{2}{U/B}{U/B} // {3}{U}{B},9.0,Sorcery // Sorcery,,rare,True,"{'usd': '0.28', 'usd_foil': '0.85', 'eur': '0.20', 'tix': '0.02'}"
+565,2018-10-05,{3}{R},4.0,Sorcery,Cosmotronic Wave deals 1 damage to each creature your opponents control. Creatures your opponents control can't block this turn.,common,True,"{'usd': '0.04', 'usd_foil': '0.21', 'eur': '0.07', 'tix': '0.01'}"
+566,2018-10-05,{U}{U}{R}{R},4.0,Creature — Drake,"Flying
+Crackling Drake's power is equal to the total number of instant and sorcery cards you own in exile and in your graveyard.
+When Crackling Drake enters the battlefield, draw a card.",uncommon,True,"{'usd': '0.23', 'usd_foil': '1.99', 'eur': '0.19', 'tix': '0.01'}"
+567,2018-10-05,{3}{B},4.0,Sorcery,"Creeping Chill deals 3 damage to each opponent and you gain 3 life.
+When Creeping Chill is put into your graveyard from your library, you may exile it. If you do, Creeping Chill deals 3 damage to each opponent and you gain 3 life.",uncommon,True,"{'usd': '0.43', 'usd_foil': '3.39', 'eur': '0.27', 'tix': '0.01'}"
+568,2018-10-05,{3}{W},4.0,Instant,"Choose one or both —
+• Exile target artifact.
+• Exile target enchantment.",uncommon,True,"{'usd': '0.19', 'usd_foil': '0.97', 'eur': '0.07', 'tix': '0.01'}"
+569,2018-10-05,{2}{G},3.0,Instant,"Choose one —
+• Destroy target creature with flying.
+• Destroy target enchantment.",common,True,"{'usd': '0.02', 'usd_foil': '0.18', 'eur': '0.06', 'tix': '0.01'}"
+570,2018-10-05,{1}{U}{B},3.0,Creature — Human Assassin,"As long as you've surveilled this turn, Darkblade Agent has deathtouch and ""Whenever this creature deals combat damage to a player, you draw a card.""",common,True,"{'usd': '0.05', 'usd_foil': '0.12', 'eur': '0.05', 'tix': '0.01'}"
+571,2018-10-05,{1}{W},2.0,Enchantment,"Whenever you gain life, you may pay {2}. If you do, draw a card.
+{3}{W}: Create a 1/1 white Soldier creature token with lifelink.",rare,True,"{'usd': '1.14', 'usd_foil': '2.14', 'eur': '0.74', 'tix': '0.10'}"
+572,2018-10-05,{U},1.0,Instant,"Target creature gets -3/-0 until end of turn.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)",common,True,"{'usd': '0.05', 'usd_foil': '0.14', 'eur': '0.04', 'tix': '0.01'}"
+573,2018-10-05,{3}{B}{B},5.0,Sorcery,"Destroy target creature.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",common,True,"{'usd': '0.03', 'usd_foil': '0.14', 'eur': '0.06', 'tix': '0.01'}"
+574,2018-10-05,{B},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets -2/-2.",common,True,"{'usd': '0.03', 'usd_foil': '0.31', 'eur': '0.06', 'tix': '0.01'}"
+575,2018-10-05,{1}{R}{W},3.0,Sorcery,"Choose one or both —
+• Deafening Clarion deals 3 damage to each creature.
+• Creatures you control gain lifelink until end of turn.",rare,True,"{'usd': '1.59', 'usd_foil': '2.20', 'eur': '1.08', 'tix': '0.14'}"
+576,2018-10-05,{W},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't block, and its activated abilities can't be activated.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.22', 'eur': '0.06', 'tix': '0.01'}"
+577,2018-10-05,{2}{U}{U},4.0,Instant,"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may shuffle up to four target cards from your graveyard into your library.",common,True,"{'usd': '0.06', 'usd_foil': '0.32', 'eur': '0.07', 'tix': '0.01'}"
+578,2018-10-05,{1}{G},2.0,Creature — Elf Warrior,{4}{G}: Devkarin Dissident gets +2/+2 until end of turn.,common,True,"{'usd': '0.01', 'usd_foil': '0.11', 'eur': '0.02', 'tix': '0.01'}"
+579,2018-10-05,,0.0,Land — Gate,"Dimir Guildgate enters the battlefield tapped.
+{T}: Add {U} or {B}.",common,True,"{'usd': '0.08', 'usd_foil': '0.47', 'eur': '0.05', 'tix': '0.01'}"
+580,2018-10-05,{2}{U},3.0,Creature — Human Rogue,"When Dimir Informant enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)",common,True,"{'usd': '0.02', 'usd_foil': '0.16', 'eur': '0.06', 'tix': '0.01'}"
+581,2018-10-05,{3},3.0,Artifact,"{T}: Add {U} or {B}.
+{U/B}{U/B}{U/B}{U/B}, {T}, Sacrifice Dimir Locket: Draw two cards.",common,True,"{'usd': '0.10', 'usd_foil': '0.32', 'eur': '0.12', 'tix': '0.01'}"
+582,2018-10-05,{U}{B},2.0,Creature — Insect,"Flying
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever you surveil, put a +1/+1 counter on Dimir Spybug.",uncommon,True,"{'usd': '0.10', 'usd_foil': '0.50', 'eur': '0.08', 'tix': '0.01'}"
+583,2018-10-05,{1}{R}{R},3.0,Sorcery,"Direct Current deals 2 damage to any target.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",common,True,"{'usd': '0.03', 'usd_foil': '0.16', 'eur': '0.03', 'tix': '0.01'}"
+584,2018-10-05,{1}{U/B} // {3}{U}{B},7.0,Sorcery // Instant,,uncommon,True,"{'usd': '0.48', 'usd_foil': '1.88', 'eur': '0.47', 'tix': '0.01'}"
+585,2018-10-05,{1}{U},2.0,Instant,Counter target spell with converted mana cost 4 or greater.,common,True,"{'usd': '0.10', 'usd_foil': '0.97', 'eur': '0.10', 'tix': '0.01'}"
+586,2018-10-05,{1}{U}{B},3.0,Enchantment,"When Disinformation Campaign enters the battlefield, you draw a card and each opponent discards a card.
+Whenever you surveil, return Disinformation Campaign to its owner's hand.",uncommon,True,"{'usd': '0.16', 'usd_foil': '0.81', 'eur': '0.09', 'tix': '0.01'}"
+587,2018-10-05,{2}{G},3.0,Creature — Elf Scout,"When District Guide enters the battlefield, you may search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle your library.",uncommon,True,"{'usd': '0.11', 'usd_foil': '0.67', 'eur': '0.10', 'tix': '0.01'}"
+588,2018-10-05,{3}{W}{W},5.0,Enchantment,"If one or more creature tokens would be created under your control, that many 4/4 white Angel creature tokens with flying and vigilance are created instead.",mythic,True,"{'usd': '6.85', 'usd_foil': '11.02', 'eur': '5.39', 'tix': '1.09'}"
+589,2018-10-05,{3}{B}{B},5.0,Creature — Nightmare Demon,"Flying, trample
+Pay 2 life: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)",mythic,True,"{'usd': '3.37', 'usd_foil': '9.07', 'eur': '3.73', 'tix': '0.96'}"
+590,2018-10-05,{4}{B},5.0,Creature — Horror,,common,True,"{'usd': '0.04', 'usd_foil': '0.10', 'eur': '0.02', 'tix': '0.01'}"
+591,2018-10-05,{4}{U}{U},6.0,Creature — Nightmare Sphinx,"Flash
+Flying
+When Dream Eater enters the battlefield, surveil 4. When you do, you may return target nonland permanent an opponent controls to its owner's hand. (To surveil 4, look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",mythic,True,"{'usd': '0.66', 'usd_foil': '2.13', 'eur': '0.72', 'tix': '0.08'}"
+592,2018-10-05,{1}{U},2.0,Enchantment,"Whenever you cast a blue spell, target player puts the top two cards of their library into their graveyard.",rare,True,"{'usd': '1.56', 'usd_foil': '3.96', 'eur': '0.91', 'tix': '0.15'}"
+593,2018-10-05,{1}{R},2.0,Creature — Wall,"Defender
+Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 damage to each opponent.",uncommon,True,"{'usd': '0.42', 'usd_foil': '2.16', 'eur': '0.18', 'tix': '0.01'}"
+594,2018-10-05,{G}{W},2.0,Legendary Creature — Elf Cleric,"Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white Soldier creature token with lifelink.",rare,True,"{'usd': '0.36', 'usd_foil': '1.13', 'eur': '0.22', 'tix': '0.01'}"
+595,2018-10-05,{1}{U},2.0,Enchantment,"You may look at an additional two cards each time you surveil.
+Exile Enhanced Surveillance: Shuffle your graveyard into your library.",uncommon,True,"{'usd': '0.08', 'usd_foil': '0.38', 'eur': '0.05', 'tix': '0.01'}"
+596,2018-10-05,{3}{R},4.0,Creature — Cyclops Shaman,"Trample
+Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 until end of turn, where X is that spell's converted mana cost.",rare,True,"{'usd': '0.11', 'usd_foil': '0.21', 'eur': '0.05', 'tix': '0.01'}"
+597,2018-10-05,{1}{B}{G},3.0,Creature — Zombie Soldier,Discard a creature card: Erstwhile Trooper gets +2/+2 and gains trample until end of turn. Activate this ability only once each turn.,common,True,"{'usd': '0.03', 'usd_foil': '0.12', 'eur': '0.03', 'tix': '0.01'}"
+598,2018-10-05,{2}{U}{B},4.0,Legendary Creature — Vampire Assassin,"Etrata, the Silencer can't be blocked.
+Whenever Etrata deals combat damage to a player, exile target creature that player controls and put a hit counter on that card. That player loses the game if they own three or more exiled cards with hit counters on them. Etrata's owner shuffles Etrata into their library.",rare,True,"{'usd': '0.33', 'usd_foil': '1.56', 'eur': '0.24', 'tix': '0.02'}"
+599,2018-10-05,{U/R}{U/R} // {X}{U}{U}{R}{R},6.0,Instant // Instant,,rare,True,"{'usd': '1.35', 'usd_foil': '3.11', 'eur': '1.43', 'tix': '0.08'}"
+600,2018-10-05,{3}{R},4.0,Enchantment,"You may look at the top card of your library any time.
+You may play the top card of your library.
+You can't play cards from your hand.
+{3}{R}: Destroy Experimental Frenzy.",rare,True,"{'usd': '1.18', 'usd_foil': '4.95', 'eur': '0.95', 'tix': '1.26'}"
+601,2018-10-05,{2}{R},3.0,Creature — Human Warrior,,common,True,"{'usd': '0.02', 'usd_foil': '0.08', 'eur': '0.02', 'tix': '0.01'}"
+602,2018-10-05,{B/G}{B/G} // {4}{B}{G},8.0,Sorcery // Sorcery,,rare,True,"{'usd': '0.19', 'usd_foil': '0.71', 'eur': '0.22', 'tix': '0.03'}"
+603,2018-10-05,{U}{R},2.0,Enchantment,"Whenever you cast an instant or sorcery spell, put a charge counter on Firemind's Research.
+{1}{U}, Remove two charge counters from Firemind's Research: Draw a card.
+{1}{R}, Remove five charge counters from Firemind's Research: It deals 5 damage to any target.",rare,True,"{'usd': '0.18', 'usd_foil': '0.44', 'eur': '0.16', 'tix': '0.02'}"
+604,2018-10-05,{1}{R},2.0,Creature — Elemental,"Trample
+Whenever you cast an instant or sorcery spell, Fire Urchin gets +1/+0 until end of turn.",common,True,"{'usd': '0.04', 'usd_foil': '0.14', 'eur': '0.03', 'tix': '0.01'}"
+605,2018-10-05,{7}{W},8.0,Creature — Human Knight,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Flying",uncommon,True,"{'usd': '0.02', 'usd_foil': '0.12', 'eur': '0.06', 'tix': '0.01'}"
+606,2018-10-05,{G/W} // {4}{G}{W},7.0,Sorcery // Sorcery,,uncommon,True,"{'usd': '0.10', 'usd_foil': '0.71', 'eur': '0.13', 'tix': '0.01'}"
+607,2018-10-05,,0.0,Basic Land — Forest,({T}: Add {G}.),common,False,"{'usd': '0.37', 'usd_foil': '0.38', 'eur': None, 'tix': '0.01'}"
+608,2018-10-05,{1}{R/W},2.0,Creature — Human Soldier,"As long as it's your turn, Fresh-Faced Recruit has first strike.",common,True,"{'usd': '0.02', 'usd_foil': '0.17', 'eur': '0.02', 'tix': '0.01'}"
+609,2018-10-05,{3}{R}{W},5.0,Creature — Viashino Soldier,Garrison Sergeant has double strike as long as you control a Gate.,common,True,"{'usd': '0.04', 'usd_foil': '0.13', 'eur': '0.01', 'tix': '0.01'}"
+610,2018-10-05,{6},6.0,Artifact Creature — Gargoyle,"Flying
+Gatekeeper Gargoyle enters the battlefield with a +1/+1 counter on it for each Gate you control.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.21', 'eur': '0.05', 'tix': '0.01'}"
+611,2018-10-05,,0.0,Land — Gate,"Gateway Plaza enters the battlefield tapped.
+When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.",common,True,"{'usd': '0.09', 'usd_foil': '0.39', 'eur': '0.06', 'tix': '0.01'}"
+612,2018-10-05,{2}{G},3.0,Creature — Cat,"When Generous Stray enters the battlefield, draw a card.",common,True,"{'usd': '0.04', 'usd_foil': '0.31', 'eur': '0.07', 'tix': '0.01'}"
+613,2018-10-05,{W},1.0,Sorcery,Put a +1/+1 counter on each of up to two target creatures.,uncommon,True,"{'usd': '0.17', 'usd_foil': '0.53', 'eur': '0.12', 'tix': '0.01'}"
+614,2018-10-05,{2},2.0,Artifact — Equipment,"Equipped creature gets +1/+0 for each Gate you control and has vigilance and menace. (A creature with menace can't be blocked except by two or more creatures.)
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.23', 'eur': '0.05', 'tix': '0.01'}"
+615,2018-10-05,{B}{G},2.0,Creature — Elf Shaman,"When Glowspore Shaman enters the battlefield, put the top three cards of your library into your graveyard. You may put a land card from your graveyard on top of your library.",uncommon,True,"{'usd': '0.14', 'usd_foil': '0.60', 'eur': '0.12', 'tix': '0.01'}"
+616,2018-10-05,{R},1.0,Creature — Goblin Soldier,"Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+{1}{R}: Goblin Banneret gets +2/+0 until end of turn.",uncommon,True,"{'usd': '0.10', 'usd_foil': '0.30', 'eur': '0.09', 'tix': '0.01'}"
+617,2018-10-05,{1}{R},2.0,Creature — Goblin Warrior,"{1}, Sacrifice Goblin Cratermaker: Choose one —
+• Goblin Cratermaker deals 2 damage to target creature.
+• Destroy target colorless nonland permanent.",uncommon,True,"{'usd': '0.21', 'usd_foil': '2.57', 'eur': '0.16', 'tix': '0.01'}"
+618,2018-10-05,{U}{R},2.0,Creature — Goblin Wizard,Instant and sorcery spells you cast cost {1} less to cast.,common,True,"{'usd': '0.11', 'usd_foil': '0.76', 'eur': '0.09', 'tix': '0.01'}"
+619,2018-10-05,{1}{R},2.0,Creature — Goblin Rogue,"Whenever Goblin Locksmith attacks, creatures with defender can't block this turn.",common,True,"{'usd': '0.04', 'usd_foil': '0.08', 'eur': '0.02', 'tix': '0.01'}"
+620,2018-10-05,{B}{B}{G}{G},4.0,Creature — Elf Shaman,"When Golgari Findbroker enters the battlefield, return target permanent card from your graveyard to your hand.",uncommon,True,"{'usd': '0.11', 'usd_foil': '0.72', 'eur': '0.13', 'tix': '0.01'}"
+621,2018-10-05,,0.0,Land — Gate,"Golgari Guildgate enters the battlefield tapped.
+{T}: Add {B} or {G}.",common,True,"{'usd': '0.03', 'usd_foil': '0.46', 'eur': '0.05', 'tix': '0.01'}"
+622,2018-10-05,{3},3.0,Artifact,"{T}: Add {B} or {G}.
+{B/G}{B/G}{B/G}{B/G}, {T}, Sacrifice Golgari Locket: Draw two cards.",common,True,"{'usd': '0.08', 'usd_foil': '0.31', 'eur': '0.07', 'tix': '0.01'}"
+623,2018-10-05,{3}{G},4.0,Creature — Elf Warrior,"Haste
+Undergrowth — Golgari Raiders enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.19', 'eur': '0.02', 'tix': '0.01'}"
+624,2018-10-05,{1}{G},2.0,Creature — Plant,"Defender, reach
+{4}{G}: Grappling Sundew gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy this creature.)",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.19', 'eur': '0.06', 'tix': '0.01'}"
+625,2018-10-05,{3}{R},4.0,Sorcery,"Target creature you control deals damage equal to its power to target player.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",common,True,"{'usd': '0.03', 'usd_foil': '0.19', 'eur': '0.06', 'tix': '0.01'}"
+626,2018-10-05,{3}{B}{B},5.0,Sorcery,"Choose a creature card with converted mana cost 1 in your graveyard, then do the same for creature cards with converted mana costs 2 and 3. Return those cards to the battlefield.",rare,True,"{'usd': '0.24', 'usd_foil': '0.62', 'eur': '0.13', 'tix': '0.01'}"
+627,2018-10-05,,0.0,Land,"{T}: Add {C}.
+{1}, {T}: Add one mana of any color. If that mana is spent on a multicolored creature spell, that creature enters the battlefield with an additional +1/+1 counter on it.",rare,True,"{'usd': '0.28', 'usd_foil': '0.89', 'eur': '0.22', 'tix': '0.02'}"
+628,2018-10-05,{2}{U},3.0,Enchantment,"When Guild Summit enters the battlefield, you may tap any number of untapped Gates you control. Draw a card for each Gate tapped this way.
+Whenever a Gate enters the battlefield under your control, draw a card.",uncommon,True,"{'usd': '0.31', 'usd_foil': '1.63', 'eur': '0.15', 'tix': '0.01'}"
+629,2018-10-05,{W},1.0,Creature — Human Soldier,"Whenever Haazda Marshal and at least two other creatures attack, create a 1/1 white Soldier creature token with lifelink.",uncommon,True,"{'usd': '0.11', 'usd_foil': '0.37', 'eur': '0.09', 'tix': '0.01'}"
+630,2018-10-05,{2}{R}{W},4.0,Creature — Giant Soldier,"Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)",common,True,"{'usd': '0.03', 'usd_foil': '0.16', 'eur': '0.02', 'tix': '0.01'}"
+631,2018-10-05,{5}{G}{G},7.0,Creature — Spider,"Reach
+Undergrowth — When you cast this spell, reveal the top X cards of your library, where X is the number of creature cards in your graveyard. You may put a green permanent card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",rare,True,"{'usd': '0.15', 'usd_foil': '0.45', 'eur': '0.08', 'tix': '0.01'}"
+632,2018-10-05,{W},1.0,Creature — Bird,"Flying, lifelink",common,True,"{'usd': '0.16', 'usd_foil': '0.92', 'eur': '0.11', 'tix': '0.01'}"
+633,2018-10-05,{4}{R},5.0,Creature — Dragon,"Flying
+Whenever Hellkite Whelp attacks, it deals 1 damage to target creature defending player controls.",uncommon,True,"{'usd': '0.02', 'usd_foil': '0.14', 'eur': '0.05', 'tix': '0.01'}"
+634,2018-10-05,{B},1.0,Creature — Human Assassin,Deathtouch,common,True,"{'usd': '0.03', 'usd_foil': '0.22', 'eur': '0.06', 'tix': '0.01'}"
+635,2018-10-05,{2}{G},3.0,Creature — Spider,Reach (This creature can block creatures with flying.),common,True,"{'usd': '0.03', 'usd_foil': '0.11', 'eur': '0.08', 'tix': '0.01'}"
+636,2018-10-05,{U}{B},2.0,Creature — Human Wizard,"{1}{U}, {T}: Target creature doesn't untap during its controller's next untap step.
+{2}{B}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",uncommon,True,"{'usd': '0.09', 'usd_foil': '0.46', 'eur': '0.07', 'tix': '0.01'}"
+637,2018-10-05,{W},1.0,Creature — Human,"When Hunted Witness dies, create a 1/1 white Soldier creature token with lifelink.",common,True,"{'usd': '0.10', 'usd_foil': '0.55', 'eur': '0.08', 'tix': '0.01'}"
+638,2018-10-05,{3}{U}{R},5.0,Instant,"Draw two cards. Then you may discard a nonland card. When you do, Hypothesizzle deals 4 damage to target creature.",common,True,"{'usd': '0.02', 'usd_foil': '0.18', 'eur': '0.02', 'tix': '0.01'}"
+639,2018-10-05,{7}{G}{G}{G},10.0,Creature — Wurm,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Indestructible",mythic,False,"{'usd': None, 'usd_foil': '2.63', 'eur': '1.76', 'tix': '0.80'}"
+640,2018-10-05,{4}{R}{R},6.0,Instant,"This spell can't be countered.
+Inescapable Blaze deals 6 damage to any target.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.29', 'eur': '0.03', 'tix': '0.01'}"
+641,2018-10-05,{2}{W}{W},4.0,Creature — Unicorn,"Whenever Inspiring Unicorn attacks, creatures you control get +1/+1 until end of turn.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.20', 'eur': '0.09', 'tix': '0.01'}"
+642,2018-10-05,{R/W} // {2}{R}{W},5.0,Instant // Instant,,uncommon,True,"{'usd': '0.09', 'usd_foil': '0.41', 'eur': '0.10', 'tix': '0.01'}"
+643,2018-10-05,{4}{W},5.0,Creature — Beast,"Vigilance
+When Intrusive Packbeast enters the battlefield, tap up to two target creatures your opponents control.",common,True,"{'usd': '0.02', 'usd_foil': '0.06', 'eur': '0.02', 'tix': '0.01'}"
+644,2018-10-05,{U/R} // {4}{U}{R},7.0,Instant // Instant,,uncommon,True,"{'usd': '0.05', 'usd_foil': '0.37', 'eur': '0.07', 'tix': '0.01'}"
+645,2018-10-05,{1}{U}{R},3.0,Instant,Counter target spell. Ionize deals 2 damage to that spell's controller.,rare,True,"{'usd': '0.87', 'usd_foil': '1.22', 'eur': '0.86', 'tix': '0.06'}"
+646,2018-10-05,{1}{G},2.0,Creature — Insect,"When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.",common,True,"{'usd': '0.02', 'usd_foil': '0.44', 'eur': '0.02', 'tix': '0.01'}"
+647,2018-10-05,,0.0,Basic Land — Island,({T}: Add {U}.),common,False,"{'usd': '0.44', 'usd_foil': '0.55', 'eur': None, 'tix': '0.01'}"
+648,2018-10-05,{2}{B}{B}{G}{G},6.0,Legendary Creature — Elf Shaman,"Undergrowth — When Izoni, Thousand-Eyed enters the battlefield, create a 1/1 black and green Insect creature token for each creature card in your graveyard.
+{B}{G}, Sacrifice another creature: You gain 1 life and draw a card.",rare,True,"{'usd': '0.39', 'usd_foil': '0.80', 'eur': '0.28', 'tix': '0.02'}"
+649,2018-10-05,,0.0,Land — Gate,"Izzet Guildgate enters the battlefield tapped.
+{T}: Add {U} or {R}.",common,True,"{'usd': '0.05', 'usd_foil': '0.74', 'eur': '0.06', 'tix': '0.01'}"
+650,2018-10-05,{3},3.0,Artifact,"{T}: Add {U} or {R}.
+{U/R}{U/R}{U/R}{U/R}, {T}, Sacrifice Izzet Locket: Draw two cards.",common,True,"{'usd': '0.09', 'usd_foil': '0.41', 'eur': '0.08', 'tix': '0.01'}"
+651,2018-10-05,{3}{G}{W},5.0,Instant,"Untap all creatures you control. They gain hexproof and indestructible until end of turn. (They can't be the targets of spells or abilities your opponents control. Damage and effects that say ""destroy"" don't destroy them.)",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.17', 'eur': '0.10', 'tix': '0.01'}"
+652,2018-10-05,{R}{W},2.0,Instant,Target creature deals damage to itself equal to its power.,uncommon,True,"{'usd': '0.15', 'usd_foil': '0.99', 'eur': '0.14', 'tix': '0.01'}"
+653,2018-10-05,{1}{G}{W},3.0,Creature — Dryad Knight,"When Knight of Autumn enters the battlefield, choose one —
+• Put two +1/+1 counters on Knight of Autumn.
+• Destroy target artifact or enchantment.
+• You gain 4 life.",rare,True,"{'usd': '3.11', 'usd_foil': '7.28', 'eur': '3.26', 'tix': '2.60'}"
+654,2018-10-05,{4}{G},5.0,Creature — Insect Scout,"Undergrowth — When Kraul Foragers enters the battlefield, you gain 1 life for each creature card in your graveyard.",common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.16', 'tix': '0.01'}"
+655,2018-10-05,{1}{G},2.0,Creature — Insect Warrior,"Reach
+Undergrowth — When Kraul Harpooner enters the battlefield, choose up to one target creature with flying you don't control. Kraul Harpooner gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard, then you may have Kraul Harpooner fight that creature.",uncommon,True,"{'usd': '0.17', 'usd_foil': '1.50', 'eur': '0.08', 'tix': '0.01'}"
+656,2018-10-05,{2}{B},3.0,Creature — Insect Warrior,Menace (This creature can't be blocked except by two or more creatures.),common,False,"{'usd': '0.08', 'usd_foil': None, 'eur': None, 'tix': '0.44'}"
+657,2018-10-05,{4}{B},5.0,Creature — Insect Warrior,"Flying
+{2}{B}, Discard a creature card: Return Kraul Swarm from your graveyard to your hand.",uncommon,True,"{'usd': '0.04', 'usd_foil': '0.10', 'eur': '0.02', 'tix': '0.01'}"
+658,2018-10-05,{1}{R},2.0,Sorcery,"Lava Coil deals 4 damage to target creature. If that creature would die this turn, exile it instead.",uncommon,True,"{'usd': '0.37', 'usd_foil': '2.68', 'eur': '0.32', 'tix': '0.02'}"
+659,2018-10-05,{U}{B},2.0,Legendary Creature — Shapeshifter,"When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+{X}: Lazav, the Multifarious becomes a copy of target creature card in your graveyard with converted mana cost X, except its name is Lazav, the Multifarious, it's legendary in addition to its other types, and it has this ability.",mythic,True,"{'usd': '1.70', 'usd_foil': '4.35', 'eur': '1.16', 'tix': '0.86'}"
+660,2018-10-05,{U}{R},2.0,Creature — Human Wizard,"{3}{U}, {T}: Draw a card.
+{X}{R}, {T}: Copy target instant or sorcery spell you control with converted mana cost X. You may choose new targets for the copy.",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.47', 'eur': '0.07', 'tix': '0.01'}"
+661,2018-10-05,{2}{U},3.0,Creature — Frog,Leapfrog has flying as long as you've cast an instant or sorcery spell this turn.,common,True,"{'usd': '0.02', 'usd_foil': '0.14', 'eur': '0.02', 'tix': '0.01'}"
+662,2018-10-05,{1}{G}{W},3.0,Creature — Elf Knight,"Whenever Ledev Champion attacks, you may tap any number of untapped creatures you control. Ledev Champion gets +1/+1 until end of turn for each creature tapped this way.
+{3}{G}{W}: Create a 1/1 white Soldier creature token with lifelink.",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.25', 'eur': '0.05', 'tix': '0.01'}"
+663,2018-10-05,{3}{W},4.0,Creature — Human Knight,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.),common,True,"{'usd': '0.02', 'usd_foil': '0.14', 'eur': '0.02', 'tix': '0.01'}"
+664,2018-10-05,{R}{W},2.0,Creature — Human Wizard,"{5}{R}, {T}: Legion Guildmage deals 3 damage to each opponent.
+{2}{W}, {T}: Tap another target creature.",uncommon,True,"{'usd': '0.06', 'usd_foil': '0.22', 'eur': '0.05', 'tix': '0.01'}"
+665,2018-10-05,{2}{R},3.0,Creature — Goblin Soldier,"Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token gains haste until end of turn and attacks this combat if able.",rare,True,"{'usd': '3.16', 'usd_foil': '4.70', 'eur': '2.95', 'tix': '2.11'}"
+666,2018-10-05,{4}{W}{W},6.0,Creature — Angel,"Flying
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+When Light of the Legion dies, put a +1/+1 counter on each white creature you control.",rare,True,"{'usd': '0.16', 'usd_foil': '0.71', 'eur': '0.12', 'tix': '0.02'}"
+667,2018-10-05,{6}{B},7.0,Creature — Zombie Giant,"Undergrowth — When Lotleth Giant enters the battlefield, it deals 1 damage to target opponent for each creature card in your graveyard.",uncommon,True,"{'usd': '0.07', 'usd_foil': '0.28', 'eur': '0.13', 'tix': '0.01'}"
+668,2018-10-05,{4}{W}{W},6.0,Creature — Elephant Cleric,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When Loxodon Restorer enters the battlefield, you gain 4 life.",common,True,"{'usd': '0.02', 'usd_foil': '0.14', 'eur': '0.03', 'tix': '0.01'}"
+669,2018-10-05,{2}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.",common,True,"{'usd': '0.05', 'usd_foil': '0.49', 'eur': '0.02', 'tix': '0.01'}"
+670,2018-10-05,{1}{R},2.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and can't block.",common,True,"{'usd': '0.03', 'usd_foil': '0.08', 'eur': '0.02', 'tix': '0.01'}"
+671,2018-10-05,{X}{G}{W}{W},3.0,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.)
+Create X 1/1 white Soldier creature tokens with lifelink.",mythic,True,"{'usd': '2.87', 'usd_foil': '5.79', 'eur': '2.68', 'tix': '0.77'}"
+672,2018-10-05,{1}{B},2.0,Instant,"Undergrowth — Search your library for a black card with converted mana cost less than or equal to the number of creature cards in your graveyard, reveal it, put it into your hand, then shuffle your library.",rare,True,"{'usd': '0.44', 'usd_foil': '2.20', 'eur': '0.31', 'tix': '0.02'}"
+673,2018-10-05,{U},1.0,Sorcery,"Target creature gets +1/+1 and gains flying until end of turn.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",common,True,"{'usd': '0.03', 'usd_foil': '0.16', 'eur': '0.06', 'tix': '0.01'}"
+674,2018-10-05,{R},1.0,Sorcery,"Target creature gets +1/+1 and gains haste until end of turn.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)",common,True,"{'usd': '0.03', 'usd_foil': '0.44', 'eur': '0.05', 'tix': '0.01'}"
+675,2018-10-05,{2}{B},3.0,Sorcery,"All creatures get -1/-1 until end of turn.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)",common,True,"{'usd': '0.03', 'usd_foil': '0.09', 'eur': '0.03', 'tix': '0.01'}"
+676,2018-10-05,{2}{B},3.0,Creature — Zombie Knight,"Whenever a nontoken creature you control dies, Midnight Reaper deals 1 damage to you and you draw a card.",rare,True,"{'usd': '2.22', 'usd_foil': '5.31', 'eur': '3.54', 'tix': '0.29'}"
+677,2018-10-05,{G},1.0,Instant,Target creature gets +1/+1 until end of turn for each creature you control.,uncommon,True,"{'usd': '0.06', 'usd_foil': '0.22', 'eur': '0.05', 'tix': '0.01'}"
+678,2018-10-05,{U}{U},2.0,Instant,"Surveil 2, then choose an instant or sorcery card in your graveyard. You may cast that card this turn. If that card would be put into your graveyard this turn, exile it instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",rare,True,"{'usd': '1.15', 'usd_foil': '3.27', 'eur': '1.04', 'tix': '0.10'}"
+679,2018-10-05,{1}{U}{B},3.0,Sorcery,"Exile all cards from all opponents' graveyards. You may cast those cards this turn, and you may spend mana as though it were mana of any type to cast those spells. At the beginning of the next end step, if any of those cards remain exiled, return them to their owners' graveyards.
+Exile Mnemonic Betrayal.",mythic,True,"{'usd': '0.54', 'usd_foil': '3.42', 'eur': '0.57', 'tix': '0.19'}"
+680,2018-10-05,{7}{B}{G},9.0,Creature — Fungus Zombie,"Undergrowth — This spell costs {1} less to cast for each creature card in your graveyard.
+When Molderhulk enters the battlefield, return target land card from your graveyard to the battlefield.",uncommon,True,"{'usd': '0.10', 'usd_foil': '0.58', 'eur': '0.10', 'tix': '0.01'}"
+681,2018-10-05,{2}{B}{B},4.0,Creature — Human Shaman,"Undergrowth — When Moodmark Painter enters the battlefield, target creature gains menace and gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. (It can't blocked except by two or more creatures.)",common,True,"{'usd': '0.05', 'usd_foil': '0.09', 'eur': '0.05', 'tix': '0.01'}"
+682,2018-10-05,,0.0,Basic Land — Mountain,({T}: Add {R}.),common,False,"{'usd': '0.26', 'usd_foil': '0.39', 'eur': None, 'tix': '0.01'}"
+683,2018-10-05,{3}{U},4.0,Creature — Human Wizard,"Whenever you cast an instant or sorcery spell, create a 1/1 blue Bird Illusion creature token with flying.",uncommon,True,"{'usd': '0.22', 'usd_foil': '1.99', 'eur': '0.14', 'tix': '0.01'}"
+684,2018-10-05,{3}{U},4.0,Creature — Drake,"Flying
+When Muse Drake enters the battlefield, draw a card.",common,True,"{'usd': '0.03', 'usd_foil': '0.17', 'eur': '0.02', 'tix': '0.01'}"
+685,2018-10-05,{1}{U},2.0,Creature — Illusion,"Flying
+When Narcomoeba is put into your graveyard from your library, you may put it onto the battlefield.",rare,True,"{'usd': '0.35', 'usd_foil': '1.57', 'eur': '0.31', 'tix': '0.10'}"
+686,2018-10-05,{B},1.0,Instant,"Undergrowth — Target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard. If that creature would die this turn, exile it instead.",uncommon,True,"{'usd': '0.09', 'usd_foil': '0.34', 'eur': '0.14', 'tix': '0.01'}"
+687,2018-10-05,{2}{B},3.0,Sorcery,Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it.,common,True,"{'usd': '0.04', 'usd_foil': '0.10', 'eur': '0.02', 'tix': '0.01'}"
+688,2018-10-05,{U}{U}{B}{B},4.0,Creature — Vampire,"Flying, deathtouch
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)",uncommon,True,"{'usd': '0.17', 'usd_foil': '0.98', 'eur': '0.09', 'tix': '0.01'}"
+689,2018-10-05,{1}{U},2.0,Creature — Faerie Rogue,"Flying
+Whenever Nightveil Sprite attacks, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)",uncommon,True,"{'usd': '0.22', 'usd_foil': '0.64', 'eur': '0.13', 'tix': '0.01'}"
+690,2018-10-05,{U}{U}{U}{R}{R}{R},6.0,Legendary Creature — Dragon Wizard,"This spell can't be countered.
+Flying
+Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target.
+Whenever a player casts an instant or sorcery spell, you draw a card.",rare,True,"{'usd': '1.25', 'usd_foil': '7.19', 'eur': '1.12', 'tix': '0.26'}"
+691,2018-10-05,{1}{U}{B},3.0,Sorcery,"Surveil 2, then draw two cards. Notion Rain deals 2 damage to you. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",common,True,"{'usd': '0.10', 'usd_foil': '0.55', 'eur': '0.07', 'tix': '0.01'}"
+692,2018-10-05,{2}{G}{G},4.0,Creature — Beast,"Hexproof
+You can't cast noncreature spells.
+{2}: Nullhide Ferox loses all abilities until end of turn. Any player may activate this ability.
+If a spell or ability an opponent controls causes you to discard Nullhide Ferox, put it onto the battlefield instead of putting it into your graveyard.",mythic,True,"{'usd': '1.19', 'usd_foil': '2.76', 'eur': '1.70', 'tix': '0.90'}"
+693,2018-10-05,{1}{B}{G},3.0,Creature — Elf Assassin,"Deathtouch
+All creatures able to block Ochran Assassin do so.",uncommon,True,"{'usd': '0.09', 'usd_foil': '0.37', 'eur': '0.05', 'tix': '0.01'}"
+694,2018-10-05,{4}{U},5.0,Creature — Human Wizard,"{2}{U}, {T}: You may cast an instant or sorcery card from your hand without paying its mana cost.",rare,True,"{'usd': '0.07', 'usd_foil': '0.58', 'eur': '0.08', 'tix': '0.01'}"
+695,2018-10-05,{1}{R},2.0,Creature — Goblin Warrior,"Whenever Ornery Goblin blocks or becomes blocked by a creature, Ornery Goblin deals 1 damage to that creature.",common,True,"{'usd': '0.04', 'usd_foil': '0.14', 'eur': '0.01', 'tix': '0.01'}"
+696,2018-10-05,,0.0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,True,"{'usd': '10.53', 'usd_foil': '16.33', 'eur': '7.29', 'tix': '1.97'}"
+697,2018-10-05,{2}{G},3.0,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Target creature gets +3/+3 until end of turn.",common,True,"{'usd': '0.02', 'usd_foil': '0.15', 'eur': '0.02', 'tix': '0.01'}"
+698,2018-07-13,{2}{R},3.0,Sorcery,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.),common,True,"{'usd': '0.03', 'usd_foil': '0.17', 'eur': '0.04', 'tix': '0.03'}"
+699,2018-07-13,{3}{G}{G}{G},6.0,Creature — Elephant,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Other creatures you control have trample.",rare,False,"{'usd': '0.41', 'usd_foil': None, 'eur': '0.40', 'tix': '10.28'}"
+700,2018-07-13,{3}{U}{U},5.0,Creature — Elemental,Flying,uncommon,False,"{'usd': '0.43', 'usd_foil': None, 'eur': '0.33', 'tix': None}"
+701,2018-07-13,{1}{W},2.0,Creature — Cat Soldier,"Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",uncommon,True,"{'usd': '0.13', 'usd_foil': '0.76', 'eur': '0.16', 'tix': '0.04'}"
+702,2018-07-13,{1}{U},2.0,Instant,Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.,common,True,"{'usd': '0.06', 'usd_foil': '0.22', 'eur': '0.04', 'tix': '0.04'}"
+703,2018-07-13,{2}{U},3.0,Instant,"Target creature gets -4/-0 until end of turn.
+Draw a card.",common,False,"{'usd': '0.32', 'usd_foil': None, 'eur': '0.84', 'tix': None}"
+704,2018-07-13,{4}{B}{B},6.0,Creature — Beast,,common,True,"{'usd': '0.02', 'usd_foil': '0.17', 'eur': '0.02', 'tix': '0.04'}"
+705,2018-07-13,{2}{U}{U},4.0,Instant,"Counter target creature spell.
+Draw a card.",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.13', 'eur': '0.02', 'tix': '0.04'}"
+706,2018-07-13,{3}{G},4.0,Creature — Boar,Bristling Boar can't be blocked by more than one creature.,common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.04', 'tix': '0.04'}"
+707,2018-07-13,{2}{G},3.0,Creature — Centaur Warrior,,common,True,"{'usd': '0.02', 'usd_foil': '0.14', 'eur': '0.02', 'tix': '0.03'}"
+708,2018-07-13,{1}{B},2.0,Creature — Vampire,Lifelink,common,True,"{'usd': '0.03', 'usd_foil': '0.14', 'eur': '0.02', 'tix': '0.04'}"
+709,2018-07-13,{1}{W},2.0,Creature — Human Cleric,Lifelink (Damage dealt by this creature also causes you to gain that much life.),common,True,"{'usd': '0.02', 'usd_foil': '0.26', 'eur': '0.02', 'tix': '0.04'}"
+710,2018-07-13,{B},1.0,Sorcery,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",common,True,"{'usd': '0.05', 'usd_foil': '0.51', 'eur': '0.08', 'tix': '0.04'}"
+711,2018-07-13,{4}{B},5.0,Creature — Vampire,"Whenever you gain life, each opponent loses 1 life.",common,True,"{'usd': '0.06', 'usd_foil': '0.36', 'eur': '0.06', 'tix': '0.04'}"
+712,2018-07-13,{3}{R}{R},5.0,Creature — Elemental,,common,True,"{'usd': '0.02', 'usd_foil': '0.12', 'eur': '0.02', 'tix': '0.03'}"
+713,2018-07-13,,0.0,Basic Land — Forest,({T}: Add {G}.),common,True,"{'usd': '0.11', 'usd_foil': '0.31', 'eur': '0.02', 'tix': '0.04'}"
+714,2018-07-13,{4}{U}{U},6.0,Creature — Serpent,{5}{U}{U}: Frilled Sea Serpent can't be blocked this turn.,common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.01', 'tix': '0.04'}"
+715,2018-07-13,{2}{G},3.0,Enchantment — Aura,"Enchant land
+When Gift of Paradise enters the battlefield, you gain 3 life.
+Enchanted land has ""{T}: Add two mana of any one color.""",uncommon,True,"{'usd': '0.05', 'usd_foil': '0.34', 'eur': '0.07', 'tix': '0.04'}"
+716,2018-07-13,{3}{B},4.0,Creature — Zombie,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.",uncommon,True,"{'usd': '0.03', 'usd_foil': '0.10', 'eur': '0.04', 'tix': '0.04'}"
+717,2018-07-13,{4}{B}{B},6.0,Creature — Bird Spirit,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+{5}{B}{B}: Return target creature card from your graveyard to the battlefield tapped.",rare,False,"{'usd': '0.15', 'usd_foil': None, 'eur': '0.11', 'tix': None}"
+718,2018-07-13,{1}{G},2.0,Creature — Elf Scout,Vigilance (Attacking doesn't cause this creature to tap.),common,True,"{'usd': '0.02', 'usd_foil': '0.13', 'eur': '0.02', 'tix': '0.03'}"
+719,2018-07-13,{3}{R},4.0,Creature — Minotaur,Haste (This creature can attack and {T} as soon as it comes under your control.),common,True,"{'usd': '0.02', 'usd_foil': '0.09', 'eur': '0.02', 'tix': '0.03'}"
+720,2018-07-13,{2}{W}{W},4.0,Instant,Creatures you control get +2/+1 until end of turn.,common,True,"{'usd': '0.02', 'usd_foil': '0.14', 'eur': '0.02', 'tix': '0.03'}"
+721,2018-07-13,,0.0,Basic Land — Island,({T}: Add {U}.),common,True,"{'usd': '0.11', 'usd_foil': '0.59', 'eur': '0.03', 'tix': '0.04'}"
+722,2018-07-13,{2}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature can't attack or block.",common,True,"{'usd': '0.03', 'usd_foil': '0.32', 'eur': '0.02', 'tix': '0.04'}"
+723,2018-07-13,{2},2.0,Artifact — Equipment,"Equipped creature gets +2/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,True,"{'usd': '0.02', 'usd_foil': '0.10', 'eur': '0.01', 'tix': '0.03'}"
+724,2018-07-13,{7},7.0,Artifact Creature — Golem,"When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.",uncommon,True,"{'usd': '0.07', 'usd_foil': '3.15', 'eur': '0.13', 'tix': '0.04'}"
+725,2018-07-13,{2}{B},3.0,Sorcery,Target player discards two cards.,common,True,"{'usd': '0.03', 'usd_foil': '0.13', 'eur': '0.05', 'tix': '0.04'}"
+726,2018-07-13,,0.0,Basic Land — Mountain,({T}: Add {R}.),common,True,"{'usd': '0.07', 'usd_foil': '0.34', 'eur': '0.03', 'tix': '0.04'}"
+727,2018-07-13,{1}{B}{B},3.0,Instant,Destroy target creature.,uncommon,True,"{'usd': '0.05', 'usd_foil': '0.32', 'eur': '0.09', 'tix': '0.04'}"
