@@ -1,0 +1,21 @@
+@keyframes yeet {
+    from {border-color: #888888;}
+    to {border-color: white;}
+}
+
+.yeeted {
+    animation-name: yeet;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes yeetOut {
+    from {border-color: white;}
+    to {border-color: #888888;}
+}
+
+.yeetedFocusOut {
+    animation-name: yeetOut;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}

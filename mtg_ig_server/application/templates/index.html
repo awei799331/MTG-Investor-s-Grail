@@ -7,18 +7,21 @@
         <script src="{% static 'mainjs.js' %}" defer></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <link rel="stylesheet" href="{% static 'style.css' %}">
-        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="{% static 'animations.css' %}">
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap" rel="stylesheet"> 
     </head>
     <body>
         <div class="wrapper">
 
-            <div id="background" class="background"></div>
+            <div id="background" class="background">
+            </div>
 
             <div class="content">
+
                 <nav>
                     <ul class="navbar">
                         <li class="navtext"> 
-                                <a>Home</a>
+                            <a>Home</a>
                         </li>
                         <li class="navtext">
                             <a>How It Works</a>
@@ -40,17 +43,18 @@
                             <strong>machine learning</strong>
                             based
                             <br>
-                            Magic: The Gathering card price predictor
+                            <strong>Magic: The Gathering</strong>
+                            card price predictor
                         </h1>
                     </div>
                     <div>
-                        <input type="text" id="getCard" class="inputText" autocomplete="off" placeholder="Enter a card name:">
+                        <input type="text" id="getCard" class="inputText" autocomplete="off">
                     </div>
                     <div>
                         <button type="button" class="searchButton" onclick="getImage()">Search Card</button>
                     </div>
                 </div>
-                
+
                 <div id="cardAbility"></div>
                 <div id="image"></div>
             </div>

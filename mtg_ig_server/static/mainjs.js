@@ -1,3 +1,5 @@
+getCardId = document.getElementById("getCard")
+
 function generateBackground() {
     var totalImages = 5
     var randomNum = Math.ceil(Math.random() * totalImages)
@@ -7,7 +9,7 @@ function generateBackground() {
 }
 
 function getImage() {
-    var urlSearch = "https://api.scryfall.com/cards/named?fuzzy=" + document.getElementById("getCard").value
+    var urlSearch = "https://api.scryfall.com/cards/named?fuzzy=" + getCardId.value
     console.log(urlSearch)
     var request = new XMLHttpRequest()
     request.open('GET', urlSearch, false)
@@ -32,5 +34,14 @@ function getImage() {
     }
 
 }
+
+getCardId.addEventListener("focusin", (e)=>{
+    getCardId.classList.remove("yeetedFocusOut")
+    getCardId.classList.add("yeeted")
+})
+getCardId.addEventListener("focusout", (e)=>{
+    getCardId.classList.remove("yeeted")
+    getCardId.classList.add("yeetedFocusOut")
+})
 
 generateBackground()
