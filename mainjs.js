@@ -12,7 +12,8 @@ function getImage() {
     request.send(null)
     var blob = request.responseText
     var blobJSON = JSON.parse(blob)
-    console.log(blob)
+    //console.log(blob)
+    console.log(blobJSON.legalities.standard)
 
     if (blobJSON.object != "error") {
         var im = document.createElement("img")
