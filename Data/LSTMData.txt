@@ -1,0 +1,1440 @@
+When Acclaimed Contender enters the battlefield, if you control another Knight, look at the top five cards of your library. You may reveal a Knight, Aura, Equipment, or legendary artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Flying, deathtouch, lifelink
+Other creatures you control with flying get +1/+0.
+Whenever you cast an artifact or enchantment spell, create a 1/1 blue Faerie creature token with flying.
+Enchant creature
+Enchanted creature gets +1/+1 for each artifact and/or enchantment you control.
+{T}: Add one mana of any color in your commander's color identity.
+Flying
+When Arcanist's Owl enters the battlefield, look at the top four cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Flying
+Protection from white (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything white.)
+Creatures can't attack you or a planeswalker you control unless their controller pays {1} for each of those creatures.
+Adamant — If at least three white mana was spent to cast this spell, Ardenvale Paladin enters the battlefield with a +1/+1 counter on it.
+Whenever Ayara, First of Locthwain or another black creature enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.
+{T}, Sacrifice another black creature: Draw a card.
+Destroy target creature. Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+When you cast this spell from your hand, copy it if you control an artifact, then copy it if you control an enchantment. You may choose new targets for the copies.
+Return target nonland permanent to its owner's hand. You create a 2/2 white Knight creature token with vigilance.
+Target attacking creature gets +2/+2 until end of turn. Each attacking non-Human creature gains trample until end of turn.
+When Barrow Witches enters the battlefield, return target Knight card from your graveyard to your hand.
+When Bartered Cow dies or when you discard it, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Belle of the Brawl attacks, other Knights you control get +1/+0 until end of turn.
+Lifelink
+Beloved Princess can't be blocked by creatures with power 3 or greater.
+Flash
+When Blacklance Paragon enters the battlefield, target Knight gains deathtouch and lifelink until end of turn.
+Whenever you draw your second card each turn, Bloodhaze Wolverine gets +1/+1 and gains first strike until end of turn.
+Up to three target creatures can't block this turn. Destroy any of them that are Walls.
+Flying
+{2}{B}, Sacrifice a Food: Target creature gets -3/-3 until end of turn.
+{8}: Bramblefort Fink has base power and toughness 10/10 until end of turn. Activate this ability only if you control an Oko planeswalker.
+Defender, reach
+{T}: Brimstone Trebuchet deals 1 damage to each opponent.
+Whenever a Knight enters the battlefield under your control, untap Brimstone Trebuchet.
+Trample, haste
+When Burning-Yard Trainer enters the battlefield, another target Knight you control gets +2/+2 and gains trample and haste until end of turn.
+Castle Ardenvale enters the battlefield tapped unless you control a Plains.
+{T}: Add {W}.
+{2}{W}{W}, {T}: Create a 1/1 white Human creature token.
+Castle Embereth enters the battlefield tapped unless you control a Mountain.
+{T}: Add {R}.
+{1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn.
+Castle Garenbrig enters the battlefield tapped unless you control a Forest.
+{T}: Add {G}.
+{2}{G}{G}, {T}: Add six {G}. Spend this mana only to cast creature spells or activate abilities of creatures.
+Castle Locthwain enters the battlefield tapped unless you control a Swamp.
+{T}: Add {B}.
+{1}{B}{B}, {T}: Draw a card, then you lose life equal to the number of cards in your hand.
+Castle Vantress enters the battlefield tapped unless you control an Island.
+{T}: Add {U}.
+{2}{U}{U}, {T}: Scry 2.
+When Cauldron Familiar enters the battlefield, each opponent loses 1 life and you gain 1 life.
+Sacrifice a Food: Return Cauldron Familiar from your graveyard to the battlefield.
+Adamant — If at least three black mana was spent to cast this spell, put the top four cards of your library into your graveyard.
+You may choose a creature card in your graveyard. If you do, return it to the battlefield with an additional +1/+1 counter on it.
+Enchant creature
+When Charmed Sleep enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+When Charming Prince enters the battlefield, choose one —
+• Scry 2.
+• You gain 3 life.
+• Exile another target creature you own. Return it to the battlefield under your control at the beginning of the next end step.
+When Chittering Witch enters the battlefield, create a number of 1/1 black Rat creature tokens equal to the number of opponents you have.
+{1}{B}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.
+Vigilance
+Whenever you cast a creature spell, draw a card, then you may put a land card from your hand onto the battlefield.
+{3}, {T}: Return target creature you control to its owner's hand.
+Trample, haste
+When Clackbridge Troll enters the battlefield, target opponent creates three 0/1 white Goat creature tokens.
+At the beginning of combat on your turn, any opponent may sacrifice a creature. If a player does, tap Clackbridge Troll, you gain 3 life, and you draw a card.
+Gain control of target creature with converted mana cost 3 or less until end of turn. Untap that creature. It gains haste until end of turn.
+Adamant — When Clockwork Servant enters the battlefield, if at least three mana of the same color was spent to cast it, draw a card.
+{T}: Add one mana of any color in your commander's color identity.
+When Corridor Monitor enters the battlefield, untap target artifact or creature you control.
+Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+Defender
+{T}: Creatures you control gain haste until end of turn.
+Equipped creature gets +1/+0 and has haste.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Return up to X target artifact and/or non-Aura enchantment cards each with converted mana cost X or less from your graveyard to the battlefield. If X is 6 or more, those permanents are 4/4 creatures in addition to their other types.
+Each player can't cast more than one noncreature spell each turn.
+Haste
+When you gain life for the first time each turn, return Deathless Knight from your graveyard to your hand.
+Counter target spell. Its controller puts the top three cards of their library into their graveyard.
+At the beginning of each player's upkeep, that player sacrifices a nonland, nontoken permanent. If that player can't, they discard a card, they lose 2 life, you draw a card, you gain 2 life, you create a 2/2 white Knight creature token with vigilance, then you sacrifice Doom Foretold.
+Choose one —
+• Counter target spell with converted mana cost less than or equal to the number of cards in its controller's graveyard.
+• Destroy target creature with converted mana cost less than or equal to the number of cards in its controller's graveyard.
+({T}: Add {R}.)
+Dwarven Mine enters the battlefield tapped unless you control three or more other Mountains.
+When Dwarven Mine enters the battlefield untapped, create a 1/1 red Dwarf creature token.
+Whenever you cast a creature spell that has an Adventure, draw a card. (It doesn't need to have gone on the adventure first.)
+Menace (This creature can't be blocked except by two or more creatures.)
+{B/R}{B/R}{B/R}, Sacrifice another creature or an artifact: Elite Headhunter deals 2 damage to target creature or planeswalker.
+Flash
+This spell costs {1} less to cast for each attacking creature you control.
+When Embercleave enters the battlefield, attach it to target creature you control.
+Equipped creature gets +1/+1 and has double strike and trample.
+Equip {3}
+Haste
+Adamant — If at least three red mana was spent to cast this spell, Embereth Paladin enters the battlefield with a +1/+1 counter on it.
+As long as it's your turn, Embereth Skyblazer has flying.
+Whenever Embereth Skyblazer attacks, you may pay {2}{R}. If you do, creatures you control get +X/+0 until end of turn, where X is the number of opponents you have.
+This spell costs {1} less to cast for each artifact you control.
+When Emry, Lurker of the Loch enters the battlefield, put the top four cards of your library into your graveyard.
+{T}: Choose target artifact card in your graveyard. You may cast that card this turn. (You still pay its costs. Timing rules still apply.)
+When Enchanted Carriage enters the battlefield, create two 1/1 white Mouse creature tokens.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
+Exile target creature with converted mana cost 3 or greater.
+Exile the top five cards of your library. You may play cards exiled this way until the end of your next turn.
+You may play an additional land this turn.
+Flying
+Whenever Eye Collector deals combat damage to a player, each player puts the top card of their library into their graveyard.
+{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Then if you control four or more lands, untap that land.
+Vigilance
+Faeburrow Elder gets +1/+1 for each color among permanents you control.
+{T}: For each color among permanents you control, add one mana of that color.
+Flying
+{3}{U}: Create a 1/1 blue Faerie creature token with flying. Draw a card.
+Flash
+Flying
+Whenever you draw your second card each turn, put a +1/+1 counter on Faerie Vandal.
+Vigilance, trample
+When Feasting Troll King enters the battlefield, if you cast it from your hand, create three Food tokens. (They're artifacts with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+Sacrifice three Foods: Return Feasting Troll King from your graveyard to the battlefield. Activate this ability only during your turn.
+Fell the Pheasant deals 5 damage to target creature with flying. Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+Attacking non-Human creatures you control get +1/+0 and have trample.
+First strike, haste
+Whenever Fervent Champion attacks, another target attacking Knight you control gets +1/+0 until end of turn.
+Equip abilities you activate that target Fervent Champion cost {3} less to activate.
+Target creature gets -X/-X until end of turn, where X is the number of cards in your graveyard.
+Trample
+When Fierce Witchstalker enters the battlefield, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+Double strike
+{R/W}{R/W}{R/W}{R/W}: Fireborn Knight gets +1/+1 until end of turn.
+You can cast spells only during your turn and you can cast no more than two spells each turn.
+You may cast spells with converted mana cost less than or equal to the number of lands you control without paying their mana costs.
+As an additional cost to cast this spell, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature's power to any target.
+As long as you control an artifact or enchantment, Flutterfox has flying.
+Players have no maximum hand size.
+{X}{X}, {T}: Each player draws X cards.
+{2}{U}, {T}: Each opponent puts a number of cards equal to the number of cards in their hand from the top of their library into their graveyard.
+Target player draws two cards and loses 2 life.
+Adamant — If at least three black mana was spent to cast this spell, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+({T}: Add {G}.)
+Put any number of target creature cards from your graveyard on top of your library.
+Draw a card.
+Creatures you control get +0/+1.
+When Fortifying Provisions enters the battlefield, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+Enchant creature
+Enchanted creature loses all abilities and is a blue Frog creature with base power and toughness 1/1. (It loses all other card types and creature types.)
+When Gadwick, the Wizened enters the battlefield, draw X cards.
+Whenever you cast a blue spell, tap target nonland permanent an opponent controls.
+Adamant — If at least three green mana was spent to cast this spell, Garenbrig Paladin enters the battlefield with a +1/+1 counter on it.
+Garenbrig Paladin can't be blocked by creatures with power 2 or less.
+Whenever you cast a creature spell that has an Adventure, Garenbrig Squire gets +1/+1 until end of turn. (It doesn't need to have gone on the adventure first.)
+Flying
+Whenever Garrison Griffin attacks, target Knight you control gains flying until end of turn.
+0: Create two 2/2 black and green Wolf creature tokens with "When this creature dies, put a loyalty counter on each Garruk you control."
+−3: Destroy target creature. Draw a card.
+−6: You get an emblem with "Creatures you control get +3/+3 and have trample."
+You may sacrifice two Foods. If you do, create a 7/7 green Giant creature token. Otherwise, create three Food tokens. (They're artifacts with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+Equipped creature gets +2/+1.
+Whenever equipped creature deals combat damage to a creature, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+Flying
+When Gilded Goose enters the battlefield, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+{1}{G}, {T}: Create a Food token.
+{T}, Sacrifice a Food: Add one mana of any color.
+({T}: Add {G}.)
+Gingerbread Cabin enters the battlefield tapped unless you control three or more other Forests.
+When Gingerbread Cabin enters the battlefield untapped, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+Haste
+{1}: Gingerbrute can't be blocked this turn except by creatures with haste.
+{2}, {T}, Sacrifice Gingerbrute: You gain 3 life.
+When Glass Casket enters the battlefield, exile target creature an opponent controls with converted mana cost 3 or less until Glass Casket leaves the battlefield.
+Trample
+When Gluttonous Troll enters the battlefield, create a number of Food tokens equal to the number of opponents you have. (Food tokens are artifacts with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
+{1}{G}, Sacrifice another nonland permanent: Gluttonous Troll gets +2/+2 until end of turn.
+When Golden Egg enters the battlefield, draw a card.
+{1}, {T}, Sacrifice Golden Egg: Add one mana of any color.
+{2}, {T}, Sacrifice Golden Egg: You gain 3 life.
+Each other non-Human creature you control enters the battlefield with an additional +1/+1 counter on it.
+When Happily Ever After enters the battlefield, each player gains 5 life and draws a card.
+At the beginning of your upkeep, if there are five colors among permanents you control, there are six or more card types among permanents you control and/or cards in your graveyard, and your life total is greater than or equal to your starting life total, you win the game.
+Flying
+Non-Archon creatures have base power and toughness 3/3.
+When Harmonious Archon enters the battlefield, create two 1/1 white Human creature tokens.
+Adamant — If at least three mana of the same color was spent to cast this spell, Henge Walker enters the battlefield with a +1/+1 counter on it.
+As Heraldic Banner enters the battlefield, choose a color.
+Creatures you control of the chosen color get +1/+0.
+{T}: Add one mana of the chosen color.
+Flying, lifelink
+Creatures entering the battlefield or dying don't cause abilities to trigger.
+({T}: Add {W}.)
+Idyllic Grange enters the battlefield tapped unless you control three or more other Plains.
+When Idyllic Grange enters the battlefield untapped, put a +1/+1 counter on target creature you control.
+Whenever you draw your second card each turn, create a 1/1 blue Faerie creature token with flying.
+{4}{U}{R}: Draw a card, then discard a card.
+When Inquisitive Puppet enters the battlefield, scry 1.
+Exile Inquisitive Puppet: Create a 1/1 white Human creature token.
+You may sacrifice a Food. If you do, target creature gets +5/+5 until end of turn. Otherwise, that creature gets +3/+3 until end of turn.
+Other Knights you control get +1/+1.
+This spell costs {3} less to cast if an opponent has seven or more cards in their graveyard.
+Draw four cards.
+Add seven {R}. You can cast only one more spell this turn.
+Whenever you draw your second card each turn, Irencrag Pyromancer deals 3 damage to any target.
+({T}: Add {U}.)
+Choose target creature you control and target creature you don't control. The creature you control gets +2/+1 until end of turn if it's a Knight. Then those creatures fight each other. (Each deals damage equal to its power to the other.)
+{3}: Jousting Dummy gets +1/+0 until end of turn.
+Whenever one or more non-Human creatures you control deal combat damage to a player, draw a card.
+Enchant creature
+When Kenrith's Transformation enters the battlefield, draw a card.
+Enchanted creature loses all abilities and is a green Elk creature with base power and toughness 3/3. (It loses all other card types and creature types.)
+{R}: All creatures gain trample and haste until end of turn.
+{1}{G}: Put a +1/+1 counter on target creature.
+{2}{W}: Target player gains 5 life.
+{3}{U}: Target player draws a card.
+{4}{B}: Put target creature card from a graveyard onto the battlefield under its owner's control.
+Whenever a Knight you control attacks, each opponent loses 1 life and you gain 1 life.
+{6}{W}{B}, Sacrifice Knights' Charge: Return all Knight creature cards from your graveyard to the battlefield.
+Flying
+Whenever Korvold, Fae-Cursed King enters the battlefield or attacks, sacrifice another permanent.
+Whenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.
+Target creature gets +2/+1 and gains deathtouch until end of turn.
+Vigilance
+Whenever a white creature you control attacks, you gain 1 life.
+Flying
+Whenever Loch Dragon enters the battlefield or attacks, you may discard a card. If you do, draw a card.
+Flash
+{U}, Sacrifice an Island: Lochmere Serpent can't be blocked this turn.
+{B}, Sacrifice a Swamp: You gain 1 life and draw a card.
+{U}{B}: Exile five target cards from an opponent's graveyard. Return Lochmere Serpent from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.
+{4}: Locthwain Gargoyle gets +2/+0 and gains flying until end of turn.
+Menace (This creature can't be blocked except by two or more creatures.)
+Adamant — If at least three black mana was spent to cast this spell, Locthwain Paladin enters the battlefield with a +1/+1 counter on it.
+When Lost Legion enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Whenever you cast an Adventure instant or sorcery spell, copy it. You may choose new targets for the copy.
+Equipped creature gets +1/+1 for each charge counter on Mace of the Valiant and has vigilance.
+Whenever a creature enters the battlefield under your control, put a charge counter on Mace of the Valiant.
+Equip {3}
+Whenever you draw your second card each turn, create two 1/1 black Rat creature tokens.
+{2}, Sacrifice an artifact or another creature: Put a +1/+1 counter on Malevolent Noble.
+Equipped creature gets +1/+2.
+Whenever you draw your second card each turn, attach Mantle of Tides to target creature you control.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+Flying
+{T}: Add {G} or {U}.
+Sacrifice a Food: Target creature blocks Maraleaf Rider this turn if able.
+Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. You may put a card that has an Adventure that player owns from exile into that player's graveyard.
+{T}: Add {U}.
+{2}{U}: Put an hour counter on Midnight Clock.
+At the beginning of each upkeep, put an hour counter on Midnight Clock.
+When the twelfth hour counter is put on Midnight Clock, shuffle your hand and graveyard into your library, then draw seven cards. Exile Midnight Clock.
+You may have Mirrormade enter the battlefield as a copy of any artifact or enchantment on the battlefield.
+Whenever Mistford River Turtle attacks, another target attacking non-Human creature can't be blocked this turn.
+When Moonlit Scavengers enters the battlefield, if you control an artifact or enchantment, return target creature an opponent controls to its owner's hand.
+({T}: Add {R}.)
+Flying
+Each creature you control that has an Adventure enters the battlefield with an additional +1/+1 counter on it. (It doesn't need to have gone on the adventure first.)
+This spell costs {2} less to cast if it targets a blue spell.
+Counter target spell unless its controller pays {3}.
+({T}: Add {U}.)
+Mystic Sanctuary enters the battlefield tapped unless you control three or more other Islands.
+When Mystic Sanctuary enters the battlefield untapped, you may put target instant or sorcery card from your graveyard on top of your library.
+This spell costs {2} less to cast if an opponent controls a green permanent.
+Deathtouch
+Whenever Oakhame Adversary deals combat damage to a player, draw a card.
+Oathsworn Knight enters the battlefield with four +1/+1 counters on it.
+Oathsworn Knight attacks each combat if able.
+If damage would be dealt to Oathsworn Knight while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from it.
+Whenever Ogre Errant attacks, another target attacking Knight gains menace until end of turn. (It can't be blocked except by two or more creatures.)
+Flying
+Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named Oko, the Trickster, reveal it, and put it into your hand. If you search your library this way, shuffle it.
++1: Put two +1/+1 counters on up to one target creature you control.
+0: Until end of turn, Oko, the Trickster becomes a copy of target creature you control. Prevent all damage that would be dealt to him this turn.
+−7: Until end of turn, each creature you control has base power and toughness 10/10 and gains trample.
++2: Create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this artifact: You gain 3 life.")
++1: Target artifact or creature loses all abilities and becomes a green Elk creature with base power and toughness 3/3.
+−5: Exchange control of target artifact or creature you control and target creature an opponent controls with power 3 or less.
+Return target card from your graveyard to your hand. Put up to one other target card from your graveyard on top of your library. Exile Once and Future.
+Adamant — If at least three green mana was spent to cast this spell, instead return those cards to your hand and exile Once and Future.
+If this spell is the first spell you've cast this game, you may cast it without paying its mana cost.
+Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Flying
+When Opportunistic Dragon enters the battlefield, choose target Human or artifact an opponent controls. For as long as Opportunistic Dragon remains on the battlefield, gain control of that permanent, it loses all abilities, and it can't attack or block.
+Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Draw a card.
+Outflank deals damage to target attacking or blocking creature equal to the number of creatures you control.
+At the beginning of your upkeep, choose one at random. Create a red and white creature token with those characteristics.
+• 3/1 Human Warrior with trample and haste.
+• 2/1 Human Cleric with lifelink and haste.
+• 1/2 Human Rogue with haste and "When this creature enters the battlefield, it deals 1 damage to any target."
+Put a +1/+1 counter on target creature you control, then it fights target creature you don't control. (Each deals damage equal to its power to the other.)
+Adamant — If at least three green mana was spent to cast this spell, the creature you control gains indestructible until end of turn.
+When Overwhelmed Apprentice enters the battlefield, each opponent puts the top two cards of their library into their graveyard. Then you scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Rats you control have menace.
+{1}{B}, {T}: Create a 1/1 black Rat creature token.
+{2}{B}{B}, {T}, Sacrifice three Rats: Gain control of target creature.
+({T}: Add {W}.)
+As long as it's your turn, Ahn-Crop Invader has first strike.
+{1}, Sacrifice another creature: Ahn-Crop Invader gets +2/+0 until end of turn.
+Choose one or both —
+• Return target creature card from your graveyard to your hand.
+• Return target planeswalker card from your graveyard to your hand.
+Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.
+Creatures you control have vigilance.
++1: You gain 3 life.
+−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.
+Creatures you control have menace.
+−2: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Choose one —
+• Target player sacrifices an artifact.
+• Target player sacrifices a creature.
+• Target player sacrifices a planeswalker.
+Reach
+When Arboreal Grazer enters the battlefield, you may put a land card from your hand onto the battlefield tapped.
+Arlinn's Wolf can't be blocked by creatures with power 2 or less.
+Each creature you control that's a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it.
+−2: Create a 2/2 green Wolf creature token.
+Spells and abilities your opponents control can't cause their controller to search their library.
+−1: Target player puts the top four cards of their library into their graveyard. Then exile each opponent's graveyard.
+{3}{U}: Ashiok's Skulker can't be blocked this turn.
+When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Flying
+When Aven Eternal enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Put nine +1/+1 counters on target land you control. It becomes a legendary 0/0 Elemental creature with haste named Vitu-Ghazi. It's still a land.
+Up to two target creatures you control each deal damage equal to their power to another target creature.
+Lifelink, haste
+Put a +1/+1 counter on target creature. That creature gains first strike until end of turn. You gain 2 life.
+Trample
+Bioessence Hydra enters the battlefield with a +1/+1 counter on it for each loyalty counter on planeswalkers you control.
+Whenever one or more loyalty counters are put on planeswalkers you control, put that many +1/+1 counters on Bioessence Hydra.
+Blast Zone enters the battlefield with a charge counter on it.
+{T}: Add {C}.
+{X}{X}, {T}: Put X charge counters on Blast Zone.
+{3}, {T}, Sacrifice Blast Zone: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Blast Zone.
+Up to one target creature gets -2/-2 until end of turn. Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Blindblast deals 1 damage to target creature. That creature can't block this turn.
+Draw a card.
+When Bloom Hulk enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+You may look at the top card of your library any time.
+You may play the top card of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost.
+{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life.
+This spell costs {3} less to cast if you control a creature with power 4 or greater.
+Change the target of target spell or ability with a single target.
+Tap all creatures your opponents control. Creatures you control gain lifelink until end of turn.
+Look at the top three cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. You gain 3 life.
+Each player puts the top four cards of their library into their graveyard. Return up to two instant and/or sorcery cards from your graveyard to your hand. Exile Bond of Insight.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Bond of Passion deals 2 damage to any other target.
+Return target creature card from your graveyard to the battlefield. It gains haste until your next turn.
+When Bulwark Giant enters the battlefield, you gain 5 life.
+Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end of turn, then scry 1.
+Return target nonland permanent to its owner's hand.
+Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Choose one or more —
+• Destroy target artifact.
+• Destroy target creature.
+• Destroy target enchantment.
+• Destroy target land.
+• Destroy target planeswalker.
+When Centaur Nurturer enters the battlefield, you gain 3 life.
+{T}: Add one mana of any color.
+{3}{R}: Target creature can't block this turn.
+Each creature you control with power 4 or greater can't be blocked by more than one creature.
+Whenever one or more loyalty counters are removed from Chandra, Fire Artisan, she deals that much damage to target opponent or planeswalker.
++1: Exile the top card of your library. You may play it this turn.
+−7: Exile the top seven cards of your library. You may play them this turn.
+Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets.
+Chandra's Triumph deals 3 damage to target creature or planeswalker an opponent controls. Chandra's Triumph deals 5 damage to that permanent instead if you control a Chandra planeswalker.
+Lifelink
+Lifelink
+When Charmed Stray enters the battlefield, put a +1/+1 counter on each other creature you control named Charmed Stray.
+Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total converted mana cost of those cards. Put them onto the battlefield under your control.
+This spell can't be countered.
+Draw two cards, then amass X, where X is the number of cards in your hand. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Draw a card.
+Put a +1/+1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Whenever Cruel Celebrant or another creature or planeswalker you control dies, each opponent loses 1 life and you gain 1 life.
+Counter target spell unless its controller pays {2}.
+Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+When Cyclops Electromancer enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of instant and sorcery cards in your graveyard.
+At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel, Rogue Shadowmage deals 2 damage to them.
+−1: Target player discards a card.
+Target player discards two cards and loses 2 life.
+Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+Target creature gets +1/+0 until end of turn.
+Draw a card.
+Choose up to four target cards in your graveyard. If you control a Bolas planeswalker, return those cards to your hand. Otherwise, an opponent chooses two of them. Leave the chosen cards in your graveyard and put the rest into your hand.
+Exile Deliver Unto Evil.
+Destroy target artifact or land.
+Exile target permanent with converted mana cost 4 or greater.
+Target creature gets +2/+2 and gains flying until end of turn. You gain 2 life.
+As Devouring Hellion enters the battlefield, you may sacrifice any number of creatures and/or planeswalkers. If you do, it enters with twice that many +1/+1 counters on it.
+Divine Arrow deals 4 damage to target attacking or blocking creature.
+Creatures you control get +1/+0.
++1: Add {R} or {G}. Creature spells you cast this turn can't be countered.
+−2: Target creature you control fights target creature you don't control.
+Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature or planeswalker you don't control.
+Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.
+−1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.
+This spell can't be countered.
+Counter target noncreature spell.
+Trample
+Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with converted mana cost less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.
+Haste
+Whenever Dreadhorde Butcher deals combat damage to a player or planeswalker, put a +1/+1 counter on Dreadhorde Butcher.
+When Dreadhorde Butcher dies, it deals damage equal to its power to any target.
+At the beginning of your upkeep, you lose 1 life and amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Whenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn.
+When Dreadhorde Twins enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have trample.
+Menace (This creature can't be blocked except by two or more creatures.)
+{2}{B}, Sacrifice another creature or planeswalker: Put two +1/+1 counters on Dreadmalkin.
+Duskmantle Operative can't be blocked by creatures with power 4 or greater.
+Flying
+When Elite Guardmage enters the battlefield, you gain 3 life and draw a card.
+{T}: Add {C}.
+{1}, {T}, Sacrifice Emergence Zone: You may cast spells this turn as though they had flash.
+Flying
+Enter the God-Eternals deals 4 damage to target creature and you gain life equal to the damage dealt this way. Target player puts the top four cards of their library into their graveyard. Amass 4. (Put four +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+{1}{U}, {T}: Draw a card, then discard a card.
+When Eternal Skylord enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have flying.
+Eternal Taskmaster enters the battlefield tapped.
+Whenever Eternal Taskmaster attacks, you may pay {2}{B}. If you do, return target creature card from your graveyard to your hand.
+Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+When Fblthp, the Lost enters the battlefield, draw a card. If it entered from your library or was cast from your library, draw two cards instead.
+When Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library.
+Flying
+Whenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step.
+Search your library and/or graveyard for a creature card with converted mana cost X or less and put it onto the battlefield. If you search your library this way, shuffle it. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn.
+Destroy up to three target creatures with toughness X or less. If X is 10 or more, return all creature cards from your graveyard to the battlefield.
+Create X 2/2 white Soldier creature tokens with vigilance. If X is 10 or more, also create X 4/4 white Angel creature tokens with flying and vigilance.
+You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with converted mana cost X or less without paying their mana costs. If a card cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.
+Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.
+Firemind Vessel enters the battlefield tapped.
+{T}: Add two mana of different colors.
+Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Put target creature with flying on the bottom of its owner's library.
+({T}: Add {G}.)
+Gateway Plaza enters the battlefield tapped.
+When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.
+Target creature gets +3/+3 until end of turn.
+As long as it's your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.
+Prevent all damage that would be dealt to Gideon Blackblade during your turn.
++1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.
+−6: Exile target nonland permanent.
+Put a +1/+1 counter on each creature you control. You may search your library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+Whenever you gain life, put two +1/+1 counters on Gideon's Company.
+{3}{W}: Put a loyalty counter on target Gideon planeswalker.
+Choose a creature or planeswalker you control. All damage that would be dealt this turn to you and permanents you control is dealt to the chosen permanent instead (if it's still on the battlefield).
+Target opponent sacrifices a creature that attacked or blocked this turn. If you control a Gideon planeswalker, that player sacrifices two of those creatures instead.
+Whenever you attack with two or more non-Gideon creatures, put a +1/+1 counter on each of those creatures.
++2: Until end of turn, Gideon, the Oathsworn becomes a 5/5 white Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn. (He can't attack if he was cast this turn.)
+−9: Exile Gideon, the Oathsworn and each creature your opponents control.
+When Gleaming Overseer enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have hexproof and menace.
+Haste
+When Goblin Assault Team dies, put a +1/+1 counter on target creature you control.
+Menace
+When God-Eternal Bontu enters the battlefield, sacrifice any number of other permanents, then draw that many cards.
+When God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.
+Flying
+You may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.
+When God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.
+Double strike
+Whenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance.
+When God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.
+Deathtouch
+When God-Eternal Rhonas enters the battlefield, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn.
+When God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.
+Spells your opponents cast cost {2} more to cast.
+At the beginning of your end step, each opponent loses 1 life.
+Flying
+Whenever Grateful Apparition deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+First strike
+When Grim Initiate dies, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+When Guild Globe enters the battlefield, draw a card.
+{2}, {T}, Sacrifice Guild Globe: Add two mana of different colors.
+Flying
+Whenever Guildpact Informant deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+As an additional cost to cast this spell, sacrifice a creature or planeswalker.
+Heartfire deals 4 damage to any target.
+Discard all the cards in your hand, then draw that many cards plus one. You gain life equal to the number of cards in your hand.
+When Herald of the Dreadhorde dies, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+As an additional cost to cast this spell, discard a card.
+Draw two cards. Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Vigilance
+When Huatli's Raptor enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Each creature you control assigns combat damage equal to its toughness rather than its power.
+−3: You gain life equal to the greatest toughness among creatures you control.
+Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle your library.
+Trample
+Whenever Ilharg, the Raze-Boar attacks, you may put a creature card from your hand onto the battlefield tapped and attacking. Return that creature to your hand at the beginning of the next end step.
+When Ilharg, the Raze-Boar dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.
+Whenever you cast a planeswalker spell, you gain 1 life.
+{T}: Add {C}.
+{1}, {T}: Add two mana of different colors. Spend this mana only to cast planeswalker spells.
+Amass X, where X is the number of instant and sorcery cards in your graveyard. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+When Invading Manticore enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Menace (This creature can't be blocked except by two or more creatures.)
+When Iron Bully enters the battlefield, put a +1/+1 counter on target creature.
+({T}: Add {U}.)
+Whenever you draw your second card each turn, put a +1/+1 counter on target creature you control.
++1: Draw a card.
+−7: Creatures you control can't be blocked this turn.
+Whenever you draw a card, put a +1/+1 counter on Jace's Projection.
+{3}{U}: Put a loyalty counter on target Jace planeswalker.
+Return up to two target creatures to their owner's hand. You may search your library and/or graveyard for a card named Jace, Arcane Strategist, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+Draw two cards. If you control a Jace planeswalker, draw three cards instead.
+If you would draw a card while your library has no cards in it, you win the game instead.
++1: Target player puts the top two cards of their library into their graveyard. Draw a card.
+−8: Draw seven cards. Then if your library has no cards in it, you win the game.
+Jaya's Greeting deals 3 damage to target creature. Scry 1.
+If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.
+−2: Jaya, Venerated Firemage deals 2 damage to any target.
+Each creature you control with a +1/+1 counter on it has "{T}: Add one mana of any color."
+−1: Put a +1/+1 counter on target creature.
+{T}: Add {C}.
+{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Activated abilities of artifacts your opponents control can't be activated.
++1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+−2: You may choose an artifact card you own from outside the game or in exile, reveal that card, and put it into your hand.
+Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.
+−2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.
+Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 1/1.
+Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.
+−3: Exile target creature.
+Enchant creature or planeswalker you control
+When enchanted permanent dies or is put into exile, return that card to the battlefield under your control.
+Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card.
+−1: Untap target permanent.
+When Kiora's Dambreaker enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Deathtouch
+Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power.
+Trample
+Whenever a creature with power 4 or greater enters the battlefield under your control, put a +1/+1 counter on Kronch Wrangler.
+{1}, {T}: Tap target creature with converted mana cost 2 or greater.
+Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+You and permanents you control gain hexproof until end of turn. (You and they can't be the targets of spells or abilities your opponents control.)
+When Lazotep Reaver enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Deathtouch, lifelink
+{T}: Add one mana of any color.
+Whenever a creature you control dies, draw a card.
++1: Create a 2/2 black Zombie creature token.
+−4: Each player sacrifices two creatures.
+−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.
+Each opponent sacrifices a creature. If you control a Liliana planeswalker, each opponent also discards a card.
+{1}{R}, Discard a land card: Living Twister deals 2 damage to any target.
+{G}: Return a tapped land you control to its owner's hand.
+Vigilance
+When Loxodon Sergeant enters the battlefield, other creatures you control gain vigilance until end of turn.
+Whenever Makeshift Battalion and at least two other creatures attack, put a +1/+1 counter on Makeshift Battalion.
+When Mana Geode enters the battlefield, scry 1.
+{T}: Add one mana of any color.
+When Martyr for the Cause dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Menace
+When Massacre Girl enters the battlefield, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.
+Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any target.
+Flying
+When Merfolk Skydiver enters the battlefield, put a +1/+1 counter on target creature you control.
+{3}{G}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Trample
+Whenever you cast a noncreature spell, Mizzium Tank becomes an artifact creature and gets +1/+1 until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
+{T}: Add {C}.
+{4}: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs {1} less to activate for each legendary creature and planeswalker you control.
+({T}: Add {R}.)
+Trample, vigilance
+If one or more +1/+1 counters would be put on Mowu, Loyal Companion, that many plus one +1/+1 counters are put on it instead.
+Up to two target creatures each get +2/+0 until end of turn.
+As long as it's your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate.
+−X: Nahiri, Storm of Stone deals X damage to target tapped creature.
+Each opponent can't draw more than one card each turn.
+−2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Copy target instant or sorcery spell, then return it to its owner's hand. You may choose new targets for the copy.
+Trample
+Whenever Neheb, Dreadhorde Champion deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.
+As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle your library.
+Enchant land
+When New Horizons enters the battlefield, put a +1/+1 counter on target creature you control.
+Enchanted land has "{T}: Add two mana of any one color."
+Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.
++1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
+−3: Destroy target creature or planeswalker.
+−8: Each opponent who doesn't control a legendary creature or planeswalker loses the game.
+Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle your library.
+Whenever you tap a Forest for mana, add an additional {G}.
++1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.
+−8: You get an emblem with "Lands you control have indestructible." Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library.
+Flying
+When Niv-Mizzet Reborn enters the battlefield, reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.
+Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Scry 1.
+When Oath of Kaya enters the battlefield, it deals 3 damage to any target and you gain 3 life.
+Whenever an opponent attacks a planeswalker you control with one or more creatures, Oath of Kaya deals 2 damage to that player and you gain 2 life.
+Target creature gets -5/-5 until end of turn. If that creature would die this turn, exile it instead.
+Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 damage to that player.
+−2: Destroy target creature. Its controller draws two cards.
+Counter target spell. You gain 3 life.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+Flying
+{2}{G}{U}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature card. Until your next turn, Amplifire's base power becomes twice that card's power and its base toughness becomes twice that card's toughness. Put the revealed cards on the bottom of your library in a random order.
+Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of creatures you control.
+Flash
+Flying
+When Angel of Grace enters the battlefield, until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.
+{4}{W}{W}, Exile Angel of Grace from your graveyard: Your life total becomes 10.
+Choose one or both —
+• Target creature gets +1/+1 until end of turn.
+• Return target creature to its owner's hand.
+Flying
+When Archway Angel enters the battlefield, you gain 2 life for each Gate you control.
+Return target creature to its owner's hand.
+Addendum — If you cast this spell during your main phase, draw a card.
+Target creature gets +2/+2 until end of turn.
+Addendum — If you cast this spell during your main phase, that creature gains flying until end of turn.
+Each player discards all the cards in their hand, then creates that many 2/2 black Zombie creature tokens.
+Azorius Guildgate enters the battlefield tapped.
+{T}: Add {W} or {U}.
+Vigilance
+Azorius Knight-Arbiter can't be blocked.
+{T}: Add {W} or {U}.
+{W/U}{W/U}{W/U}{W/U}, {T}, Sacrifice Azorius Locket: Draw two cards.
+Flying, first strike
+Creatures your opponents control get -1/-0.
+As an additional cost to cast this spell, sacrifice two creatures.
+Draw three cards.
+When Basilica Bell-Haunt enters the battlefield, each opponent discards a card and you gain 3 life.
+Destroy target artifact, creature, or planeswalker.
+{1}{U}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+Whenever one or more +1/+1 counters are put on Benthic Biomancer, draw a card, then discard a card.
+When Biogenic Ooze enters the battlefield, create a 2/2 green Ooze creature token.
+At the beginning of your end step, put a +1/+1 counter on each Ooze you control.
+{1}{G}{G}{G}: Create a 2/2 green Ooze creature token.
+Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.
+Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+{T}: The next time target creature adapts this turn, it adapts as though it had no +1/+1 counters on it.
+Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+Draw a card.
+Spectacle {2}{B} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+When Blade Juggler enters the battlefield, it deals 1 damage to you and you draw a card.
+({T}: Add {B} or {R}.)
+As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+Whenever Bloodmist Infiltrator attacks, you may sacrifice another creature. If you do, Bloodmist Infiltrator can't be blocked this turn.
+{T}, Remove a +1/+1 counter from a creature you control: Bolrac-Clan Crusher deals 2 damage to any target.
+({T}: Add {G} or {U}.)
+As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+Exile target creature with power 4 or greater.
+Creatures you control get +2/+0 until end of turn.
+Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Whenever Burning-Tree Vandal attacks, you may discard a card. If you do, draw a card.
+Captive Audience enters the battlefield under the control of an opponent of your choice.
+At the beginning of your upkeep, choose one that hasn't been chosen —
+• Your life total becomes 4.
+• Discard your hand.
+• Each opponent creates five 2/2 black Zombie creature tokens.
+Flying
+When Carrion Imp enters the battlefield, you may exile target creature card from a graveyard. If you do, you gain 2 life.
+Whenever a creature you control with power 1 or less attacks, Cavalcade of Calamity deals 1 damage to the player or planeswalker that creature is attacking.
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+As long as you control a Domri planeswalker, Charging War Boar gets +1/+1 and has trample. (It can deal excess damage to the player or planeswalker it's attacking.)
+Flying
+When Chillbringer enters the battlefield, tap target creature an opponent controls. It doesn't untap during its controller's next untap step.
+Whenever an opponent casts a noncreature spell, Cindervines deals 1 damage to that player.
+{1}, Sacrifice Cindervines: Destroy target artifact or enchantment. Cindervines deals 2 damage to that permanent's controller.
+When Civic Stalwart enters the battlefield, creatures you control get +1/+1 until end of turn.
+Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Whenever Clamor Shaman attacks, target creature an opponent controls can't block this turn.
+{1}{R}, {T}: Target creature can't block this turn.
+{2}{G}, {T}: Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land.
+Target player shuffles their graveyard into their library.
+Draw a card.
+Target creature gets -3/-3 until end of turn. If you control a creature with power 4 or greater, you may return up to one target creature card from your graveyard to your hand.
+Target creature gets -4/-0 until end of turn.
+Draw a card.
+Addendum — If you cast this spell during your main phase, tap that creature and it doesn't untap during its controller's next untap step.
+{1}{G}, {T}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
+{1}{U}, {T}: Move a +1/+1 counter from target creature you control onto another target creature you control.
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Destroy target creature. Consign to the Pit deals 2 damage to that creature's controller.
+All creatures get -2/-2 until end of turn. Exile all creature cards in all graveyards that were put there from the battlefield this turn. If a creature would die this turn, exile it instead.
+{3}{B}, {T}: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+{R}, {T}: Cult Guildmage deals 1 damage to target opponent or planeswalker.
+When Dagger Caster enters the battlefield, it deals 1 damage to each opponent and 1 damage to each creature your opponents control.
+Spectacle {1}{B} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Return up to two target creature cards from your graveyard to your hand.
+Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)
+Choose one —
+• Destroy target artifact.
+• Destroy target creature with defender.
+When Deputy of Detention enters the battlefield, exile target nonland permanent an opponent controls and all other nonland permanents that player controls with the same name as that permanent until Deputy of Detention leaves the battlefield.
++1: Add {R} or {G}. If that mana is spent on a creature spell, it gains riot. (It enters the battlefield with your choice of a +1/+1 counter or haste.)
+−3: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+−8: You get an emblem with "At the beginning of each end step, create a 4/4 red and green Beast creature token with trample."
++2: Creatures you control get +1/+1 and gain haste until end of turn.
+−3: Domri, City Smasher deals 3 damage to any target.
+−8: Put three +1/+1 counters on each creature you control. Those creatures gain trample until end of turn.
+Trample
+When Domri's Nodorog enters the battlefield, you may search your library and/or graveyard for a card named Domri, City Smasher, reveal it, and put it into your hand. If you search your library this way, shuffle it.
++1: You gain 2 life and draw a card.
+−1: Tap target creature. It doesn't untap during its controller's next untap step.
+−9: Tap all permanents target opponent controls. That player skips their next untap step.
++1: Until end of turn, whenever a creature you control deals combat damage to a player, put a loyalty counter on Dovin, Grand Arbiter.
+−1: Create a 1/1 colorless Thopter artifact creature token with flying. You gain 1 life.
+−7: Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in a random order.
+When Dovin's Acuity enters the battlefield, you gain 2 life and draw a card.
+Whenever you cast an instant spell during your main phase, you may return Dovin's Acuity to its owner's hand.
+As long as you control a Dovin planeswalker, Dovin's Automaton gets +2/+2 and has vigilance. (Attacking doesn't cause it to tap.)
+Put up to one target tapped creature on top of its owner's library. You may search your library and/or graveyard for a card named Dovin, Architect of Law, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+Spectacle {B} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Target player reveals their hand. You choose a nonland card from it. That player discards that card.
+{1}{U}, {T}: Tap target creature.
+Each player shuffles their hand and graveyard into their library, then draws seven cards. Exile Emergency Powers.
+Addendum — If you cast this spell during your main phase, you may put a permanent card with converted mana cost 7 or less from your hand onto the battlefield.
+Vigilance, trample, haste
+When End-Raze Forerunners enters the battlefield, other creatures you control get +2/+2 and gain vigilance and trample until end of turn.
+Enraged Ceratok can't be blocked by creatures with power 2 or less.
+Counter target creature spell. Put a +1/+1 counter on up to one target creature you control.
+Creatures you control get +1/+1.
+Creatures your opponents control get -1/-1.
+{2}{W}{B}: Exile target card from an opponent's graveyard. If it was a creature card, you create a 1/1 white and black Spirit creature token with flying.
+Destroy target artifact or enchantment. Scry 1.
+At the beginning of your upkeep, scry 1.
+{5}{U}: Exchange control of Eyes Everywhere and target nonland permanent. Activate this ability only any time you could cast a sorcery.
+Flash
+Flying
+When Faerie Duelist enters the battlefield, target creature an opponent controls gets -2/-0 until end of turn.
+As an additional cost to cast this spell, pay 5 life or sacrifice a creature or enchantment.
+Destroy target creature.
+Haste
+At the beginning of your upkeep, you may sacrifice a creature. When you do, Fireblade Artist deals 2 damage to target opponent or planeswalker.
+Flames of the Raze-Boar deals 4 damage to target creature an opponent controls. Then Flames of the Raze-Boar deals 2 damage to each other creature that player controls if you control a creature with power 4 or greater.
+Whenever you pay life, put that many blood counters on Font of Agonies.
+{1}{B}, Remove four blood counters from Font of Agonies: Destroy target creature.
+When Footlight Fiend dies, it deals 1 damage to any target.
+When Forbidding Spirit enters the battlefield, until your next turn, creatures can't attack you or a planeswalker you control unless their controller pays {2} for each of those creatures.
+({T}: Add {G}.)
+Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Trample
+{4}{R}{G}: Frenzied Arynx gets +3/+0 until end of turn.
+Flash
+When Frilled Mystic enters the battlefield, you may counter target spell.
+Trample
+When Galloping Lizrog enters the battlefield, you may remove any number of +1/+1 counters from among creatures you control. If you do, put twice that many +1/+1 counters on Galloping Lizrog.
+Gatebreaker Ram gets +1/+1 for each Gate you control.
+As long as you control two or more Gates, Gatebreaker Ram has vigilance and trample.
+This spell costs {1} less to cast for each Gate you control.
+Gate Colossus can't be blocked by creatures with power 2 or less.
+Whenever a Gate enters the battlefield under your control, you may put Gate Colossus from your graveyard on top of your library.
+Gates Ablaze deals X damage to each creature, where X is the number of Gates you control.
+Gateway Plaza enters the battlefield tapped.
+When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.
+Whenever a Gate enters the battlefield under your control, Gateway Sneak can't be blocked this turn.
+Whenever Gateway Sneak deals combat damage to a player, draw a card.
+Destroy target creature. Scry 1.
+Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Menace (This creature can't be blocked except by two or more creatures.)
+Target creature gets +3/+3 and gains reach until end of turn.
+Multicolored creatures you control get +1/+1.
+Create a number of 1/1 red Goblin creature tokens equal to two plus the number of cards named Goblin Gathering in your graveyard.
+({T}: Add {W} or {B}.)
+As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+Flying
+When Grasping Thrull enters the battlefield, it deals 2 damage to each opponent and you gain 2 life.
+{3}{G}: Gravel-Hide Goblin gets +2/+2 until end of turn.
+Exile target creature with power 3 or less.
+{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
+Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may search your library for a card named Growth-Chamber Guardian, reveal it, put it into your hand, then shuffle your library.
+Draw a card. You may put a land card from your hand onto the battlefield.
+Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Whenever Gruul Beastmaster attacks, another target creature you control gets +X/+0 until end of turn, where X is Gruul Beastmaster's power.
+Gruul Guildgate enters the battlefield tapped.
+{T}: Add {R} or {G}.
+{T}: Add {R} or {G}.
+{R/G}{R/G}{R/G}{R/G}, {T}, Sacrifice Gruul Locket: Draw two cards.
+Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+Trample
+As long as it's your turn, you and Gruul Spellbreaker have hexproof.
+Whenever a nontoken creature enters the battlefield under your control, if it doesn't have the same name as another creature you control or a creature card in your graveyard, draw a card.
+Gutterbones enters the battlefield tapped.
+{1}{B}: Return Gutterbones from your graveyard to your hand. Activate this ability only during your turn and only if an opponent lost life this turn.
+{T}: Add {G}{U}.
+When Haazda Officer enters the battlefield, target creature you control gets +1/+1 until end of turn.
+Spectacle {B}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+{B}: Hackrobat gains deathtouch until end of turn.
+{R}: Hackrobat gets +2/-2 until end of turn.
+({T}: Add {W} or {U}.)
+As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+Whenever you cast a multicolored spell, create a 1/1 white Human creature token.
+Each creature you control assigns combat damage equal to its toughness rather than its power.
+Creatures you control can attack as though they didn't have defender.
+{2}{W}{U}: Untap target creature.
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+When you cast this spell, you gain half X life and draw half X cards. Round down each time.
+Flying, trample
+Hydroid Krasis enters the battlefield with X +1/+1 counters on it.
+At the beginning of your upkeep, Ill-Gotten Inheritance deals 1 damage to each opponent and you gain 1 life.
+{5}{B}, Sacrifice Ill-Gotten Inheritance: It deals 4 damage to target opponent and you gain 4 life.
+Whenever an opponent activates an ability of an artifact, creature, or land that isn't a mana ability, Immolation Shaman deals 1 damage to that player.
+{3}{R}{R}: Immolation Shaman gets +3/+3 and gains menace until end of turn.
+Whenever another creature enters the battlefield under your control, you gain 1 life.
+Vigilance
+Afterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)
+{T}: Add one mana of any type that a land you control could produce. If Incubation Druid has a +1/+1 counter on it, add three mana of that type instead.
+{3}{G}{G}: Adapt 3. (If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)
+({T}: Add {U}.)
+Other creatures you control get +1/+0.
+Whenever a nontoken creature you control dies, Judith, the Scourge Diva deals 1 damage to any target.
+Defender
+{T}: Put target card from a graveyard on the bottom of its owner's library.
+Exile target creature you control, then return that card to the battlefield under its owner's control. It gains first strike until end of turn.
++1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way.
+−1: Exile target nonland permanent with converted mana cost 1 or less.
+−5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.
+Destroy all creatures. You gain life equal to the number of creatures you controlled that were destroyed this way.
+Knight of Sorrows can block an additional creature each combat.
+Afterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)
+{3}, Sacrifice another nontoken creature: Create a 1/1 white and black Spirit creature token with flying.
+Afterlife 3 (When this creature dies, create three 1/1 white and black Spirit creature tokens with flying.)
+Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls.
+Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.
+Flash
+Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Vigilance
+When Lumbering Battlement enters the battlefield, exile any number of other nontoken creatures you control until it leaves the battlefield.
+Lumbering Battlement gets +2/+2 for each card exiled with it.
+Put target creature card from an opponent's graveyard onto the battlefield under your control. It gets +2/+0 and gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+Reach (This creature can block creatures with flying.)
+Gain control of X target creatures and/or planeswalkers.
+When Mesmerizing Benthid enters the battlefield, create two 0/2 blue Illusion creature tokens with "Whenever this creature blocks a creature, that creature doesn't untap during its controller's next untap step."
+Mesmerizing Benthid has hexproof as long as you control an Illusion.
+Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)
+Whenever a nontoken creature enters the battlefield under your control, flip a coin until you lose a flip. For each flip you won, create a token that's a copy of that creature. Those tokens gain haste. Exile them at the beginning of the next end step.
+Destroy target creature or enchantment.
+({T}: Add {R}.)
+You can't cast noncreature spells.
+Whenever you tap a land for mana, add one mana of any type that land produced.
+Deathtouch
+Search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle your library.
+Deathtouch
+Afterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)
+Orzhov Guildgate enters the battlefield tapped.
+{T}: Add {W} or {B}.
+{T}: Add {W} or {B}.
+{W/B}{W/B}{W/B}{W/B}, {T}, Sacrifice Orzhov Locket: Draw two cards.
+Whenever Orzhov Racketeers deals combat damage to a player, that player discards a card.
+Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)
+{1}, {T}: Target player puts the top card of their library into their graveyard.
+Tap four untapped Advisors you control: Target player puts the top twelve cards of their library into their graveyard.
+A deck can have any number of cards named Persistent Petitioners.
+Menace, deathtouch
+Instant and sorcery spells you control have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.)
+{1}, Sacrifice another creature: Pitiless Pontiff gains deathtouch and indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+Whenever Plague Wight becomes blocked, each creature blocking it gets -1/-1 until end of turn.
+({T}: Add {W}.)
+When Plaza of Harmony enters the battlefield, if you control two or more Gates, you gain 3 life.
+{T}: Add {C}.
+{T}: Add one mana of any type that a Gate you control could produce.
+Draw three cards.
+Addendum — If you cast this spell during your main phase, instead scry 3, then draw three cards.
+{T}, Sacrifice two other creatures: Any number of target players each lose 2 life and sacrifice a creature. You add {B}{B} and draw a card.
+{T}, Sacrifice another creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.
+Draw four cards, then discard two cards.
+Flying
+{7}{U}: Adapt 4. This ability costs {1} less to activate for each instant and sorcery card in your graveyard. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)
+Counter target spell unless its controller pays {2}.
+Spectacle {3}{B}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+When Rafter Demon enters the battlefield, if its spectacle cost was paid, each opponent discards a card.
+Ragefire deals 3 damage to target creature.
+When Rakdos Firewheeler enters the battlefield, it deals 2 damage to target opponent and 2 damage to up to one target creature or planeswalker.
+Rakdos Guildgate enters the battlefield tapped.
+{T}: Add {B} or {R}.
+{T}: Add {B} or {R}.
+{B/R}{B/R}{B/R}{B/R}, {T}, Sacrifice Rakdos Locket: Draw two cards.
+Whenever Rakdos Roustabout becomes blocked, it deals 1 damage to the player or planeswalker it's attacking.
+Flying, trample
+When Rakdos, the Showstopper enters the battlefield, flip a coin for each creature that isn't a Demon, Devil, or Imp. Destroy each creature whose coin comes up tails.
+Menace (This creature can't be blocked except by two or more creatures.)
+{3}{R}: Rakdos Trumpeter gets +2/+0 until end of turn.
+When Affectionate Indrik enters the battlefield, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.)
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Flying, haste
+At the beginning of combat on your turn, if you've cast three or more instant and sorcery spells this turn, return Arclight Phoenix from your graveyard to the battlefield.
+Choose one or both —
+• Tap target creature.
+• Target creature gets -2/-4 until end of turn.
+Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.
+When Attendant of Vraska dies, if you control a Vraska planeswalker, you gain life equal to Attendant of Vraska's power.
+Flying
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of combat on your turn, choose up to one target creature you control. Until end of turn, that creature gets +2/+0, gains trample if it's red, and gains vigilance if it's white.
+Haste
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Defender
+When Barrier of Bones enters the battlefield, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Beacon Bolt deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+Whenever you cast an instant or sorcery spell that targets only Beamsplitter Mage, if you control one or more other creatures that spell could target, choose one of those creatures. Copy that spell. The copy targets the chosen creature.
+Whenever you cast a creature spell, draw a card.
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Lifelink
+When Blood Operative enters the battlefield, you may exile target card from a graveyard.
+Whenever you surveil, if Blood Operative is in your graveyard, you may pay 3 life. If you do, return Blood Operative to your hand.
+Trample
+Whenever Book Devourer deals combat damage to a player, you may discard all the cards in your hand. If you do, draw that many cards.
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+{2}{R}{W}: Boros Challenger gets +1/+1 until end of turn.
+Boros Guildgate enters the battlefield tapped.
+{T}: Add {R} or {W}.
+{T}: Add {R} or {W}.
+{R/W}{R/W}{R/W}{R/W}, {T}, Sacrifice Boros Locket: Draw two cards.
+Vigilance
+{T}, Sacrifice Bounty Agent: Destroy target legendary permanent that's an artifact, creature, or enchantment.
+Target creature gets +3/+3 until end of turn.
+Target creature gets +3/+3 until end of turn.
+Target creature gets +3/+3 until end of turn.
+When Burglar Rat enters the battlefield, each opponent discards a card.
+You gain X life and draw X cards, where X is the number of creatures you control. Creatures you control get +1/+1 until end of turn.
+Enchant creature
+Enchanted creature gets +3/+2 and has vigilance.
+Flash
+Enchant creature
+When Capture Sphere enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+When Centaur Peacemaker enters the battlefield, each player gains 4 life.
+Chamber Sentry enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
+{X}, {T}, Remove X +1/+1 counters from Chamber Sentry: It deals X damage to any target.
+{W}{U}{B}{R}{G}: Return Chamber Sentry from your graveyard to your hand.
+Creatures you control gain indestructible. Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+Trample
+At the beginning of your upkeep, exile a creature card from your graveyard. If you do, put a +1/+1 counter on Charnel Troll. Otherwise, sacrifice it.
+{B}{G}, Discard a creature card: Put a +1/+1 counter on Charnel Troll.
+Draw two cards.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+Lifelink
+Lands you control have "{T}: Add one mana of any color."
+{T}: Add one mana of any color.
+Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle your library.
+Flying
+When Citywatch Sphinx dies, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+Destroy all creatures with toughness 4 or greater.
+Destroy target creature with toughness 4 or greater.
+Command the Storm deals 5 damage to target creature.
+Vigilance
+When Conclave Cavalier dies, create two 2/2 green and white Elf Knight creature tokens with vigilance.
+{G}, {T}: Creatures you control gain trample until end of turn.
+{5}{W}, {T}: Create a 2/2 green and white Elf Knight creature token with vigilance.
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When Conclave Tribunal enters the battlefield, exile target nonland permanent an opponent controls until Conclave Tribunal leaves the battlefield.
+Cosmotronic Wave deals 1 damage to each creature your opponents control. Creatures your opponents control can't block this turn.
+Flying
+Crackling Drake's power is equal to the total number of instant and sorcery cards you own in exile and in your graveyard.
+When Crackling Drake enters the battlefield, draw a card.
+Creeping Chill deals 3 damage to each opponent and you gain 3 life.
+When Creeping Chill is put into your graveyard from your library, you may exile it. If you do, Creeping Chill deals 3 damage to each opponent and you gain 3 life.
+Choose one or both —
+• Exile target artifact.
+• Exile target enchantment.
+Choose one —
+• Destroy target creature with flying.
+• Destroy target enchantment.
+As long as you've surveilled this turn, Darkblade Agent has deathtouch and "Whenever this creature deals combat damage to a player, you draw a card."
+Whenever you gain life, you may pay {2}. If you do, draw a card.
+{3}{W}: Create a 1/1 white Soldier creature token with lifelink.
+Target creature gets -3/-0 until end of turn.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+Destroy target creature.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Enchant creature
+Enchanted creature gets -2/-2.
+Choose one or both —
+• Deafening Clarion deals 3 damage to each creature.
+• Creatures you control gain lifelink until end of turn.
+Enchant creature
+Enchanted creature can't block, and its activated abilities can't be activated.
+Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may shuffle up to four target cards from your graveyard into your library.
+{4}{G}: Devkarin Dissident gets +2/+2 until end of turn.
+Dimir Guildgate enters the battlefield tapped.
+{T}: Add {U} or {B}.
+When Dimir Informant enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+{T}: Add {U} or {B}.
+{U/B}{U/B}{U/B}{U/B}, {T}, Sacrifice Dimir Locket: Draw two cards.
+Flying
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever you surveil, put a +1/+1 counter on Dimir Spybug.
+Direct Current deals 2 damage to any target.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+Counter target spell with converted mana cost 4 or greater.
+When Disinformation Campaign enters the battlefield, you draw a card and each opponent discards a card.
+Whenever you surveil, return Disinformation Campaign to its owner's hand.
+When District Guide enters the battlefield, you may search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle your library.
+If one or more creature tokens would be created under your control, that many 4/4 white Angel creature tokens with flying and vigilance are created instead.
+Flying, trample
+Pay 2 life: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+Flash
+Flying
+When Dream Eater enters the battlefield, surveil 4. When you do, you may return target nonland permanent an opponent controls to its owner's hand. (To surveil 4, look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Whenever you cast a blue spell, target player puts the top two cards of their library into their graveyard.
+Defender
+Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 damage to each opponent.
+Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white Soldier creature token with lifelink.
+You may look at an additional two cards each time you surveil.
+Exile Enhanced Surveillance: Shuffle your graveyard into your library.
+Trample
+Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 until end of turn, where X is that spell's converted mana cost.
+Discard a creature card: Erstwhile Trooper gets +2/+2 and gains trample until end of turn. Activate this ability only once each turn.
+Etrata, the Silencer can't be blocked.
+Whenever Etrata deals combat damage to a player, exile target creature that player controls and put a hit counter on that card. That player loses the game if they own three or more exiled cards with hit counters on them. Etrata's owner shuffles Etrata into their library.
+You may look at the top card of your library any time.
+You may play the top card of your library.
+You can't play cards from your hand.
+{3}{R}: Destroy Experimental Frenzy.
+Whenever you cast an instant or sorcery spell, put a charge counter on Firemind's Research.
+{1}{U}, Remove two charge counters from Firemind's Research: Draw a card.
+{1}{R}, Remove five charge counters from Firemind's Research: It deals 5 damage to any target.
+Trample
+Whenever you cast an instant or sorcery spell, Fire Urchin gets +1/+0 until end of turn.
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Flying
+({T}: Add {G}.)
+As long as it's your turn, Fresh-Faced Recruit has first strike.
+Garrison Sergeant has double strike as long as you control a Gate.
+Flying
+Gatekeeper Gargoyle enters the battlefield with a +1/+1 counter on it for each Gate you control.
+Gateway Plaza enters the battlefield tapped.
+When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.
+When Generous Stray enters the battlefield, draw a card.
+Put a +1/+1 counter on each of up to two target creatures.
+Equipped creature gets +1/+0 for each Gate you control and has vigilance and menace. (A creature with menace can't be blocked except by two or more creatures.)
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+When Glowspore Shaman enters the battlefield, put the top three cards of your library into your graveyard. You may put a land card from your graveyard on top of your library.
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+{1}{R}: Goblin Banneret gets +2/+0 until end of turn.
+{1}, Sacrifice Goblin Cratermaker: Choose one —
+• Goblin Cratermaker deals 2 damage to target creature.
+• Destroy target colorless nonland permanent.
+Instant and sorcery spells you cast cost {1} less to cast.
+Whenever Goblin Locksmith attacks, creatures with defender can't block this turn.
+When Golgari Findbroker enters the battlefield, return target permanent card from your graveyard to your hand.
+Golgari Guildgate enters the battlefield tapped.
+{T}: Add {B} or {G}.
+{T}: Add {B} or {G}.
+{B/G}{B/G}{B/G}{B/G}, {T}, Sacrifice Golgari Locket: Draw two cards.
+Haste
+Undergrowth — Golgari Raiders enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.
+Defender, reach
+{4}{G}: Grappling Sundew gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy this creature.)
+Target creature you control deals damage equal to its power to target player.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+Choose a creature card with converted mana cost 1 in your graveyard, then do the same for creature cards with converted mana costs 2 and 3. Return those cards to the battlefield.
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. If that mana is spent on a multicolored creature spell, that creature enters the battlefield with an additional +1/+1 counter on it.
+When Guild Summit enters the battlefield, you may tap any number of untapped Gates you control. Draw a card for each Gate tapped this way.
+Whenever a Gate enters the battlefield under your control, draw a card.
+Whenever Haazda Marshal and at least two other creatures attack, create a 1/1 white Soldier creature token with lifelink.
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Reach
+Undergrowth — When you cast this spell, reveal the top X cards of your library, where X is the number of creature cards in your graveyard. You may put a green permanent card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+Flying, lifelink
+Flying
+Whenever Hellkite Whelp attacks, it deals 1 damage to target creature defending player controls.
+Deathtouch
+Reach (This creature can block creatures with flying.)
+{1}{U}, {T}: Target creature doesn't untap during its controller's next untap step.
+{2}{B}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+When Hunted Witness dies, create a 1/1 white Soldier creature token with lifelink.
+Draw two cards. Then you may discard a nonland card. When you do, Hypothesizzle deals 4 damage to target creature.
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Indestructible
+This spell can't be countered.
+Inescapable Blaze deals 6 damage to any target.
+Whenever Inspiring Unicorn attacks, creatures you control get +1/+1 until end of turn.
+Vigilance
+When Intrusive Packbeast enters the battlefield, tap up to two target creatures your opponents control.
+Counter target spell. Ionize deals 2 damage to that spell's controller.
+When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.
+({T}: Add {U}.)
+Undergrowth — When Izoni, Thousand-Eyed enters the battlefield, create a 1/1 black and green Insect creature token for each creature card in your graveyard.
+{B}{G}, Sacrifice another creature: You gain 1 life and draw a card.
+Izzet Guildgate enters the battlefield tapped.
+{T}: Add {U} or {R}.
+{T}: Add {U} or {R}.
+{U/R}{U/R}{U/R}{U/R}, {T}, Sacrifice Izzet Locket: Draw two cards.
+Untap all creatures you control. They gain hexproof and indestructible until end of turn. (They can't be the targets of spells or abilities your opponents control. Damage and effects that say "destroy" don't destroy them.)
+Target creature deals damage to itself equal to its power.
+When Knight of Autumn enters the battlefield, choose one —
+• Put two +1/+1 counters on Knight of Autumn.
+• Destroy target artifact or enchantment.
+• You gain 4 life.
+Undergrowth — When Kraul Foragers enters the battlefield, you gain 1 life for each creature card in your graveyard.
+Reach
+Undergrowth — When Kraul Harpooner enters the battlefield, choose up to one target creature with flying you don't control. Kraul Harpooner gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard, then you may have Kraul Harpooner fight that creature.
+Menace (This creature can't be blocked except by two or more creatures.)
+Flying
+{2}{B}, Discard a creature card: Return Kraul Swarm from your graveyard to your hand.
+Lava Coil deals 4 damage to target creature. If that creature would die this turn, exile it instead.
+When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+{X}: Lazav, the Multifarious becomes a copy of target creature card in your graveyard with converted mana cost X, except its name is Lazav, the Multifarious, it's legendary in addition to its other types, and it has this ability.
+{3}{U}, {T}: Draw a card.
+{X}{R}, {T}: Copy target instant or sorcery spell you control with converted mana cost X. You may choose new targets for the copy.
+Leapfrog has flying as long as you've cast an instant or sorcery spell this turn.
+Whenever Ledev Champion attacks, you may tap any number of untapped creatures you control. Ledev Champion gets +1/+1 until end of turn for each creature tapped this way.
+{3}{G}{W}: Create a 1/1 white Soldier creature token with lifelink.
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.)
+{5}{R}, {T}: Legion Guildmage deals 3 damage to each opponent.
+{2}{W}, {T}: Tap another target creature.
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token gains haste until end of turn and attacks this combat if able.
+Flying
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+When Light of the Legion dies, put a +1/+1 counter on each white creature you control.
+Undergrowth — When Lotleth Giant enters the battlefield, it deals 1 damage to target opponent for each creature card in your graveyard.
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When Loxodon Restorer enters the battlefield, you gain 4 life.
+Enchant creature
+Enchanted creature can't attack or block.
+Enchant creature
+Enchanted creature gets +2/+2 and can't block.
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of the creature's color.)
+Create X 1/1 white Soldier creature tokens with lifelink.
+Undergrowth — Search your library for a black card with converted mana cost less than or equal to the number of creature cards in your graveyard, reveal it, put it into your hand, then shuffle your library.
+Target creature gets +1/+1 and gains flying until end of turn.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+Target creature gets +1/+1 and gains haste until end of turn.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
+All creatures get -1/-1 until end of turn.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)
+Whenever a nontoken creature you control dies, Midnight Reaper deals 1 damage to you and you draw a card.
+Target creature gets +1/+1 until end of turn for each creature you control.
+Surveil 2, then choose an instant or sorcery card in your graveyard. You may cast that card this turn. If that card would be put into your graveyard this turn, exile it instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Exile all cards from all opponents' graveyards. You may cast those cards this turn, and you may spend mana as though it were mana of any type to cast those spells. At the beginning of the next end step, if any of those cards remain exiled, return them to their owners' graveyards.
+Exile Mnemonic Betrayal.
+Undergrowth — This spell costs {1} less to cast for each creature card in your graveyard.
+When Molderhulk enters the battlefield, return target land card from your graveyard to the battlefield.
+Undergrowth — When Moodmark Painter enters the battlefield, target creature gains menace and gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. (It can't blocked except by two or more creatures.)
+({T}: Add {R}.)
+Whenever you cast an instant or sorcery spell, create a 1/1 blue Bird Illusion creature token with flying.
+Flying
+When Muse Drake enters the battlefield, draw a card.
+Flying
+When Narcomoeba is put into your graveyard from your library, you may put it onto the battlefield.
+Undergrowth — Target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard. If that creature would die this turn, exile it instead.
+Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it.
+Flying, deathtouch
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Flying
+Whenever Nightveil Sprite attacks, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+This spell can't be countered.
+Flying
+Whenever you draw a card, Niv-Mizzet, Parun deals 1 damage to any target.
+Whenever a player casts an instant or sorcery spell, you draw a card.
+Surveil 2, then draw two cards. Notion Rain deals 2 damage to you. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Hexproof
+You can't cast noncreature spells.
+{2}: Nullhide Ferox loses all abilities until end of turn. Any player may activate this ability.
+If a spell or ability an opponent controls causes you to discard Nullhide Ferox, put it onto the battlefield instead of putting it into your graveyard.
+Deathtouch
+All creatures able to block Ochran Assassin do so.
+{2}{U}, {T}: You may cast an instant or sorcery card from your hand without paying its mana cost.
+Whenever Ornery Goblin blocks or becomes blocked by a creature, Ornery Goblin deals 1 damage to that creature.
+({T}: Add {B} or {G}.)
+As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Target creature gets +3/+3 until end of turn.
+Until end of turn, target creature gets +2/+0 and gains "When this creature dies, return it to the battlefield tapped under its owner's control."
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+Target creature gets +1/+7 until end of turn.
+As long as you control an artifact, Aerial Engineer gets +2/+0 and has flying.
+At the beginning of combat on your turn, target artifact creature you control gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+Enchant creature
+Enchanted creature gets +1/+0 and can't be blocked.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Other creatures you control have trample.
+Flying
++1: Put a +1/+1 counter on each of up to two target creatures.
+−2: Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+−7: You get an emblem with "At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink."
+Put two +1/+1 counters on target creature.
+Look at the top five cards of your library. You may reveal a white card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Whenever a creature or planeswalker you control dies, you may sacrifice Ajani's Last Stand. If you do, create a 4/4 white Avatar creature token with flying.
+When a spell or ability an opponent controls causes you to discard this card, if you control a Plains, create a 4/4 white Avatar creature token with flying.
+Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.
+Whenever a creature enters the battlefield under your control, you gain 1 life.
++2: You gain 1 life for each creature you control.
+−3: Creatures you control get +2/+2 until end of turn.
+−9: Put X +1/+1 counters on target creature, where X is your life total.
+As Alpine Moon enters the battlefield, choose a nonbasic land card name.
+Lands your opponents control with the chosen name lose all land types and abilities, and they gain "{T}: Add one mana of any color."
+Whenever you become the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {1}.
+Creature tokens get -1/-0.
+Flying
+When Angel of the Dawn enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn. (Attacking doesn't cause them to tap.)
+Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Exile the top seven cards of your library. Until end of turn, you may cast nonland cards exiled this way.
+If this spell was cast from your hand, add ten mana of any one color.
+Flying, vigilance
+Whenever a creature with defender enters the battlefield under your control, draw a card.
+Each creature you control with defender assigns combat damage equal to its toughness rather than its power and can attack as though it didn't have defender.
+{3}, {T}: Draw a card.
+Arisen Gorgon has deathtouch as long as you control a Liliana planeswalker. (Any amount of damage this deals to a creature is enough to destroy it.)
+Flying
+Whenever you cast an instant or sorcery spell, Aven Wind Mage gets +1/+1 until end of turn.
+When Aviation Pioneer enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.
+Banefire deals X damage to any target.
+If X is 5 or more, this spell can't be countered and the damage can't be prevented.
+Target creature gets -4/-0 until end of turn.
+Draw a card.
+Enchant creature
+Enchanted creature gets +1/+1 for each Forest you control.
+As an additional cost to cast this spell, sacrifice a creature.
+Draw three cards.
+Menace (This creature can't be blocked except by two or more creatures.)
+Flying
+{3}{B}{B}, Exile seven other cards from your graveyard: Return Bone Dragon from your graveyard to the battlefield tapped.
+Counter target creature spell.
+Draw a card.
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Brawl-Bash Ogre attacks, you may sacrifice another creature. If you do, Brawl-Bash Ogre gets +2/+2 until end of turn.
+Bristling Boar can't be blocked by more than one creature.
+Counter target spell.
+Sacrifice Catalyst Elemental: Add {R}{R}.
+When Cavalry Drillmaster enters the battlefield, target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+{4}, {T}: Target opponent exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then put the exiled cards that weren't cast this way on the bottom of that library in a random order.
+Lifelink
+Flash
+This spell can't be countered.
+Flying
+Discard a card: Until end of turn, Chromium, the Mutable becomes a Human with base power and toughness 1/1, loses all abilities, and gains hexproof. It can't be blocked this turn.
+Cinder Barrens enters the battlefield tapped.
+{T}: Add {B} or {R}.
+Choose one —
+• Destroy all creatures.
+• Destroy all artifacts and enchantments.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+At the beginning of your upkeep, if you control a creature with power 4 or greater, draw a card.
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Court Cleric gets +1/+1 as long as you control an Ajani planeswalker.
+Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)
+Draw a card.
+You may play land cards from your graveyard.
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{1}, Sacrifice a creature: Exile the top card of your library. You may play that card this turn. (You still pay its costs. You can play a land this way only if you have an available land play remaining.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Skeletons you control and other Zombies you control get +1/+1 and have deathtouch.
+Target creature gets +3/+3 until end of turn. All creatures able to block it this turn do so.
+Flying
+When Demanding Dragon enters the battlefield, it deals 5 damage to target opponent unless that player sacrifices a creature.
+As an additional cost to cast this spell, sacrifice a creature.
+Flying, trample
+When Departed Deckhand becomes the target of a spell, sacrifice it.
+Departed Deckhand can't be blocked except by Spirits.
+{3}{U}: Another target creature you control can't be blocked this turn except by Spirits.
+Whenever one or more creature cards leave your graveyard, create a 1/1 black Bat creature token with flying.
+{T}: Add {C}.
+{1}, {T}: Until end of turn, your opponents and creatures your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.
+As Diamond Mare enters the battlefield, choose a color.
+Whenever you cast a spell of the chosen color, you gain 1 life.
+Diregraf Ghoul enters the battlefield tapped.
+{R}, {T}, Discard a card: Draw a card.
+{2}{R}, {T}, Sacrifice Dismissive Pyromancer: It deals 4 damage to target creature.
+Return target nonland permanent to its owner's hand.
+Draw two cards.
+Flying
+Djinn of Wishes enters the battlefield with three wish counters on it.
+{2}{U}{U}, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.
+When Doomed Dissenter dies, create a 2/2 black Zombie creature token.
+When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+{T}: Add one mana of any color.
+{7}, {T}, Sacrifice Draconic Disciple: Create a 5/5 red Dragon creature token with flying.
+Defender (This creature can't attack.)
+When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and "{R}: This creature gets +1/+0 until end of turn."
+Whenever a Dragon enters the battlefield under your control, put a gold counter on Dragon's Hoard.
+{T}, Remove a gold counter from Dragon's Hoard: Draw a card.
+{T}: Add one mana of any color.
+Whenever you cast an Aura spell that targets Druid of Horns, create a 3/3 green Beast creature token.
+{T}: Add {G}.
+{T}: Look at the top card of your library. If it's a land card, you may reveal it and put it into your hand.
+Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
+When Dwarven Priest enters the battlefield, you gain 1 life for each creature you control.
+Enchant creature
+Enchanted creature gets -6/-0.
+When enchanted creature blocks, destroy it. (The attacking creature remains blocked.)
+Electrify deals 4 damage to target creature.
+Other Elves you control get +1/+1.
+{4}{G}{G}, {T}: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle your library.
+When Elvish Rejuvenator enters the battlefield, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
+Flying
+Enigma Drake's power is equal to the number of instant and sorcery cards in your graveyard.
+Whenever you gain life, each opponent loses 1 life.
+Counter target creature spell.
+When Exclusion Mage enters the battlefield, return target creature an opponent controls to its owner's hand.
+{3}, {T}, Sacrifice Explosive Apparatus: It deals 2 damage to any target.
+Flying
+When Fell Specter enters the battlefield, target opponent discards a card.
+Whenever an opponent discards a card, that player loses 2 life.
+Fiery Finish deals 7 damage to target creature.
+({T}: Add {G}.)
+Forsaken Sanctuary enters the battlefield tapped.
+{T}: Add {W} or {B}.
+Foul Orchard enters the battlefield tapped.
+{T}: Add {B} or {G}.
+At the beginning of your upkeep, you gain 1 life.
+{3}, Sacrifice Fountain of Renewal: Draw a card.
+Each player loses half their life, then discards half the cards in their hand, then sacrifices half the creatures they control. Round up each time.
+{5}{U}{U}: Frilled Sea Serpent can't be blocked this turn.
+Vigilance (Attacking doesn't cause this creature to tap.)
+When Gallant Cavalry enters the battlefield, create a 2/2 white Knight creature token with vigilance.
+Defender (This creature can't attack.)
+{3}: Until end of turn, Gargoyle Sentinel loses defender and gains flying.
+Gearsmith Guardian gets +2/+0 as long as you control a blue creature.
+Gearsmith Prodigy gets +1/+0 as long as you control an artifact.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Ghastbark Twins can block an additional creature each combat.
+{2}{G}: Target creature you control can't be blocked by creatures with power 2 or less this turn.
+Up to two target creatures can't be blocked this turn.
+Reach (This creature can block creatures with flying.)
+Enchant land
+When Gift of Paradise enters the battlefield, you gain 3 life.
+Enchanted land has "{T}: Add two mana of any one color."
+When Goblin Instigator enters the battlefield, create a 1/1 red Goblin creature token.
+{T}: Target creature gains haste until end of turn. (It can attack and {T} this turn.)
+Other Goblins you control get +1/+1.
+Sacrifice a Goblin: Destroy target artifact.
+Creature spells you cast with power 4 or greater cost {2} less to cast.
+Whenever Goreclaw, Terror of Qal Sisma attacks, each creature you control with power 4 or greater gets +1/+1 and gains trample until end of turn.
+Grasping Scoundrel gets +1/+0 as long as it's attacking.
+When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+{5}{B}{B}: Return target creature card from your graveyard to the battlefield tapped.
+{2}{B}, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token.
+Vigilance (Attacking doesn't cause this creature to tap.)
+Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Flying
+Whenever Herald of Faith attacks, you gain 2 life.
+Create two 1/1 white Soldier creature tokens. Until end of turn, creatures you control get +1/+1 and gain haste. (They can attack and {T} this turn.)
+When Hieromancer's Cage enters the battlefield, exile target nonland permanent an opponent controls until Hieromancer's Cage leaves the battlefield.
+When Highland Game dies, you gain 2 life.
+Highland Lake enters the battlefield tapped.
+{T}: Add {U} or {R}.
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Horizon Scholar enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+Hungering Hydra enters the battlefield with X +1/+1 counters on it.
+Hungering Hydra can't be blocked by more than one creature.
+Whenever Hungering Hydra is dealt damage, put that many +1/+1 counters on it. (It must survive the damage to get the counters.)
+Whenever Infectious Horror attacks, each opponent loses 2 life.
+Exile target colorless creature. You gain life equal to its power.
+Enchant creature
+Enchanted creature gets +2/+0 and has "When this creature dies, draw a card."
+Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+At the beginning of each end step, if Inferno Hellion attacked or blocked this turn, its owner shuffles it into their library.
+Creatures you control get +2/+1 until end of turn.
+Destroy target artifact or enchantment. You gain 4 life.
+Deathtouch
+Whenever Isareth the Awakener attacks, you may pay {X}. When you do, return target creature card with converted mana cost X from your graveyard to the battlefield with a corpse counter on it. If that creature would leave the battlefield, exile it instead of putting it anywhere else.
+({T}: Add {U}.)
+Exile target permanent with converted mana cost 1.
+As long as you control a Dragon, Kargan Dragonrider has flying. (It can't be blocked except by creatures with flying or reach.)
+Enchant creature
+When Knightly Valor enters the battlefield, create a 2/2 white Knight creature token with vigilance. (Attacking doesn't cause it to tap.)
+Enchanted creature gets +2/+2 and has vigilance.
+Vigilance (Attacking doesn't cause this creature to tap.)
+Enchant creature
+Enchanted creature gets +2/+2.
+Flying
+Whenever another nontoken Dragon enters the battlefield under your control, create a 5/5 red Dragon creature token with flying.
+{1}{R}: Dragons you control get +1/+0 until end of turn.
+Lava Axe deals 5 damage to target player or planeswalker.
+When Lena, Selfless Champion enters the battlefield, create a 1/1 white Soldier creature token for each nontoken creature you control.
+Sacrifice Lena: Creatures you control with power less than Lena's power gain indestructible until end of turn.
+At the beginning of combat on your turn, if you control three or more creatures, Leonin Vanguard gets +1/+1 until end of turn and you gain 1 life.
+Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens with lifelink that are tapped and attacking.
+Destroy target creature. You gain 3 life.
+This spell can't be countered.
+Lightning Mare can't be blocked by blue creatures.
+{1}{R}: Lightning Mare gets +1/+0 until end of turn.
+Lightning Strike deals 3 damage to any target.
+When Liliana's Contract enters the battlefield, you draw four cards and you lose 4 life.
+At the beginning of your upkeep, if you control four or more Demons with different names, you win the game.
+Target opponent discards a card.
+Look at the top five cards of your library. You may reveal a black card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
++1: Target player loses 2 life.
+−1: Return target creature card from your graveyard to your hand.
+−7: Destroy up to two target creatures. Put up to two creature cards from graveyards onto the battlefield under your control.
++1: Put the top three cards of your library into your graveyard. If at least one of them is a Zombie card, each opponent loses 2 life and you gain 2 life.
+−2: Target creature gets -X/-X until end of turn, where X is the number of Zombies you control.
+−3: You may cast Zombie cards from your graveyard this turn.
+{T}: Add {G}.
+Enchant creature
+Enchanted creature can't attack or block.
+Return up to two target creature cards from your graveyard to your hand, then discard a card.
+{4}, {T}: Put a charge counter on Magistrate's Scepter.
+{T}, Remove three charge counters from Magistrate's Scepter: Take an extra turn after this one.
+Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say "destroy" don't destroy them.)
+{T}: Add one mana of any color.
+Equipped creature gets +2/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Meandering River enters the battlefield tapped.
+{T}: Add {W} or {U}.
+Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.
+Enchant creature
+As Metamorphic Alteration enters the battlefield, choose a creature.
+Enchanted creature is a copy of the chosen creature.
+When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.
+Target creature gets +2/+2 and gains flying until end of turn.
+Vigilance (Attacking doesn't cause this creature to tap.)
+When Militia Bugler enters the battlefield, look at the top four cards of your library. You may reveal a creature card with power 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+{2}, {T}: Target player puts the top two cards of their library into their graveyard.
+Target player discards two cards.
+You may have Mirror Image enter the battlefield as a copy of any creature you control.
+Sacrifice Mistcaller: Until end of turn, if a nontoken creature would enter the battlefield and it wasn't cast, exile it instead.
+Mist-Cloaked Herald can't be blocked.
+({T}: Add {R}.)
+Destroy target creature.
+{3}{U}{U}: Draw two cards.
+Destroy target artifact or enchantment.
+Take an extra turn after this one.
+If Nexus of Fate would be put into a graveyard from anywhere, reveal Nexus of Fate and shuffle it into its owner's library instead.
+You gain 1 life. Target creature gets -X/-X until end of turn, where X is the amount of life you gained this turn.
+Defender (This creature can't attack.)
+As long as Novice Knight is enchanted or equipped, it can attack as though it didn't have defender.

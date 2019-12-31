@@ -18,7 +18,7 @@ for filename in os.listdir(directory):
 
 
 wowdf = pd.DataFrame.from_records(listyboi)
-wowdf = wowdf[["oracle_text"]]
-wowdf.to_csv("LSTMData.csv")
+#wowdf = wowdf[["oracle_text"]]
+wowdf.to_csv("wowies2.csv")
 
 

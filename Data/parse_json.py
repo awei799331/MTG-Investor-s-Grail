@@ -17,7 +17,7 @@ for filename in os.listdir(directory):
 
 
 wowdf = pd.DataFrame.from_records(listyboi)
-wowdf = wowdf[["mana_cost", "cmc", "type_line", "oracle_text", "rarity", "booster", "prices"]]
+wowdf = wowdf[["mana_cost", "cmc", "type_line", "oracle_text", "power", "toughness", "rarity", "booster", "prices"]]
 
 
 for tupleboi in wowdf.itertuples():
@@ -32,7 +32,7 @@ for tupleboi in wowdf.itertuples():
     if '//' in mana_cost:
         split_card = True
     mana_cost = mana_cost.replace("{", "").replace("//", "").replace(" ", "").split("}")
-    # cl, w, u, b, r, g :
+    # generic, w, u, b, r, g :
     for each in mana_cost:
         if '/' in each:
             each = each.split('/')
@@ -84,7 +84,9 @@ tuple(artifact_types.values) + tuple(planeswalker_types.values)
 
     #handling Oracle text
     oracle_text = str(tupleboi[4])
-    
+    mode = "not stupid"
+    if mode == "stupid":
+        ree
 
 
 wowdf.to_csv('wowies.csv')
