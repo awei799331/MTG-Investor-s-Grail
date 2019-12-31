@@ -1,0 +1,110 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: black;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.wrapper {
+    position: relative;
+}
+
+.content {
+    position: relative;
+    font-family: 'Source Sans Pro', sans-serif;
+    z-index: 2;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #444;
+    position: absolute;
+    height: 7vh;
+    width: 100%;
+}
+
+.navtext {
+    float: right;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    margin: 0;
+    text-decoration: none;
+    color: white;
+    opacity: 1;
+    height: 100%;
+    user-select: none;
+}
+
+.navtext a {
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+}
+
+.navtext a:hover{
+    background-color: #111;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 50vw;
+    align-items: stretch;
+    justify-content: center;
+    overflow: hidden;
+    margin: auto 25%;
+}
+
+.title {
+    text-align: center;
+    font-weight: 300;
+    font-size: 40px;
+    color: white;
+    
+}
+
+.inputText {
+    width: 75%;
+    height: 50px;
+    font-size: 2em;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 50px;
+    display: block;
+    background-color: #222222;
+    border-color: #888888;
+    border-width: 3px;
+    border-style: solid;
+    margin: 2% auto 5% auto;
+}
+
+
+.searchButton {
+    width: 10%;
+}
+
+.background {
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.4;
+    width: 100%;
+    min-width: 100%;
+    height: 100%;
+    min-height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
