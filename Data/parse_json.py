@@ -164,4 +164,4 @@ tuple(artifact_types.values()) + tuple(planeswalker_types.values())
 
 wowdf = pd.DataFrame(list4df)
 
-wowdf.to_csv('final.csv', index=False)
+wowdf.to_csv('final.csv', index=False, header=False)
