@@ -59,7 +59,7 @@ for tupleboi in wowdf.itertuples():
         cmc = tupleboi[2]
     else:
         cmc = -1.0
-    newtuple += (float(cmc),)
+    #newtuple += (float(cmc),)
 
     #handling type
     #added variable for legendary, adventure, card_types..., creature_types..., artifact_types..., planeswalker_types...
@@ -90,8 +90,10 @@ for tupleboi in wowdf.itertuples():
             artifact_types[types] = 1.0
         if types in planeswalker_types:
             planeswalker_types[types] = 1.0
-    newtuple += (legendary, adventure) + tuple(card_types.values()) + tuple(creature_types.values()) + \
-tuple(artifact_types.values()) + tuple(planeswalker_types.values())
+    newtuple += (legendary, adventure) + \
+tuple(card_types.values())
+# + tuple(creature_types.values()) + \
+#tuple(artifact_types.values()) + tuple(planeswalker_types.values())
 
     #handling Oracle text
     if str(tupleboi[4]) != 'nan':
@@ -104,8 +106,7 @@ tuple(artifact_types.values()) + tuple(planeswalker_types.values())
         for char in oracle_text:
             if char in char_dict:
                 char_dict[char] += 1
-    
-    newtuple += tuple(char_dict.values())
+    #newtuple += tuple(char_dict.values())
 
     #handling power
     if str(tupleboi[5]) != 'nan':
@@ -164,4 +165,4 @@ tuple(artifact_types.values()) + tuple(planeswalker_types.values())
 
 wowdf = pd.DataFrame(list4df)
 
-wowdf.to_csv('final.csv', index=False, header=False)
+wowdf.to_csv('final2.csv', index=False, header=False)
