@@ -23,8 +23,9 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('admin/', admin.site.urls),
     path('how-it-works/', views.howItWorks, name='howItWorks'),
-    path('about', views.about, name='about'),
-    path('contact', views.contact, name='contact')
+    path('about/', views.about, name='about'),
+    path('contact/', views.contact, name='contact'),
+    path('search-card/', views.searchCard, name='searchCard')
 ]
 
 if settings.DEBUG:

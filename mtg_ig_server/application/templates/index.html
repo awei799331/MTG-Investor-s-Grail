@@ -4,11 +4,16 @@
     <head>
         <meta charset="utf-8">
         <title>MTG Memes</title>
-        <script src="{% static 'js/mainjs.js' %}" defer></script>
-        <script src="{% static 'js/generateBackground.js' %}" defer></script>
+        <link rel="shortcut icon" type="image/ico" href="{% static 'images/favicon.ico' %}"/>
+
+        <script src="{% static 'js/index.js' %}" defer></script>
+        <script src="{% static 'js/main.js' %}" defer></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
         <link rel="stylesheet" href="{% static 'css/style.css' %}">
+        <link rel="stylesheet" href="{% static 'css/index.css' %}">
         <link rel="stylesheet" href="{% static 'css/animations.css' %}">
+
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap" rel="stylesheet"> 
         <link href="https://fonts.googleapis.com/css?family=Roboto:500&display=swap" rel="stylesheet"> 
     </head>
@@ -22,10 +27,10 @@
 
                 <nav>
                     <ul class="navbar">
-                        <li class="navtext navtext-left" id="navLi"><a>MTG Investor's Grail</a></li>
-                        <li class="navtext" id="navLi"><a href="{% url 'howItWorks' %}">How it Works</a></li>
-                        <li class="navtext" id="navLi"><a href="{% url 'about' %}">About</a></li>
+                        <li class="navtext navtext-left navtext-active" id="navLi"><a>MTG Investor's Grail</a></li>
                         <li class="navtext" id="navLi"><a href="{% url 'contact' %}">Contact</a></li>
+                        <li class="navtext" id="navLi"><a href="{% url 'about' %}">About</a></li>
+                        <li class="navtext" id="navLi"><a href="{% url 'howItWorks' %}">How it Works</a></li>
                     </ul>
                 </nav>
         
@@ -41,12 +46,13 @@
                             card price predictor
                         </h1>
                     </div>
-                    <div>
-                        <input type="text" id="getCard" class="inputText" autocomplete="off">
-                    </div>
-                    <div>
-                        <button id="search" type="button" class="searchButton" onclick="getImage()">Search Card</button>
-                    </div>
+                    <form action="/search-card/" method="GET">
+                        
+                        {{ form }}
+                        <div>
+                            <input id="search" type="submit" value="Search Card" class="searchButton"></input>
+                        </div>
+                    </form>
                 </div>
 
                 <footer class="footer">

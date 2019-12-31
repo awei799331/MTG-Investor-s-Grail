@@ -1,0 +1,42 @@
+.mainContent {
+    width: 75vw;
+    margin: 10vh auto;
+    padding: 3vh 3vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    grid-auto-rows: 100px;
+}
+
+.aboutImage {
+    grid-column: 1;
+    grid-row: 1 / 6;
+    background-color: black;
+}
+
+.aboutTextBox {
+    grid-column: 2 / 4;
+    grid-row: 1 / 7;
+    padding: 10px;
+}
+
+.aboutText {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+    color: white;
+}
+
+.captionBox {
+    grid-column: 1;
+    grid-row: 6;
+    padding: 10px;
+}
+
+.captionText {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: white;
+}
