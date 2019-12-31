@@ -4,7 +4,6 @@
     <head>
         <meta charset="utf-8">
         <title>MTG Memes</title>
-        <script src="{% static 'js/mainjs.js' %}" defer></script>
         <script src="{% static 'js/generateBackground.js' %}" defer></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <link rel="stylesheet" href="{% static 'css/style.css' %}">
@@ -22,31 +21,17 @@
 
                 <nav>
                     <ul class="navbar">
-                        <li class="navtext navtext-left" id="navLi"><a>MTG Investor's Grail</a></li>
-                        <li class="navtext" id="navLi"><a href="{% url 'howItWorks' %}">How it Works</a></li>
+                        <li class="navtext navtext-left" id="navLi"><a href="{% url 'index' %}">MTG Investor's Grail</a></li>
+                        <li class="navtext" id="navLi"><a>How it Works</a></li>
                         <li class="navtext" id="navLi"><a href="{% url 'about' %}">About</a></li>
                         <li class="navtext" id="navLi"><a href="{% url 'contact' %}">Contact</a></li>
                     </ul>
                 </nav>
-        
-                <div class="flex-container">
-                    <div>
-                        <h1 class="title">
-                            <strong>MTG Investor's Grail</strong>
-                            is the first
-                            <strong>machine learning</strong>
-                            based
-                            <br>
-                            <strong>Magic: The Gathering</strong>
-                            card price predictor
-                        </h1>
-                    </div>
-                    <div>
-                        <input type="text" id="getCard" class="inputText" autocomplete="off">
-                    </div>
-                    <div>
-                        <button id="search" type="button" class="searchButton" onclick="getImage()">Search Card</button>
-                    </div>
+
+                <div class="mainContent">
+                    <p>
+                        MTG Investor's Grail is powered by a machine learning engine yeeting thing that does cool stuff like ur mum.
+                    </p>
                 </div>
 
                 <footer class="footer">
