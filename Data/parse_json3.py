@@ -1,34 +1,4 @@
-import json
-import os
-import pandas as pd
-import numpy as np
-import sadness
-
-directory = 'JsonAll'
-listyboi = []
-'''
-for filename in os.listdir(directory):
-    with open(directory + '/' + filename, 'r+', encoding='utf8') as fileboi:
-        jason = json.load(fileboi)
-        for each in jason['data']:
-            if each['legalities']['standard'] == 'legal':
-                listyboi.append(each)
-            else:
-                continue
-'''
-
-with open(directory + '/' + 'CD.json', 'r+', encoding='utf8') as fileboi:
-    listyboi.append(json.load(fileboi))
-
-
-wowdf = pd.DataFrame.from_records(listyboi)
-wowdf = wowdf[["mana_cost", "cmc", "type_line", "oracle_text", "power", "toughness", "rarity", "booster", "prices"]]
-
-list4df = []
-
-for tupleboi in wowdf.itertuples():
-
-    #1st index is index
+#1st index is index
 
     #Handling Mana Cost
     jankydict = sadness.jankydict.copy()
@@ -89,7 +59,7 @@ for tupleboi in wowdf.itertuples():
             creature_types[types] = 1.0
         if types in artifact_types:
             artifact_types[types] = 1.0
-    newtuple += (legendary,) + \
+    newtuple += (legendary) + \
 tuple(card_types.values())
 # + tuple(creature_types.values()) + \
 #tuple(artifact_types.values()) + tuple(planeswalker_types.values())
@@ -161,7 +131,3 @@ tuple(card_types.values())
 
     #appending
     list4df.append(newtuple)
-
-wowdf = pd.DataFrame(list4df)
-
-wowdf.to_csv('CD.csv', index=False, header=False)
