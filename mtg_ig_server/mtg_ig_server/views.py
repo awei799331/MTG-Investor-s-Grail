@@ -1,16 +1,15 @@
 from django.shortcuts import render
 from django.http import HttpResponse, HttpResponseRedirect
 from django.urls import reverse
-from .forms import searchCardForm
+from .forms import searchCardForm, searchCardNavForm
 import requests
+
 
 # Create your views here.
 def index(request):
     if request.method == 'GET':
         form = searchCardForm(request.GET)
         if form.is_valid():
-            data = form.cleaned_data['cardName']
-            print(data)
             return HttpResponseRedirect('/search-card/')
     else:
         form = searchCardForm()
@@ -30,11 +29,28 @@ def contact(request):
     return render(request, 'contact.html')
 
 
+def cardNotFound(request):
+    if request.method == 'GET':
+        form = searchCardNavForm(request.GET)
+        if form.is_valid():
+            return HttpResponseRedirect('/search-card/')
+    else:
+        form = searchCardNavForm()
+    return render(request, 'card-not-found.html', {'form': form})
+
+
 def searchCard(request):
     fuzzyName = request.GET.get('cardName', '')
     r = requests.get("https://api.scryfall.com/cards/named?fuzzy=" + fuzzyName)
     rJSON = r.json()
+
     if rJSON['object'] == 'error':
-        return HttpResponse("<h1>go away</h1>")
+        return HttpResponseRedirect('/card-not-found/')
     else:
-        return render(request, 'search-card.html', {'fuzzyName': fuzzyName, 'name': rJSON['name'], 'imageUri': rJSON['image_uris']['border_crop']})
+        if request.method == 'GET':
+            form = searchCardNavForm(request.GET)
+            if form.is_valid():
+                return render(request, 'search-card.html', {'form': form, 'fuzzyName': fuzzyName, 'card': rJSON})
+        else:
+            form = searchCardForm()
+        return render(request, 'search-card.html', {'form': form, 'fuzzyName': fuzzyName, 'card': rJSON})

@@ -25,7 +25,8 @@ urlpatterns = [
     path('how-it-works/', views.howItWorks, name='howItWorks'),
     path('about/', views.about, name='about'),
     path('contact/', views.contact, name='contact'),
-    path('search-card/', views.searchCard, name='searchCard')
+    path('search-card/', views.searchCard, name='searchCard'),
+    path('card-not-found/', views.cardNotFound, name='cardNotFound')
 ]
 
 if settings.DEBUG:

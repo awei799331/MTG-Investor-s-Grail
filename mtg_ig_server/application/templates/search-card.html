@@ -25,8 +25,11 @@
             <div class="content">
 
                 <nav>
-                    <ul class="navbar">
+                    <ul class="navbar navbar-search">
                         <li class="navtext navtext-left" id="navLi"><a href="{% url 'index' %}">MTG Investor's Grail</a></li>
+                        <form action="/search-card/" method="GET">
+                            {{ form }}
+                        </form>
                         <li class="navtext" id="navLi"><a href="{% url 'contact' %}">Contact</a></li>
                         <li class="navtext" id="navLi"><a href="{% url 'about' %}">About</a></li>
                         <li class="navtext" id="navLi"><a href="{% url 'howItWorks' %}">How it Works</a></li>
@@ -35,17 +38,41 @@
 
                 <div class="mainContent">
                     <div class="aboutImage">
-                        <img src="{{ imageUri }}">
+                        <img src="{{ card.image_uris.border_crop }}">
                     </div>
                     <div class="aboutTextBox">
-                        <p class="aboutText">
-                            {{ name }}
-                        </p>
+                        <p class="cardtext cardtext-name">{{ card.name }} — {{ card.mana_cost }}</p>
+                        <p class="cardtext cardtext-typeline"> {{ card.type_line }}</p>
+                        <p class="cardtext cardtext-oracletext">{{ card.oracle_text|linebreaksbr }}</p>
                     </div>
                     <div class="captionBox">
-                        <p class="captionText">
+                        <a class="captionText" href="{{ card.purchase_uris.tcgplayer }}" target="_blank">
+                            <svg aria-hidden="true" focusable="false" width="15" height="15" viewBox="0 0 15 15">
+                                <path class="icon" d="M6.275 1H3.083c-.562 0-1 .447-1 1v11c0 .553.448 1 1 1h8.834c.562 0 1-.447 1-1V2c0-.553-.448-1-1-1h-1.862l.684 
+                                3.15c.032.096-.01.175-.126.235-.084.044-.184.066-.3.066-.052 0-.09 
+                                0-.116-.005L7.358 5.64l.82 4.054c.025.064.01.124-.045.18-.054.056-.137.094-.246.114-.065.008-.11.012-.135.012-.187 
+                                0-.323-.05-.407-.15L4.29 4.897c-.07-.097-.048-.185.068-.265.097-.06.206-.09.33-.09.025 
+                                0 .063.004.115.012l2.746-1.41L6.274 1zM1 1.007C1 .45 1.447 0 2 0h11c.553 0 1 .45 1 1.007v12.986C14 
+                                14.55 13.553 15 13 15H2c-.553 0-1-.45-1-1.007V1.007z" fill="#000" fill-rule="evenodd">
+                                </path>
+                            </svg>
                             Buy on TCGPlayer
-                        </p> 
+                            <span class="priceText">{{ card.prices.usd }}</span>
+                        </a>
+                        <br>
+                        <a class="captionText" href="{{ card.purchase_uris.tcgplayer }}" target="_blank">
+                            <svg aria-hidden="true" focusable="false" width="15" height="15" viewBox="0 0 15 15">
+                                <path class="icon" d="M6.275 1H3.083c-.562 0-1 .447-1 1v11c0 .553.448 1 1 1h8.834c.562 0 1-.447 1-1V2c0-.553-.448-1-1-1h-1.862l.684 
+                                3.15c.032.096-.01.175-.126.235-.084.044-.184.066-.3.066-.052 0-.09 
+                                0-.116-.005L7.358 5.64l.82 4.054c.025.064.01.124-.045.18-.054.056-.137.094-.246.114-.065.008-.11.012-.135.012-.187 
+                                0-.323-.05-.407-.15L4.29 4.897c-.07-.097-.048-.185.068-.265.097-.06.206-.09.33-.09.025 
+                                0 .063.004.115.012l2.746-1.41L6.274 1zM1 1.007C1 .45 1.447 0 2 0h11c.553 0 1 .45 1 1.007v12.986C14 
+                                14.55 13.553 15 13 15H2c-.553 0-1-.45-1-1.007V1.007z" fill="#000" fill-rule="evenodd">
+                                </path>
+                            </svg>
+                            Buy foil on TCGPlayer
+                            <span class="priceText">{{ card.prices.usd_foil }}</span>
+                        </a>
                     </div>
                 </div>
 

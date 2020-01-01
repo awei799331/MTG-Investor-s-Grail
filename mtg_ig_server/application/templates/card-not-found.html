@@ -10,7 +10,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
         <link rel="stylesheet" href="{% static 'css/style.css' %}">
-        <link rel="stylesheet" href="{% static 'css/contact.css' %}">
+        <link rel="stylesheet" href="{% static 'css/cardnotfound.css' %}">
         <link rel="stylesheet" href="{% static 'css/animations.css' %}">
 
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap" rel="stylesheet"> 
@@ -25,13 +25,33 @@
             <div class="content">
 
                 <nav>
-                    <ul class="navbar">
+                    <ul class="navbar navbar-search">
                         <li class="navtext navtext-left" id="navLi"><a href="{% url 'index' %}">MTG Investor's Grail</a></li>
-                        <li class="navtext navtext-active" id="navLi"><a>Contact</a></li>
+                        <form action="/search-card/" method="GET">
+                            {{ form }}
+                        </form>
+                        <li class="navtext" id="navLi"><a href="{% url 'contact' %}">Contact</a></li>
                         <li class="navtext" id="navLi"><a href="{% url 'about' %}">About</a></li>
                         <li class="navtext" id="navLi"><a href="{% url 'howItWorks' %}">How it Works</a></li>
                     </ul>
                 </nav>
+
+                <div class="mainContent">
+                    <div>
+                        <p class="errorText errorText-large">
+                            Error: The searched card cannot be found :(
+                        </p>
+                        <p class="errorText">
+                            This happens when the card doesn't exist or your search is too ambiguous.
+                        </p>
+                        <p class="errorText errorText-small">
+                            Try typing more of the name of the card.
+                            <br>
+                            If you don't know the card name but know some of its details, try filtering your search with 
+                            <a class="link" href="scryfall.com">Scryfall</a> or <a class="link" href="gatherer.wizards.com">Gatherer</a>.
+                        </p>
+                    </div>
+                </div>
 
                 <footer class="footer">
                     <p class="footertext">Parts of MTG Investor's Grail are unofficial fan content permitted under the Wizards of the Coast Fan Content Policy. 
