@@ -18,7 +18,9 @@ for filename in os.listdir(directory):
 '''
 
 with open(directory + '/' + 'CD.json', 'r+', encoding='utf8') as fileboi:
-    listyboi.append(json.load(fileboi))
+    jason = json.load(fileboi)
+    for each in jason['data']:
+        listyboi.append(each)
 
 
 wowdf = pd.DataFrame.from_records(listyboi)
