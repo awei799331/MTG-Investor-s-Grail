@@ -1,5 +1,6 @@
 .mainContent {
     width: 75vw;
+    height: 680px;
     margin: 10vh auto;
     padding: 3vh 3vh;
     background-color: rgba(0, 0, 0, 0.5);
@@ -11,32 +12,65 @@
 
 .aboutImage {
     grid-column: 1;
-    grid-row: 1 / 6;
-    background-color: black;
+    grid-row: 1 / 7;
 }
 
 .aboutTextBox {
     grid-column: 2 / 4;
-    grid-row: 1 / 6;
+    grid-row: auto;
     padding: 10px;
 }
 
-.aboutText {
+.cardtext {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: 400;
-    font-size: 1em;
     color: white;
 }
 
+.cardtext-name {
+    font-size: 24px;
+    padding-bottom: 3px;
+}
+
+.cardtext-typeline {
+    font-size: 20px;
+}
+
+.cardtext-oracletext {
+    font-size: 18px;
+}
+
 .captionBox {
-    grid-column: 2 / 4;
+    grid-column: 2;
     grid-row: 6;
-    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: left;
+    padding: 5px;
 }
 
 .captionText {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
+    text-decoration: none;
     color: white;
+    padding: 2px 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 200px;
+    border-width: 1px;
+    border-radius: 2px;
+    border-style: solid;
+}
+
+.icon {
+    fill: white;
+    color: white;
+}
+
+.priceText {
+    float:right;
+    font-size: 14px;
 }

@@ -1,0 +1,32 @@
+.mainContent {
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    align-items: stretch;
+    justify-content: center;
+    overflow: hidden;
+    margin: 10vh 20%;
+    padding: 3% 5%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.errorText {
+    font-size: 40px;
+    font-family: "Source Sans Pro", sans-serif;
+    color: white;
+}
+
+.errorText-large {
+    font-size: 50px
+}
+
+.errorText-small {
+    font-size: 28px;
+}
+
+.link {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
