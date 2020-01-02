@@ -92,6 +92,7 @@ ul.errorlist {
 .background {
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     opacity: 0.4;
     width: 100%;
     min-width: 100%;
@@ -109,6 +110,7 @@ ul.errorlist {
 }
 
 .footertext {
+    font-family: "Source Sans Pro", sans-serif;
     color: #888888;
     font-size: 12px;
 }

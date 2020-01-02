@@ -38,9 +38,20 @@
                 </nav>
 
                 <div class="mainContent">
+                    <div class="topTextBox">
+                        <p class="topText">
+                            Only showing the first {{n}} out of {{ total_cards }} results:
+                        </p>
+                    </div>
                     {% for each in cards %}
                     <div class="cardBox">
-                        <img class="cardImage" href="/" src="{{ each.image_uris.border_crop }}">
+                        {% if each.image_uris %}
+                        <img class="cardImage" href="?cardName={{ each.name }}" src="{{ each.image_uris.border_crop }}">
+                        
+                        {% elif each.card_faces.0.image_uris %}
+                        <img class="cardImage" href="?cardName={{ each.name }}" src="{{ each.card_faces.0.image_uris.border_crop }}">
+                        {% endif %}
+
                         <div class="nameText">
                             <a class="" href="?cardName={{ each.name }}">
                                 {{ each.name }}

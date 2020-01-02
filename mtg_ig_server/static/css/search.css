@@ -10,6 +10,19 @@
     grid-auto-rows: 100px;
 }
 
+.mainContent-fliptop {
+    margin: 10vh auto 1vh auto;
+}
+
+.mainContent-flipbottom {
+    margin: 1vh auto 10vh auto;
+}
+
+.flexContainer {
+    display: flex;
+    flex-direction: column;
+}
+
 .aboutImage {
     grid-column: 1;
     grid-row: 1 / 7;
