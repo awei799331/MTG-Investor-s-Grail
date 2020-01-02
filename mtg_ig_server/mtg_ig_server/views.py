@@ -41,7 +41,33 @@ def cardNotFound(request):
 
 def searchCard(request):
     fuzzyName = request.GET.get('cardName', '')
-    r = requests.get("https://api.scryfall.com/cards/named?fuzzy=" + fuzzyName)
+    r = requests.get("https://api.scryfall.com/cards/search?q=" + fuzzyName)
+    rJSON = r.json()
+    
+    if rJSON['object'] == 'error':
+        return HttpResponseRedirect('/card-not-found/')
+    else:
+        if request.method == 'GET':
+            form = searchCardNavForm(request.GET)
+            if form.is_valid():
+                if rJSON['total_cards'] == 1:
+                    return render(request, 'search-card.html', {'form': form, 'card': rJSON['data'][0]})
+                else:
+                    card_list_length = min(10, rJSON['total_cards'])
+                    return render(request, 'multi-search.html', {'form': form, 'n': range(card_list_length),'cards': rJSON['data'][0:card_list_length]})
+        else:
+            form = searchCardForm()
+        
+        if rJSON['total_cards'] == 1:
+            return render(request, 'search-card.html', {'form': form, 'card': rJSON['data'][0]})
+        else:
+            card_list_length = min(10, rJSON['total_cards'])
+            return render(request, 'multi-search.html', {'form': form, 'n': range(card_list_length), 'cards': rJSON['data'][0:card_list_length]})
+
+
+def multiSearch(request):
+    fuzzyName = request.GET.get('cardName', '')
+    r = requests.get("https://api.scryfall.com/cards/search?q=" + fuzzyName)
     rJSON = r.json()
 
     if rJSON['object'] == 'error':
@@ -50,7 +76,17 @@ def searchCard(request):
         if request.method == 'GET':
             form = searchCardNavForm(request.GET)
             if form.is_valid():
-                return render(request, 'search-card.html', {'form': form, 'fuzzyName': fuzzyName, 'card': rJSON})
+                if rJSON['total_cards'] == 1:
+                    return render(request, 'search-card.html', {'form': form, 'card': rJSON['data'][0]})
+                else:
+                    card_list_length = min(10, rJSON['total_cards'])
+                    return render(request, 'multi-search.html', {'form': form, 'n': range(card_list_length),'cards': rJSON['data'][0:card_list_length]})
         else:
             form = searchCardForm()
-        return render(request, 'search-card.html', {'form': form, 'fuzzyName': fuzzyName, 'card': rJSON})
+        
+
+        if rJSON['total_cards'] == 1:
+            return render(request, 'search-card.html', {'form': form, 'card': rJSON['data'][0]})
+        else:
+            card_list_length = min(10, rJSON['total_cards'])
+            return render(request, 'multi-search.html', {'form': form, 'n': range(card_list_length), 'cards': rJSON['data'][0:card_list_length]})
