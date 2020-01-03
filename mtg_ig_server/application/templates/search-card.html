@@ -1,4 +1,5 @@
 {% load static %}
+{% load my_filters %}
 <!DOCTYPE html>
 <html>
     <head>
@@ -7,7 +8,6 @@
         <link rel="shortcut icon" type="image/ico" href="{% static 'images/favicon.ico' %}"/>
 
         <script src="{% static 'js/main.js' %}" defer></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
         <link rel="stylesheet" href="{% static 'css/style.css' %}">
         <link rel="stylesheet" href="{% static 'css/search.css' %}">
@@ -15,6 +15,15 @@
 
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap" rel="stylesheet"> 
         <link href="https://fonts.googleapis.com/css?family=Roboto:500&display=swap" rel="stylesheet"> 
+
+        <!-- import Chart.js -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.css">
+
     </head>
     <body>
         <div class="wrapper">
@@ -47,7 +56,9 @@
                         <p class="cardtext cardtext-oracletext">{{ card.oracle_text|linebreaksbr }}</p>
                     </div>
                     <div class="captionBox">
-                        <a class="captionText" href="{{ card.purchase_uris.tcgplayer }}" target="_blank">
+                        {% with "https://shop.tcgplayer.com/product/productsearch?id="|addstr:card.tcgplayer_id|addstr:"&partner=MTGInvestorsGrail&utm_campaign=affiliate&utm_medium=MTGInvestorsGrail&utm_source=MTGInvestorsGrail" as yeet %}
+                        {# use variable yeet #}
+                        <a class="captionText" href="{{ yeet }}" target="_blank">
                             <svg aria-hidden="true" focusable="false" width="15" height="15" viewBox="0 0 15 15">
                                 <path class="icon" d="M6.275 1H3.083c-.562 0-1 .447-1 1v11c0 .553.448 1 1 1h8.834c.562 0 1-.447 1-1V2c0-.553-.448-1-1-1h-1.862l.684 
                                 3.15c.032.096-.01.175-.126.235-.084.044-.184.066-.3.066-.052 0-.09 
@@ -61,7 +72,7 @@
                             <span class="priceText">{{ card.prices.usd }}</span>
                         </a>
                         <br>
-                        <a class="captionText" href="{{ card.purchase_uris.tcgplayer }}" target="_blank">
+                        <a class="captionText" href="{{ yeet }}" target="_blank">
                             <svg aria-hidden="true" focusable="false" width="15" height="15" viewBox="0 0 15 15">
                                 <path class="icon" d="M6.275 1H3.083c-.562 0-1 .447-1 1v11c0 .553.448 1 1 1h8.834c.562 0 1-.447 1-1V2c0-.553-.448-1-1-1h-1.862l.684 
                                 3.15c.032.096-.01.175-.126.235-.084.044-.184.066-.3.066-.052 0-.09 
@@ -74,9 +85,12 @@
                             Buy foil on TCGPlayer
                             <span class="priceText">{{ card.prices.usd_foil }}</span>
                         </a>
+                        {% endwith %}
                     </div>
                 </div>
+
                 {% elif card.card_faces %}
+
                 <div class="flexContainer">
                     <div class="mainContent mainContent-fliptop">
                         <div class="aboutImage">
@@ -88,7 +102,9 @@
                             <p class="cardtext cardtext-oracletext">{{ card.card_faces.0.oracle_text|linebreaksbr }}</p>
                         </div>
                         <div class="captionBox">
-                            <a class="captionText" href="{{ card.purchase_uris.tcgplayer }}" target="_blank">
+                            {% with "https://shop.tcgplayer.com/product/productsearch?id="|addstr:card.tcgplayer_id|addstr:"&partner=MTGInvestorsGrail&utm_campaign=affiliate&utm_medium=MTGInvestorsGrail&utm_source=MTGInvestorsGrail" as yeet %}
+                            {# use variable yeet #}
+                            <a class="captionText" href="{{ yeet }}" target="_blank">
                                 <svg aria-hidden="true" focusable="false" width="15" height="15" viewBox="0 0 15 15">
                                     <path class="icon" d="M6.275 1H3.083c-.562 0-1 .447-1 1v11c0 .553.448 1 1 1h8.834c.562 0 1-.447 1-1V2c0-.553-.448-1-1-1h-1.862l.684 
                                     3.15c.032.096-.01.175-.126.235-.084.044-.184.066-.3.066-.052 0-.09 
@@ -102,7 +118,7 @@
                                 <span class="priceText">{{ card.prices.usd }}</span>
                             </a>
                             <br>
-                            <a class="captionText" href="{{ card.purchase_uris.tcgplayer }}" target="_blank">
+                            <a class="captionText" href="{{ yeet }}" target="_blank">
                                 <svg aria-hidden="true" focusable="false" width="15" height="15" viewBox="0 0 15 15">
                                     <path class="icon" d="M6.275 1H3.083c-.562 0-1 .447-1 1v11c0 .553.448 1 1 1h8.834c.562 0 1-.447 1-1V2c0-.553-.448-1-1-1h-1.862l.684 
                                     3.15c.032.096-.01.175-.126.235-.084.044-.184.066-.3.066-.052 0-.09 
@@ -115,6 +131,7 @@
                                 Buy foil on TCGPlayer
                                 <span class="priceText">{{ card.prices.usd_foil }}</span>
                             </a>
+                            {% endwith %}
                         </div>
                     </div>
 
@@ -126,9 +143,14 @@
                             <p class="cardtext cardtext-name">{{ card.card_faces.1.name }} — {{ card.card_faces.1.mana_cost }}</p>
                             <p class="cardtext cardtext-typeline"> {{ card.card_faces.1.type_line }}</p>
                             <p class="cardtext cardtext-oracletext">{{ card.card_faces.1.oracle_text|linebreaksbr }}</p>
+                            <div>
+
+                            </div>
                         </div>
                         <div class="captionBox">
-                            <a class="captionText" href="{{ card.purchase_uris.tcgplayer }}" target="_blank">
+                            {% with "https://shop.tcgplayer.com/product/productsearch?id="|addstr:card.tcgplayer_id|addstr:"&partner=MTGInvestorsGrail&utm_campaign=affiliate&utm_medium=MTGInvestorsGrail&utm_source=MTGInvestorsGrail" as yeet %}
+                            {# use variable yeet #}
+                            <a class="captionText" href="{{ yeet }}" target="_blank">
                                 <svg aria-hidden="true" focusable="false" width="15" height="15" viewBox="0 0 15 15">
                                     <path class="icon" d="M6.275 1H3.083c-.562 0-1 .447-1 1v11c0 .553.448 1 1 1h8.834c.562 0 1-.447 1-1V2c0-.553-.448-1-1-1h-1.862l.684 
                                     3.15c.032.096-.01.175-.126.235-.084.044-.184.066-.3.066-.052 0-.09 
@@ -142,7 +164,7 @@
                                 <span class="priceText">{{ card.prices.usd }}</span>
                             </a>
                             <br>
-                            <a class="captionText" href="{{ card.purchase_uris.tcgplayer }}" target="_blank">
+                            <a class="captionText" href="{{ yeet }}" target="_blank">
                                 <svg aria-hidden="true" focusable="false" width="15" height="15" viewBox="0 0 15 15">
                                     <path class="icon" d="M6.275 1H3.083c-.562 0-1 .447-1 1v11c0 .553.448 1 1 1h8.834c.562 0 1-.447 1-1V2c0-.553-.448-1-1-1h-1.862l.684 
                                     3.15c.032.096-.01.175-.126.235-.084.044-.184.066-.3.066-.052 0-.09 
@@ -155,6 +177,7 @@
                                 Buy foil on TCGPlayer
                                 <span class="priceText">{{ card.prices.usd_foil }}</span>
                             </a>
+                            {% endwith %}
                         </div>
                     </div>
                 </div>
