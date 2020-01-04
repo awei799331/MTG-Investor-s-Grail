@@ -54,6 +54,53 @@
                         <p class="cardtext cardtext-name">{{ card.name }} — {{ card.mana_cost }}</p>
                         <p class="cardtext cardtext-typeline"> {{ card.type_line }}</p>
                         <p class="cardtext cardtext-oracletext">{{ card.oracle_text|linebreaksbr }}</p>
+                        <div>
+                            <canvas id="priceChart" height="300" width="600"></canvas>
+                            <script>
+                                var ctx = document.getElementById('priceChart').getContext('2d');
+                                var chart = new Chart(ctx, {
+                                    type: 'line',
+                                    data: {
+                                        labels: ["Current", "In 1 month", "In 2 months"],
+                                        datasets: [
+                                        {
+                                            {% if card.prices.usd %} 
+                                            data: [
+                                            {{ card.prices.usd }}, 10, 12],
+                                            label: "Price (USD)",
+                                            borderColor: "#3e95cd",
+                                            fill: false
+                                            {% endif %}
+                                        }, {
+                                            {% if card.prices.usd_foil %}
+                                            data: [
+                                            {{ card.prices.usd_foil }}, 20, 30],
+                                            label: "Foil Price (USD)",
+                                            borderColor: "#8e5ea2",
+                                            fill: false
+                                            {% endif %}
+                                        }]
+                                    },
+                                    options: {
+                                        scales: {
+                                            yAxes: [{
+                                                ticks: {
+                                                    beginAtZero: true
+                                                }
+                                            }]
+                                        },
+                                        legend: {
+                                            fontColor: "white"
+                                        },
+                                        title: {
+                                            display: false
+                                        },
+                                        responsive: false,
+                                        maintainAspectRatio: false
+                                    }
+                                });
+                            </script>
+                        </div>
                     </div>
                     <div class="captionBox">
                         {% with "https://shop.tcgplayer.com/product/productsearch?id="|addstr:card.tcgplayer_id|addstr:"&partner=MTGInvestorsGrail&utm_campaign=affiliate&utm_medium=MTGInvestorsGrail&utm_source=MTGInvestorsGrail" as yeet %}
@@ -100,6 +147,54 @@
                             <p class="cardtext cardtext-name">{{ card.card_faces.0.name }} — {{ card.card_faces.0.mana_cost }}</p>
                             <p class="cardtext cardtext-typeline"> {{ card.card_faces.0.type_line }}</p>
                             <p class="cardtext cardtext-oracletext">{{ card.card_faces.0.oracle_text|linebreaksbr }}</p>
+                            <div>
+                                <canvas id="priceChart" height="300" width="600"></canvas>
+                                <script>
+                                    var ctx = document.getElementById('priceChart').getContext('2d');
+                                    var chart = new Chart(ctx, {
+                                        type: 'line',
+                                        data: {
+                                            labels: ["Current", "In 1 month", "In 2 months"],
+                                            datasets: [
+                                            {% if card.prices.usd %}
+                                            {
+                                                data: [
+                                                {{ card.prices.usd }}, 10, 12],
+                                                label: "Price (USD)",
+                                                borderColor: "#3e95cd",
+                                                fill: false
+                                            }, 
+                                            {% endif %}
+                                            {% if card.prices.usd_foil %}
+                                            {
+                                                data: [
+                                                {{ card.prices.usd_foil }}, 20, 30],
+                                                label: "Foil Price (USD)",
+                                                borderColor: "#8e5ea2",
+                                                fill: false
+                                            }
+                                            {% endif %}]
+                                        },
+                                        options: {
+                                            scales: {
+                                                yAxes: [{
+                                                    ticks: {
+                                                        beginAtZero: true
+                                                    }
+                                                }]
+                                            },
+                                            legend: {
+                                                fontColor: "white"
+                                            },
+                                            title: {
+                                                display: false
+                                            },
+                                            responsive: false,
+                                            maintainAspectRatio: false
+                                        }
+                                    });
+                                </script>
+                            </div>
                         </div>
                         <div class="captionBox">
                             {% with "https://shop.tcgplayer.com/product/productsearch?id="|addstr:card.tcgplayer_id|addstr:"&partner=MTGInvestorsGrail&utm_campaign=affiliate&utm_medium=MTGInvestorsGrail&utm_source=MTGInvestorsGrail" as yeet %}
