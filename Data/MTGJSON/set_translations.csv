@@ -1,0 +1,1556 @@
+index,id,language,setCode,translation
+0,1,Chinese Simplified,10E,核心系列第十版
+1,2,Chinese Traditional,10E,核心系列第十版
+2,3,French,10E,Dixième édition
+3,4,German,10E,Hauptset Zehnte Edition
+4,5,Italian,10E,Set Base Decima Edizione
+5,6,Japanese,10E,第10版基本セット
+6,7,Korean,10E,코어세트 10판
+7,8,Portuguese (Brazil),10E,Coleção Básica Décima Edição
+8,9,Russian,10E,Базовый выпуск Десятое Издание
+9,10,Spanish,10E,Colección Básica - Décima Edición
+10,11,Chinese Simplified,3ED,Revised Edition
+11,12,Chinese Traditional,3ED,Revised Edition
+12,13,French,3ED,Revised Edition
+13,14,German,3ED,Revised Edition
+14,15,Italian,3ED,Revised Edition
+15,16,Japanese,3ED,Revised Edition
+16,17,Korean,3ED,Revised Edition
+17,18,Portuguese (Brazil),3ED,Revised Edition
+18,19,Russian,3ED,Revised Edition
+19,20,Spanish,3ED,Revised Edition
+20,21,Chinese Simplified,4ED,Fourth Edition
+21,22,Chinese Traditional,4ED,Fourth Edition
+22,23,French,4ED,Fourth Edition
+23,24,German,4ED,Fourth Edition
+24,25,Italian,4ED,Fourth Edition
+25,26,Japanese,4ED,Fourth Edition
+26,27,Korean,4ED,Fourth Edition
+27,28,Portuguese (Brazil),4ED,Fourth Edition
+28,29,Russian,4ED,Fourth Edition
+29,30,Spanish,4ED,Fourth Edition
+30,31,Chinese Simplified,5DN,五色曙光
+31,32,Chinese Traditional,5DN,五色曙光
+32,33,French,5DN,La cinquième aube
+33,34,German,5DN,Fünfte Morgenröte
+34,35,Italian,5DN,Quinta Alba
+35,36,Japanese,5DN,フィフス・ドーン
+36,37,Korean,5DN,다섯번째 새벽
+37,38,Portuguese (Brazil),5DN,Aquinta Aurora
+38,39,Russian,5DN,Fifth Dawn
+39,40,Spanish,5DN,Quinto amanecer
+40,41,Chinese Simplified,5ED,Core Set Fifth Edition
+41,42,Chinese Traditional,5ED,Core Set Fifth Edition
+42,43,French,5ED,Core Set Fifth Edition
+43,44,German,5ED,Core Set Fifth Edition
+44,45,Italian,5ED,Core Set Fifth Edition
+45,46,Japanese,5ED,Core Set Fifth Edition
+46,47,Korean,5ED,Core Set Fifth Edition
+47,48,Portuguese (Brazil),5ED,Core Set Fifth Edition
+48,49,Russian,5ED,Core Set Fifth Edition
+49,50,Spanish,5ED,Core Set Fifth Edition
+50,51,Chinese Simplified,6ED,Classic Sixth Edition
+51,52,Chinese Traditional,6ED,Classic Sixth Edition
+52,53,French,6ED,Classic Sixth Edition
+53,54,German,6ED,Classic Sixth Edition
+54,55,Italian,6ED,Classic Sixth Edition
+55,56,Japanese,6ED,Classic Sixth Edition
+56,57,Korean,6ED,Classic Sixth Edition
+57,58,Portuguese (Brazil),6ED,Classic Sixth Edition
+58,59,Russian,6ED,Classic Sixth Edition
+59,60,Spanish,6ED,Classic Sixth Edition
+60,61,Chinese Simplified,7ED,Core Set Seventh Edition
+61,62,Chinese Traditional,7ED,Core Set Seventh Edition
+62,63,French,7ED,Core Set Seventh Edition
+63,64,German,7ED,Core Set Seventh Edition
+64,65,Italian,7ED,Core Set Seventh Edition
+65,66,Japanese,7ED,Core Set Seventh Edition
+66,67,Korean,7ED,Core Set Seventh Edition
+67,68,Portuguese (Brazil),7ED,Core Set Seventh Edition
+68,69,Russian,7ED,Core Set Seventh Edition
+69,70,Spanish,7ED,Core Set Seventh Edition
+70,71,Chinese Simplified,8ED,核心系列第八版
+71,72,Chinese Traditional,8ED,核心系列第八版
+72,73,French,8ED,Huitième édition
+73,74,German,8ED,Hauptset Achte Edition
+74,75,Italian,8ED,Set Base Ottava Edizione
+75,76,Japanese,8ED,第８版 基本セット
+76,77,Korean,8ED,코어세트 8판
+77,78,Portuguese (Brazil),8ED,Oitava Edição
+78,79,Russian,8ED,Базовый выпуск Eighth Edition
+79,80,Spanish,8ED,Colección Básica - Octava edición
+80,81,Chinese Simplified,9ED,核心系列 第九版
+81,82,Chinese Traditional,9ED,核心系列 第九版
+82,83,French,9ED,Neuvième édition
+83,84,German,9ED,Hauptset Neunte Edition
+84,85,Italian,9ED,Set Base Nona Edizione
+85,86,Japanese,9ED,第９版 基本セット
+86,87,Korean,9ED,코어세트 9판
+87,88,Portuguese (Brazil),9ED,Nona Edição
+88,89,Russian,9ED,Базовый выпуск Девятая редакция
+89,90,Spanish,9ED,Colección Básica - Novena edición
+90,91,Chinese Simplified,A25,Masters 25
+91,92,Chinese Traditional,A25,Masters 25
+92,93,French,A25,Masters 25
+93,94,German,A25,Masters 25
+94,95,Italian,A25,Masters 25
+95,96,Japanese,A25,Masters 25
+96,97,Korean,A25,Masters 25
+97,98,Portuguese (Brazil),A25,Masters 25
+98,99,Russian,A25,Masters 25
+99,100,Spanish,A25,Masters 25
+100,101,Chinese Simplified,AER,乙太之乱
+101,102,Chinese Traditional,AER,乙太之亂
+102,103,French,AER,La révolte éthérique
+103,104,German,AER,Äther-Rebellion
+104,105,Italian,AER,Rivolta dell’Etere
+105,106,Japanese,AER,『霊気紛争』
+106,107,Korean,AER,에테르 봉기
+107,108,Portuguese (Brazil),AER,Revolta do Éter
+108,109,Russian,AER,«Эфирный Бунт»
+109,110,Spanish,AER,La revuelta del éter
+110,111,Chinese Simplified,AKH,阿芒凯
+111,112,Chinese Traditional,AKH,阿芒凱
+112,113,French,AKH,Amonkhet
+113,114,German,AKH,Amonkhet
+114,115,Italian,AKH,Amonkhet
+115,116,Japanese,AKH,『アモンケット』
+116,117,Korean,AKH,아몬케트
+117,118,Portuguese (Brazil),AKH,Amonkhet
+118,119,Russian,AKH,Амонхет
+119,120,Spanish,AKH,Amonkhet
+120,121,Chinese Simplified,ALA,阿拉若断片
+121,122,Chinese Traditional,ALA,阿拉若斷片
+122,123,French,ALA,Les éclats d'Alara
+123,124,German,ALA,Fragmente von Alara
+124,125,Italian,ALA,Frammenti di Alara
+125,126,Japanese,ALA,アラーラの断片
+126,127,Korean,ALA,알라라의 파편
+127,128,Portuguese (Brazil),ALA,Fragmentos de Alara
+128,129,Russian,ALA,Осколки Алары
+129,130,Spanish,ALA,Fragmentos de Alara
+130,131,Chinese Simplified,ALL,Alliances
+131,132,Chinese Traditional,ALL,Alliances
+132,133,French,ALL,Alliances
+133,134,German,ALL,Alliances
+134,135,Italian,ALL,Alliances
+135,136,Japanese,ALL,Alliances
+136,137,Korean,ALL,Alliances
+137,138,Portuguese (Brazil),ALL,Alliances
+138,139,Russian,ALL,Alliances
+139,140,Spanish,ALL,Alliances
+140,141,Chinese Simplified,APC,启示录
+141,142,Chinese Traditional,APC,啟示錄
+142,143,French,APC,Apocalypse
+143,144,German,APC,Apokalypse
+144,145,Italian,APC,Apocalisse
+145,146,Japanese,APC,アポカリプス
+146,147,Korean,APC,파멸
+147,148,Portuguese (Brazil),APC,Apocalipse
+148,149,Russian,APC,Apocalypse
+149,150,Spanish,APC,Apocalipsis
+150,151,Chinese Simplified,ARB,阿拉若新生
+151,152,Chinese Traditional,ARB,阿拉若新生
+152,153,French,ARB,La renaissance d'Alara
+153,154,German,ARB,Alara: Die Erneuerung
+154,155,Italian,ARB,Rinascita di Alara
+155,156,Japanese,ARB,アラーラ再誕
+156,157,Korean,ARB,신생 알라라
+157,158,Portuguese (Brazil),ARB,Alara Reunida
+158,159,Russian,ARB,Перерожденная Алара
+159,160,Spanish,ARB,Alara renacida
+160,161,Chinese Simplified,ARC,Archenemy
+161,162,Chinese Traditional,ARC,Archenemy
+162,163,French,ARC,Archenemy
+163,164,German,ARC,Archenemy
+164,165,Italian,ARC,Archenemy
+165,166,Japanese,ARC,Archenemy
+166,167,Korean,ARC,Archenemy
+167,168,Portuguese (Brazil),ARC,Archenemy
+168,169,Russian,ARC,Archenemy
+169,170,Spanish,ARC,Archenemy
+170,171,Chinese Simplified,ARN,Arabian Nights
+171,172,Chinese Traditional,ARN,Arabian Nights
+172,173,French,ARN,Arabian Nights
+173,174,German,ARN,Arabian Nights
+174,175,Italian,ARN,Arabian Nights
+175,176,Japanese,ARN,Arabian Nights
+176,177,Korean,ARN,Arabian Nights
+177,178,Portuguese (Brazil),ARN,Arabian Nights
+178,179,Russian,ARN,Arabian Nights
+179,180,Spanish,ARN,Arabian Nights
+180,181,Chinese Simplified,ATQ,Antiquities
+181,182,Chinese Traditional,ATQ,Antiquities
+182,183,French,ATQ,Antiquities
+183,184,German,ATQ,Antiquities
+184,185,Italian,ATQ,Antiquities
+185,186,Japanese,ATQ,Antiquities
+186,187,Korean,ATQ,Antiquities
+187,188,Portuguese (Brazil),ATQ,Antiquities
+188,189,Russian,ATQ,Antiquities
+189,190,Spanish,ATQ,Antiquities
+190,191,Chinese Simplified,AVR,艾维欣重临
+191,192,Chinese Traditional,AVR,艾維欣重臨
+192,193,French,AVR,Avacyn ressuscitée
+193,194,German,AVR,Avacyns Rückkehr
+194,195,Italian,AVR,Ritorno di Avacyn
+195,196,Japanese,AVR,アヴァシンの帰還
+196,197,Korean,AVR,아바신의 귀환
+197,198,Portuguese (Brazil),AVR,Retorno de Avacyn
+198,199,Russian,AVR,Возвращение Авацины
+199,200,Spanish,AVR,Avacyn restituida
+200,201,Chinese Simplified,BFZ,再战赞迪卡
+201,202,Chinese Traditional,BFZ,再戰贊迪卡​
+202,203,French,BFZ,La bataille de Zendikar
+203,204,German,BFZ,Kampf um Zendikar​
+204,205,Italian,BFZ,Battaglia per Zendikar​
+205,206,Japanese,BFZ,『戦乱のゼンディカー』
+206,207,Korean,BFZ,젠디카르 전투
+207,208,Portuguese (Brazil),BFZ,Batalha por Zendikar​
+208,209,Russian,BFZ,Битва за Зендикар​
+209,210,Spanish,BFZ,La batalla por Zendikar​
+210,211,Chinese Simplified,BNG,天神创生
+211,212,Chinese Traditional,BNG,天神創生
+212,213,French,BNG,Créations divines
+213,214,German,BNG,Kinder der Götter
+214,215,Italian,BNG,Figli degli dei
+215,216,Japanese,BNG,『神々の軍勢』
+216,217,Korean,BNG,신들의 피조물
+217,218,Portuguese (Brazil),BNG,Nascidos dos Deuses
+218,219,Russian,BNG,Порождения Богов
+219,220,Spanish,BNG,Nacidos de los Dioses
+220,221,Chinese Simplified,BOK,神河叛将谱
+221,222,Chinese Traditional,BOK,神河叛將譜
+222,223,French,BOK,神河謀叛
+223,224,German,BOK,Verräter von Kamigawa
+224,225,Italian,BOK,Traditori di Kamigawa
+225,226,Japanese,BOK,神河謀叛
+226,227,Korean,BOK,카미가와의 배신자들
+227,228,Portuguese (Brazil),BOK,Traidores de Kamigawa
+228,229,Russian,BOK,Betrayers of Kamigawa
+229,230,Spanish,BOK,Traidores de Kamigawa
+230,231,Chinese Simplified,BRB,Battle Royale
+231,232,Chinese Traditional,BRB,Battle Royale
+232,233,French,BRB,Battle Royale
+233,234,German,BRB,Battle Royale
+234,235,Italian,BRB,Battle Royale
+235,236,Japanese,BRB,Battle Royale
+236,237,Korean,BRB,Battle Royale
+237,238,Portuguese (Brazil),BRB,Battle Royale
+238,239,Russian,BRB,Battle Royale
+239,240,Spanish,BRB,Battle Royale
+240,241,Chinese Simplified,BTD,Beatdown
+241,242,Chinese Traditional,BTD,Beatdown
+242,243,French,BTD,Beatdown
+243,244,German,BTD,Beatdown
+244,245,Italian,BTD,Beatdown
+245,246,Japanese,BTD,Beatdown
+246,247,Korean,BTD,Beatdown
+247,248,Portuguese (Brazil),BTD,Beatdown
+248,249,Russian,BTD,Beatdown
+249,250,Spanish,BTD,Beatdown
+250,251,Chinese Simplified,C13,Commander (2013 Edition)
+251,252,Chinese Traditional,C13,Commander (2013 Edition)
+252,253,French,C13,Commander (2013 Edition)
+253,254,German,C13,Commander (2013 Edition)
+254,255,Italian,C13,Commander (2013 Edition)
+255,256,Japanese,C13,Commander (2013 Edition)
+256,257,Korean,C13,Commander (2013 Edition)
+257,258,Portuguese (Brazil),C13,Commander (2013 Edition)
+258,259,Russian,C13,Commander (2013 Edition)
+259,260,Spanish,C13,Commander (2013 Edition)
+260,261,Chinese Simplified,C14,Commander (2014 Edition)
+261,262,Chinese Traditional,C14,Commander (2014 Edition)
+262,263,French,C14,Commander (2014 Edition)
+263,264,German,C14,Commander (2014 Edition)
+264,265,Italian,C14,Commander (2014 Edition)
+265,266,Japanese,C14,Commander (2014 Edition)
+266,267,Korean,C14,Commander (2014 Edition)
+267,268,Portuguese (Brazil),C14,Commander (2014 Edition)
+268,269,Russian,C14,Commander (2014 Edition)
+269,270,Spanish,C14,Commander (2014 Edition)
+270,271,Chinese Simplified,C15,Commander (2015 Edition)
+271,272,Chinese Traditional,C15,Commander (2015 Edition)
+272,273,French,C15,Commander (2015 Edition)
+273,274,German,C15,Commander (2015 Edition)
+274,275,Italian,C15,Commander (2015 Edition)
+275,276,Japanese,C15,Commander (2015 Edition)
+276,277,Korean,C15,Commander (2015 Edition)
+277,278,Portuguese (Brazil),C15,Commander (2015 Edition)
+278,279,Russian,C15,Commander (2015 Edition)
+279,280,Spanish,C15,Commander (2015 Edition)
+280,281,Chinese Simplified,C16,Commander (2016 Edition)
+281,282,Chinese Traditional,C16,Commander (2016 Edition)
+282,283,French,C16,Commander (2016 Edition)
+283,284,German,C16,Commander (2016 Edition)
+284,285,Italian,C16,Commander (2016 Edition)
+285,286,Japanese,C16,Commander (2016 Edition)
+286,287,Korean,C16,Commander (2016 Edition)
+287,288,Portuguese (Brazil),C16,Commander (2016 Edition)
+288,289,Russian,C16,Commander (2016 Edition)
+289,290,Spanish,C16,Commander (2016 Edition)
+290,291,Chinese Simplified,C17,Commander (2017 EDITION)
+291,292,Chinese Traditional,C17,Commander (2017 EDITION)
+292,293,French,C17,Commander (2017 EDITION)
+293,294,German,C17,Commander (2017 EDITION)
+294,295,Italian,C17,Commander (2017 EDITION)
+295,296,Japanese,C17,Commander (2017 EDITION)
+296,297,Korean,C17,Commander (2017 EDITION)
+297,298,Portuguese (Brazil),C17,Commander (2017 EDITION)
+298,299,Russian,C17,Commander (2017 EDITION)
+299,300,Spanish,C17,Commander (2017 EDITION)
+300,301,Chinese Simplified,CHK,神河群英录
+301,302,Chinese Traditional,CHK,神河群英錄
+302,303,French,CHK,神河物語
+303,304,German,CHK,Meister von Kamigawa
+304,305,Italian,CHK,Campioni di Kamigawa
+305,306,Japanese,CHK,神河物語
+306,307,Korean,CHK,카미가와의 투사
+307,308,Portuguese (Brazil),CHK,Campeões de Kamigawa
+308,309,Russian,CHK,Champions of Kamigawa
+309,310,Spanish,CHK,Campeones de Kamigawa
+310,311,Chinese Simplified,CHR,Chronicles / Renaissance
+311,312,Chinese Traditional,CHR,Chronicles / Renaissance
+312,313,French,CHR,Chronicles / Renaissance
+313,314,German,CHR,Chronicles / Renaissance
+314,315,Italian,CHR,Chronicles / Renaissance
+315,316,Japanese,CHR,Chronicles / Renaissance
+316,317,Korean,CHR,Chronicles / Renaissance
+317,318,Portuguese (Brazil),CHR,Chronicles / Renaissance
+318,319,Russian,CHR,Chronicles / Renaissance
+319,320,Spanish,CHR,Chronicles / Renaissance
+320,321,Chinese Simplified,CM1,Commander's Arsenal
+321,322,Chinese Traditional,CM1,Commander's Arsenal
+322,323,French,CM1,Commander's Arsenal
+323,324,German,CM1,Commander's Arsenal
+324,325,Italian,CM1,Commander's Arsenal
+325,326,Japanese,CM1,Commander's Arsenal
+326,327,Korean,CM1,Commander's Arsenal
+327,328,Portuguese (Brazil),CM1,Commander's Arsenal
+328,329,Russian,CM1,Commander's Arsenal
+329,330,Spanish,CM1,Commander's Arsenal
+330,331,Chinese Simplified,CM2,Commander Anthology Volume II
+331,332,Chinese Traditional,CM2,Commander Anthology Volume II
+332,333,French,CM2,Commander Anthology Volume II
+333,334,German,CM2,Commander Anthology Volume II
+334,335,Italian,CM2,Commander Anthology Volume II
+335,336,Japanese,CM2,Commander Anthology Volume II
+336,337,Korean,CM2,Commander Anthology Volume II
+337,338,Portuguese (Brazil),CM2,Commander Anthology Volume II
+338,339,Russian,CM2,Commander Anthology Volume II
+339,340,Spanish,CM2,Commander Anthology Volume II
+340,341,Chinese Simplified,CMD,Magic: the Gathering Commander
+341,342,Chinese Traditional,CMD,Magic: the Gathering Commander
+342,343,French,CMD,Magic: the Gathering Commander
+343,344,German,CMD,Magic: the Gathering Commander
+344,345,Italian,CMD,Magic: the Gathering Commander
+345,346,Japanese,CMD,Magic: the Gathering Commander
+346,347,Korean,CMD,Magic: the Gathering Commander
+347,348,Portuguese (Brazil),CMD,Magic: the Gathering Commander
+348,349,Russian,CMD,Magic: the Gathering Commander
+349,350,Spanish,CMD,Magic: the Gathering Commander
+350,351,Chinese Simplified,CN2,诡局：王权争霸
+351,352,Chinese Traditional,CN2,詭局：王權爭霸
+352,353,French,CN2,Conspiracy: Take the Crown
+353,354,German,CN2,Conspiracy: Take the Crown
+354,355,Italian,CN2,Conspiracy: Take the Crown
+355,356,Japanese,CN2,『コンスピラシー：王位争奪』
+356,357,Korean,CN2,음모: 왕관을 차지하라
+357,358,Portuguese (Brazil),CN2,Conspiracy: Take the Crown
+358,359,Russian,CN2,Conspiracy: Take the Crown
+359,360,Spanish,CN2,Conspiracy: Take the Crown
+360,361,Chinese Simplified,CNS,Conspiracy
+361,362,Chinese Traditional,CNS,Conspiracy
+362,363,French,CNS,Conspiracy
+363,364,German,CNS,Conspiracy
+364,365,Italian,CNS,Conspiracy
+365,366,Japanese,CNS,Conspiracy
+366,367,Korean,CNS,Conspiracy
+367,368,Portuguese (Brazil),CNS,Conspiracy
+368,369,Russian,CNS,Conspiracy
+369,370,Spanish,CNS,Conspiracy
+370,371,Chinese Simplified,CON,聚流
+371,372,Chinese Traditional,CON,聚流
+372,373,French,CON,Conflux
+373,374,German,CON,Conflux
+374,375,Italian,CON,Conflux
+375,376,Japanese,CON,コンフラックス
+376,377,Korean,CON,합일
+377,378,Portuguese (Brazil),CON,Conflux
+378,379,Russian,CON,Conflux
+379,380,Spanish,CON,Conflux
+380,381,Chinese Simplified,CSP,骤霜
+381,382,Chinese Traditional,CSP,驟霜
+382,383,French,CSP,Souffle glaciaire
+383,384,German,CSP,Kälteeinbruch
+384,385,Italian,CSP,Ondata Glaciale
+385,386,Japanese,CSP,コールドスナップ
+386,387,Korean,CSP,한파
+387,388,Portuguese (Brazil),CSP,Frente Fria
+388,389,Russian,CSP,Coldsnap
+389,390,Spanish,CSP,Ola de frío
+390,391,Chinese Simplified,DD1,Elves vs. Goblins
+391,392,Chinese Traditional,DD1,Elves vs. Goblins
+392,393,French,DD1,Elves vs. Goblins
+393,394,German,DD1,Elves vs. Goblins
+394,395,Italian,DD1,Elves vs. Goblins
+395,396,Japanese,DD1,Elves vs. Goblins
+396,397,Korean,DD1,Elves vs. Goblins
+397,398,Portuguese (Brazil),DD1,Elves vs. Goblins
+398,399,Russian,DD1,Elves vs. Goblins
+399,400,Spanish,DD1,Elves vs. Goblins
+400,401,Chinese Simplified,DD2,Jace vs. Chandra
+401,402,Chinese Traditional,DD2,Jace vs. Chandra
+402,403,French,DD2,Jace vs. Chandra
+403,404,German,DD2,Jace vs. Chandra
+404,405,Italian,DD2,Jace vs. Chandra
+405,406,Japanese,DD2,Jace vs. Chandra
+406,407,Korean,DD2,Jace vs. Chandra
+407,408,Portuguese (Brazil),DD2,Jace vs. Chandra
+408,409,Russian,DD2,Jace vs. Chandra
+409,410,Spanish,DD2,Jace vs. Chandra
+410,411,Chinese Simplified,DDC,Divine vs. Demonic
+411,412,Chinese Traditional,DDC,Divine vs. Demonic
+412,413,French,DDC,Divine vs. Demonic
+413,414,German,DDC,Divine vs. Demonic
+414,415,Italian,DDC,Divine vs. Demonic
+415,416,Japanese,DDC,Divine vs. Demonic
+416,417,Korean,DDC,Divine vs. Demonic
+417,418,Portuguese (Brazil),DDC,Divine vs. Demonic
+418,419,Russian,DDC,Divine vs. Demonic
+419,420,Spanish,DDC,Divine vs. Demonic
+420,421,Chinese Simplified,DDD,Garruk vs. Liliana
+421,422,Chinese Traditional,DDD,Garruk vs. Liliana
+422,423,French,DDD,Garruk vs. Liliana
+423,424,German,DDD,Garruk vs. Liliana
+424,425,Italian,DDD,Garruk vs. Liliana
+425,426,Japanese,DDD,Garruk vs. Liliana
+426,427,Korean,DDD,Garruk vs. Liliana
+427,428,Portuguese (Brazil),DDD,Garruk vs. Liliana
+428,429,Russian,DDD,Garruk vs. Liliana
+429,430,Spanish,DDD,Garruk vs. Liliana
+430,431,Chinese Simplified,DDE,Phyrexia vs. The Coalition
+431,432,Chinese Traditional,DDE,Phyrexia vs. The Coalition
+432,433,French,DDE,Phyrexia vs. The Coalition
+433,434,German,DDE,Phyrexia vs. The Coalition
+434,435,Italian,DDE,Phyrexia vs. The Coalition
+435,436,Japanese,DDE,Phyrexia vs. The Coalition
+436,437,Korean,DDE,Phyrexia vs. The Coalition
+437,438,Portuguese (Brazil),DDE,Phyrexia vs. The Coalition
+438,439,Russian,DDE,Phyrexia vs. The Coalition
+439,440,Spanish,DDE,Phyrexia vs. The Coalition
+440,441,Chinese Simplified,DDF,Elspeth vs. Tezzeret
+441,442,Chinese Traditional,DDF,Elspeth vs. Tezzeret
+442,443,French,DDF,Elspeth vs. Tezzeret
+443,444,German,DDF,Elspeth vs. Tezzeret
+444,445,Italian,DDF,Elspeth vs. Tezzeret
+445,446,Japanese,DDF,Elspeth vs. Tezzeret
+446,447,Korean,DDF,Elspeth vs. Tezzeret
+447,448,Portuguese (Brazil),DDF,Elspeth vs. Tezzeret
+448,449,Russian,DDF,Elspeth vs. Tezzeret
+449,450,Spanish,DDF,Elspeth vs. Tezzeret
+450,451,Chinese Simplified,DDG,Knights vs. Dragons
+451,452,Chinese Traditional,DDG,Knights vs. Dragons
+452,453,French,DDG,Knights vs. Dragons
+453,454,German,DDG,Knights vs. Dragons
+454,455,Italian,DDG,Knights vs. Dragons
+455,456,Japanese,DDG,Knights vs. Dragons
+456,457,Korean,DDG,Knights vs. Dragons
+457,458,Portuguese (Brazil),DDG,Knights vs. Dragons
+458,459,Russian,DDG,Knights vs. Dragons
+459,460,Spanish,DDG,Knights vs. Dragons
+460,461,Chinese Simplified,DDH,Ajani vs. Nicol Bolas
+461,462,Chinese Traditional,DDH,Ajani vs. Nicol Bolas
+462,463,French,DDH,Ajani vs. Nicol Bolas
+463,464,German,DDH,Ajani vs. Nicol Bolas
+464,465,Italian,DDH,Ajani vs. Nicol Bolas
+465,466,Japanese,DDH,Ajani vs. Nicol Bolas
+466,467,Korean,DDH,Ajani vs. Nicol Bolas
+467,468,Portuguese (Brazil),DDH,Ajani vs. Nicol Bolas
+468,469,Russian,DDH,Ajani vs. Nicol Bolas
+469,470,Spanish,DDH,Ajani vs. Nicol Bolas
+470,471,Chinese Simplified,DDI,Venser vs. Koth
+471,472,Chinese Traditional,DDI,Venser vs. Koth
+472,473,French,DDI,Venser vs. Koth
+473,474,German,DDI,Venser vs. Koth
+474,475,Italian,DDI,Venser vs. Koth
+475,476,Japanese,DDI,Venser vs. Koth
+476,477,Korean,DDI,Venser vs. Koth
+477,478,Portuguese (Brazil),DDI,Venser vs. Koth
+478,479,Russian,DDI,Venser vs. Koth
+479,480,Spanish,DDI,Venser vs. Koth
+480,481,Chinese Simplified,DDJ,Izzet vs. Golgari
+481,482,Chinese Traditional,DDJ,Izzet vs. Golgari
+482,483,French,DDJ,Izzet vs. Golgari
+483,484,German,DDJ,Izzet vs. Golgari
+484,485,Italian,DDJ,Izzet vs. Golgari
+485,486,Japanese,DDJ,Izzet vs. Golgari
+486,487,Korean,DDJ,Izzet vs. Golgari
+487,488,Portuguese (Brazil),DDJ,Izzet vs. Golgari
+488,489,Russian,DDJ,Izzet vs. Golgari
+489,490,Spanish,DDJ,Izzet vs. Golgari
+490,491,Chinese Simplified,DDK,Sorin vs. Tibalt
+491,492,Chinese Traditional,DDK,Sorin vs. Tibalt
+492,493,French,DDK,Sorin vs. Tibalt
+493,494,German,DDK,Sorin vs. Tibalt
+494,495,Italian,DDK,Sorin vs. Tibalt
+495,496,Japanese,DDK,Sorin vs. Tibalt
+496,497,Korean,DDK,Sorin vs. Tibalt
+497,498,Portuguese (Brazil),DDK,Sorin vs. Tibalt
+498,499,Russian,DDK,Sorin vs. Tibalt
+499,500,Spanish,DDK,Sorin vs. Tibalt
+500,501,Chinese Simplified,DDL,Heroes vs. Monsters
+501,502,Chinese Traditional,DDL,Heroes vs. Monsters
+502,503,French,DDL,Heroes vs. Monsters
+503,504,German,DDL,Heroes vs. Monsters
+504,505,Italian,DDL,Heroes vs. Monsters
+505,506,Japanese,DDL,Heroes vs. Monsters
+506,507,Korean,DDL,Heroes vs. Monsters
+507,508,Portuguese (Brazil),DDL,Heroes vs. Monsters
+508,509,Russian,DDL,Heroes vs. Monsters
+509,510,Spanish,DDL,Heroes vs. Monsters
+510,511,Chinese Simplified,DDM,Jace vs. Vraska
+511,512,Chinese Traditional,DDM,Jace vs. Vraska
+512,513,French,DDM,Jace vs. Vraska
+513,514,German,DDM,Jace vs. Vraska
+514,515,Italian,DDM,Jace vs. Vraska
+515,516,Japanese,DDM,Jace vs. Vraska
+516,517,Korean,DDM,Jace vs. Vraska
+517,518,Portuguese (Brazil),DDM,Jace vs. Vraska
+518,519,Russian,DDM,Jace vs. Vraska
+519,520,Spanish,DDM,Jace vs. Vraska
+520,521,Chinese Simplified,DDN,Speed vs. Cunning
+521,522,Chinese Traditional,DDN,Speed vs. Cunning
+522,523,French,DDN,Speed vs. Cunning
+523,524,German,DDN,Speed vs. Cunning
+524,525,Italian,DDN,Speed vs. Cunning
+525,526,Japanese,DDN,Speed vs. Cunning
+526,527,Korean,DDN,Speed vs. Cunning
+527,528,Portuguese (Brazil),DDN,Speed vs. Cunning
+528,529,Russian,DDN,Speed vs. Cunning
+529,530,Spanish,DDN,Speed vs. Cunning
+530,531,Chinese Simplified,DDO,Elspeth vs. Kiora
+531,532,Chinese Traditional,DDO,Elspeth vs. Kiora
+532,533,French,DDO,Elspeth vs. Kiora
+533,534,German,DDO,Elspeth vs. Kiora
+534,535,Italian,DDO,Elspeth vs. Kiora
+535,536,Japanese,DDO,『デュエルデッキ: エルズペスVSキオーラ』
+536,537,Korean,DDO,Elspeth vs. Kiora
+537,538,Portuguese (Brazil),DDO,Elspeth vs. Kiora
+538,539,Russian,DDO,Elspeth vs. Kiora
+539,540,Spanish,DDO,Elspeth vs. Kiora
+540,541,Chinese Simplified,DDP,Zendikar vs. Eldrazi
+541,542,Chinese Traditional,DDP,Zendikar vs. Eldrazi
+542,543,French,DDP,Zendikar vs. Eldrazi
+543,544,German,DDP,Zendikar vs. Eldrazi
+544,545,Italian,DDP,Zendikar vs. Eldrazi
+545,546,Korean,DDP,Zendikar vs. Eldrazi
+546,547,Portuguese (Brazil),DDP,Zendikar vs. Eldrazi
+547,548,Russian,DDP,Zendikar vs. Eldrazi
+548,549,Spanish,DDP,Zendikar vs. Eldrazi
+549,550,Chinese Simplified,DDQ,Blessed vs. Cursed
+550,551,Chinese Traditional,DDQ,Blessed vs. Cursed
+551,552,French,DDQ,Blessed vs. Cursed
+552,553,German,DDQ,Blessed vs. Cursed
+553,554,Italian,DDQ,Blessed vs. Cursed
+554,555,Korean,DDQ,Blessed vs. Cursed
+555,556,Portuguese (Brazil),DDQ,Blessed vs. Cursed
+556,557,Russian,DDQ,Blessed vs. Cursed
+557,558,Spanish,DDQ,Blessed vs. Cursed
+558,559,Chinese Simplified,DDR,Nissa vs. Ob Nixilis
+559,560,Chinese Traditional,DDR,Nissa vs. Ob Nixilis
+560,561,French,DDR,Nissa vs. Ob Nixilis
+561,562,German,DDR,Nissa vs. Ob Nixilis
+562,563,Italian,DDR,Nissa vs. Ob Nixilis
+563,564,Japanese,DDR,『デュエルデッキ：ニッサ VS オブ・ニクシリス』
+564,565,Korean,DDR,Nissa vs. Ob Nixilis
+565,566,Portuguese (Brazil),DDR,Nissa vs. Ob Nixilis
+566,567,Russian,DDR,Nissa vs. Ob Nixilis
+567,568,Spanish,DDR,Nissa vs. Ob Nixilis
+568,569,Chinese Simplified,DDT,Duel Decks: Merfolk vs. Goblins
+569,570,Chinese Traditional,DDT,Duel Decks: Merfolk vs. Goblins
+570,571,French,DDT,Duel Decks: Merfolk vs. Goblins
+571,572,German,DDT,Duel Decks: Merfolk vs. Goblins
+572,573,Italian,DDT,Duel Decks: Merfolk vs. Goblins
+573,574,Japanese,DDT,『デュエルデッキ：マーフォーク vs ゴブリン』
+574,575,Korean,DDT,Duel Decks: Merfolk vs. Goblins
+575,576,Portuguese (Brazil),DDT,Duel Decks: Merfolk vs. Goblins
+576,577,Russian,DDT,Duel Decks: Merfolk vs. Goblins
+577,578,Spanish,DDT,Duel Decks: Merfolk vs. Goblins
+578,579,Chinese Simplified,DDU,Duel Deck: Elves vs. Inventors
+579,580,Chinese Traditional,DDU,Duel Deck: Elves vs. Inventors
+580,581,French,DDU,Duel Deck: Elves vs. Inventors
+581,582,German,DDU,Duel Deck: Elves vs. Inventors
+582,583,Italian,DDU,Duel Deck: Elves vs. Inventors
+583,584,Korean,DDU,Duel Deck: Elves vs. Inventors
+584,585,Portuguese (Brazil),DDU,Duel Deck: Elves vs. Inventors
+585,586,Russian,DDU,Duel Deck: Elves vs. Inventors
+586,587,Spanish,DDU,Duel Deck: Elves vs. Inventors
+587,588,Chinese Simplified,DGM,巨龙迷城
+588,589,Chinese Traditional,DGM,巨龍迷城
+589,590,French,DGM,Le labyrinthe du dragon
+590,591,German,DGM,Labyrinth des Drachen
+591,592,Italian,DGM,Labirinto del Drago
+592,593,Japanese,DGM,『ドラゴンの迷路』
+593,594,Korean,DGM,용의 미로
+594,595,Portuguese (Brazil),DGM,Labirinto do Dragão
+595,596,Russian,DGM,Лабиринт Дракона
+596,597,Spanish,DGM,Laberinto del Dragón
+597,598,Chinese Simplified,DIS,纷争
+598,599,Chinese Traditional,DIS,紛爭
+599,600,French,DIS,Discorde
+600,601,German,DIS,Zwietracht
+601,602,Italian,DIS,Discordia
+602,603,Japanese,DIS,ディセンション
+603,604,Korean,DIS,갈등
+604,605,Portuguese (Brazil),DIS,Insurreição
+605,606,Russian,DIS,Раскол
+606,607,Spanish,DIS,Discordia
+607,608,Chinese Simplified,DKA,黑影笼罩
+608,609,Chinese Traditional,DKA,黑影籠罩
+609,610,French,DKA,Obscure ascension
+610,611,German,DKA,Dunkles Erwachen
+611,612,Italian,DKA,Ascesa Oscura
+612,613,Japanese,DKA,闇の隆盛
+613,614,Korean,DKA,어둠의 강림
+614,615,Portuguese (Brazil),DKA,Ascensão das Trevas
+615,616,Russian,DKA,Возвышение Мрака
+616,617,Spanish,DKA,Ascenso siniestro
+617,618,Chinese Simplified,DKM,Deckmasters 2001
+618,619,Chinese Traditional,DKM,Deckmasters 2001
+619,620,French,DKM,Deckmasters 2001
+620,621,German,DKM,Deckmasters 2001
+621,622,Italian,DKM,Deckmasters 2001
+622,623,Japanese,DKM,Deckmasters 2001
+623,624,Korean,DKM,Deckmasters 2001
+624,625,Portuguese (Brazil),DKM,Deckmasters 2001
+625,626,Russian,DKM,Deckmasters 2001
+626,627,Spanish,DKM,Deckmasters 2001
+627,628,Chinese Simplified,DRK,The Dark
+628,629,Chinese Traditional,DRK,The Dark
+629,630,French,DRK,The Dark
+630,631,German,DRK,The Dark
+631,632,Italian,DRK,The Dark
+632,633,Japanese,DRK,The Dark
+633,634,Korean,DRK,The Dark
+634,635,Portuguese (Brazil),DRK,The Dark
+635,636,Russian,DRK,The Dark
+636,637,Spanish,DRK,The Dark
+637,638,Chinese Simplified,DST,玄铁
+638,639,Chinese Traditional,DST,玄鐵
+639,640,French,DST,Sombracier
+640,641,German,DST,Nachtstahl
+641,642,Italian,DST,Darksteel
+642,643,Japanese,DST,ダークスティール
+643,644,Korean,DST,다크스틸
+644,645,Portuguese (Brazil),DST,Darksteel
+645,646,Russian,DST,Darksteel
+646,647,Spanish,DST,Darksteel
+647,648,Chinese Simplified,DTK,鞑契龙王
+648,649,Chinese Traditional,DTK,韃契龍王
+649,650,French,DTK,Les dragons de Tarkir
+650,651,German,DTK,Drachen von Tarkir
+651,652,Italian,DTK,Draghi di Tarkir
+652,653,Japanese,DTK,『タルキール龍紀伝』
+653,654,Korean,DTK,타르커의 용
+654,655,Portuguese (Brazil),DTK,Dragões de Tarkir
+655,656,Russian,DTK,Драконы Таркира
+656,657,Spanish,DTK,Dragones de Tarkir
+657,658,Chinese Simplified,EMA,Eternal Masters
+658,659,Chinese Traditional,EMA,Eternal Masters
+659,660,French,EMA,Eternal Masters
+660,661,German,EMA,Eternal Masters
+661,662,Italian,EMA,Eternal Masters
+662,663,Japanese,EMA,Eternal Masters
+663,664,Korean,EMA,Eternal Masters
+664,665,Portuguese (Brazil),EMA,Eternal Masters
+665,666,Russian,EMA,Eternal Masters
+666,667,Spanish,EMA,Eternal Masters
+667,668,Chinese Simplified,EMN,异月传奇
+668,669,Chinese Traditional,EMN,異月傳奇
+669,670,French,EMN,Confrontez les ténèbres
+670,671,German,EMN,Stell dich der Dunkelheit
+671,672,Italian,EMN,Affronta l’oscurità
+672,673,Japanese,EMN,『異界月』
+673,674,Korean,EMN,어둠과 맞서라
+674,675,Portuguese (Brazil),EMN,Enfrente as Trevas
+675,676,Russian,EMN,Встретьтесь с тьмой
+676,677,Spanish,EMN,Luna de horrores
+677,678,Chinese Simplified,EVE,暮光
+678,679,Chinese Traditional,EVE,暮光
+679,680,French,EVE,Coucheciel
+680,681,German,EVE,Abendkühle
+681,682,Italian,EVE,Vespro
+682,683,Japanese,EVE,イーブンタイド
+683,684,Korean,EVE,일몰
+684,685,Portuguese (Brazil),EVE,Entardecer
+685,686,Russian,EVE,Сумерки
+686,687,Spanish,EVE,Crepúsculo
+687,688,Chinese Simplified,EXO,Exodus
+688,689,Chinese Traditional,EXO,Exodus
+689,690,French,EXO,Exodus
+690,691,German,EXO,Exodus
+691,692,Italian,EXO,Exodus
+692,693,Japanese,EXO,Exodus
+693,694,Korean,EXO,Exodus
+694,695,Portuguese (Brazil),EXO,Exodus
+695,696,Russian,EXO,Exodus
+696,697,Spanish,EXO,Exodus
+697,698,Chinese Simplified,FEM,Fallen Empires
+698,699,Chinese Traditional,FEM,Fallen Empires
+699,700,French,FEM,Fallen Empires
+700,701,German,FEM,Fallen Empires
+701,702,Italian,FEM,Fallen Empires
+702,703,Japanese,FEM,Fallen Empires
+703,704,Korean,FEM,Fallen Empires
+704,705,Portuguese (Brazil),FEM,Fallen Empires
+705,706,Russian,FEM,Fallen Empires
+706,707,Spanish,FEM,Fallen Empires
+707,708,Chinese Simplified,FRF,龙命殊途
+708,709,Chinese Traditional,FRF,龍命殊途
+709,710,French,FRF,Destin Reforgé
+710,711,German,FRF,Schmiede des Schicksals
+711,712,Italian,FRF,Riforgiare il Destino
+712,713,Japanese,FRF,『運命再編』
+713,714,Korean,FRF,재창조된 운명
+714,715,Portuguese (Brazil),FRF,Destino Reescrito
+715,716,Russian,FRF,Перекованная Судьба
+716,717,Spanish,FRF,Destino Reescrito
+717,718,Chinese Simplified,FUT,预知将来
+718,719,Chinese Traditional,FUT,Future Sight
+719,720,French,FUT,Vision de l'avenir
+720,721,German,FUT,Blick in die Zukunft
+721,722,Italian,FUT,Visione Futura
+722,723,Japanese,FUT,未来予知
+723,724,Korean,FUT,미래를 보는 눈
+724,725,Portuguese (Brazil),FUT,Visão do Futuro
+725,726,Russian,FUT,Взгляд в Будущее
+726,727,Spanish,FUT,Visión del futuro
+727,728,Chinese Simplified,GPT,十会盟
+728,729,Chinese Traditional,GPT,十會盟
+729,730,French,GPT,Le Pacte des Guildes
+730,731,German,GPT,Gildenbund
+731,732,Italian,GPT,Patto delle Gilde
+732,733,Japanese,GPT,ギルドパクト
+733,734,Korean,GPT,길드팩트
+734,735,Portuguese (Brazil),GPT,Pacto das Guildas
+735,736,Russian,GPT,Договор Гильдий
+736,737,Spanish,GPT,El Pacto entre Gremios
+737,738,Chinese Simplified,GRN,烽会拉尼卡
+738,739,Chinese Traditional,GRN,烽會拉尼卡
+739,740,French,GRN,Les guildes de Ravnica
+740,741,German,GRN,Gilden von Ravnica
+741,742,Italian,GRN,Gilde di Ravnica
+742,743,Japanese,GRN,『ラヴニカのギルド』
+743,744,Korean,GRN,라브니카의 길드
+744,745,Portuguese (Brazil),GRN,Guildas de Ravnica
+745,746,Russian,GRN,«Гильдии Равники»
+746,747,Spanish,GRN,Gremios de Rávnica
+747,748,Chinese Simplified,GTC,兵临古城
+748,749,Chinese Traditional,GTC,兵臨古城
+749,750,French,GTC,Insurrection
+750,751,German,GTC,Gildensturm
+751,752,Italian,GTC,Irruzione
+752,753,Japanese,GTC,『ギルド門侵犯』
+753,754,Korean,GTC,충돌의 관문
+754,755,Portuguese (Brazil),GTC,Portões Violados
+755,756,Russian,GTC,Незваные Гости
+756,757,Spanish,GTC,Intrusión
+757,758,Chinese Simplified,H09,Premium Deck Series: Slivers
+758,759,Chinese Traditional,H09,Premium Deck Series: Slivers
+759,760,French,H09,Premium Deck Series: Slivers
+760,761,German,H09,Premium Deck Series: Slivers
+761,762,Italian,H09,Premium Deck Series: Slivers
+762,763,Japanese,H09,Premium Deck Series: Slivers
+763,764,Korean,H09,Premium Deck Series: Slivers
+764,765,Portuguese (Brazil),H09,Premium Deck Series: Slivers
+765,766,Russian,H09,Premium Deck Series: Slivers
+766,767,Spanish,H09,Premium Deck Series: Slivers
+767,768,Chinese Simplified,HML,Homelands
+768,769,Chinese Traditional,HML,Homelands
+769,770,French,HML,Homelands
+770,771,German,HML,Homelands
+771,772,Italian,HML,Homelands
+772,773,Japanese,HML,Homelands
+773,774,Korean,HML,Homelands
+774,775,Portuguese (Brazil),HML,Homelands
+775,776,Russian,HML,Homelands
+776,777,Spanish,HML,Homelands
+777,778,Chinese Simplified,HOU,幻灭时刻
+778,779,Chinese Traditional,HOU,幻滅時刻
+779,780,French,HOU,L’Âge de la Destruction
+780,781,German,HOU,Stunde der Vernichtung
+781,782,Italian,HOU,L’Era della Rovina
+782,783,Japanese,HOU,『破滅の刻』
+783,784,Korean,HOU,파멸의 시간
+784,785,Portuguese (Brazil),HOU,Hora da Devastação
+785,786,Russian,HOU,«Час Разрушения»
+786,787,Spanish,HOU,LA HORA DE LA DEVASTACIÓN
+787,788,Chinese Simplified,ICE,Ice Age
+788,789,Chinese Traditional,ICE,Ice Age
+789,790,French,ICE,Ice Age
+790,791,German,ICE,Ice Age
+791,792,Italian,ICE,Ice Age
+792,793,Japanese,ICE,Ice Age
+793,794,Korean,ICE,Ice Age
+794,795,Portuguese (Brazil),ICE,Ice Age
+795,796,Russian,ICE,Ice Age
+796,797,Spanish,ICE,Ice Age
+797,798,Chinese Simplified,IMA,Iconic Masters
+798,799,Chinese Traditional,IMA,Iconic Masters
+799,800,French,IMA,Iconic Masters
+800,801,German,IMA,Iconic Masters
+801,802,Italian,IMA,Iconic Masters
+802,803,Japanese,IMA,Iconic Masters
+803,804,Korean,IMA,Iconic Masters
+804,805,Portuguese (Brazil),IMA,Iconic Masters
+805,806,Russian,IMA,Iconic Masters
+806,807,Spanish,IMA,Iconic Masters
+807,808,Chinese Simplified,INV,Invasion
+808,809,Chinese Traditional,INV,Invasion
+809,810,French,INV,Invasion
+810,811,German,INV,Invasion
+811,812,Italian,INV,Invasion
+812,813,Japanese,INV,Invasion
+813,814,Korean,INV,Invasion
+814,815,Portuguese (Brazil),INV,Invasion
+815,816,Russian,INV,Invasion
+816,817,Spanish,INV,Invasion
+817,818,Chinese Simplified,ISD,依尼翠
+818,819,Chinese Traditional,ISD,依尼翠
+819,820,French,ISD,Innistrad
+820,821,German,ISD,Innistrad
+821,822,Italian,ISD,Innistrad
+822,823,Japanese,ISD,イニストラード
+823,824,Korean,ISD,이니스트라드
+824,825,Portuguese (Brazil),ISD,Innistrad
+825,826,Russian,ISD,Innistrad
+826,827,Spanish,ISD,Innistrad
+827,828,Chinese Simplified,JOU,尼兹之旅
+828,829,Chinese Traditional,JOU,尼茲之旅
+829,830,French,JOU,Incursion dans Nyx
+830,831,German,JOU,Reise nach Nyx
+831,832,Italian,JOU,Viaggio verso Nyx
+832,833,Japanese,JOU,『ニクスへの旅』
+833,834,Korean,JOU,닉스로 가는 길
+834,835,Portuguese (Brazil),JOU,Viagem para Nyx
+835,836,Russian,JOU,Путешествие в Никс
+836,837,Spanish,JOU,Travesía hacia Nyx
+837,838,Chinese Simplified,JUD,神谴
+838,839,Chinese Traditional,JUD,神譴
+839,840,French,JUD,Jugement
+840,841,German,JUD,Abrechnung
+841,842,Italian,JUD,Sentenza
+842,843,Japanese,JUD,ジャッジメント
+843,844,Korean,JUD,심판
+844,845,Portuguese (Brazil),JUD,Judgment
+845,846,Russian,JUD,Judgment
+846,847,Spanish,JUD,Juicio
+847,848,Chinese Simplified,KLD,卡拉德许
+848,849,Chinese Traditional,KLD,卡拉德許
+849,850,French,KLD,Kaladesh
+850,851,German,KLD,Kaladesh
+851,852,Italian,KLD,Kaladesh
+852,853,Japanese,KLD,『カラデシュ』
+853,854,Korean,KLD,칼라데시
+854,855,Portuguese (Brazil),KLD,Kaladesh
+855,856,Russian,KLD,«Каладеш»
+856,857,Spanish,KLD,Kaladesh
+857,858,Chinese Simplified,KTK,鞑契可汗
+858,859,Chinese Traditional,KTK,韃契可汗
+859,860,French,KTK,Les Khans de Tarkir
+860,861,German,KTK,Khane von Tarkir
+861,862,Italian,KTK,I Khan di Tarkir
+862,863,Japanese,KTK,『タルキール覇王譚』
+863,864,Korean,KTK,타르커의 칸
+864,865,Portuguese (Brazil),KTK,Khans de Tarkir
+865,866,Russian,KTK,Ханы Таркира
+866,867,Spanish,KTK,Kans de Tarkir
+867,868,Chinese Simplified,LEG,Legends
+868,869,Chinese Traditional,LEG,Legends
+869,870,French,LEG,Legends
+870,871,German,LEG,Legends
+871,872,Italian,LEG,Legends
+872,873,Japanese,LEG,Legends
+873,874,Korean,LEG,Legends
+874,875,Portuguese (Brazil),LEG,Legends
+875,876,Russian,LEG,Legends
+876,877,Spanish,LEG,Legends
+877,878,French,LGN,Légions
+878,879,German,LGN,Legions
+879,880,Spanish,LGN,Legiones
+880,881,Chinese Simplified,LRW,洛温
+881,882,Chinese Traditional,LRW,洛溫
+882,883,French,LRW,Lorwyn
+883,884,German,LRW,Lorwyn
+884,885,Italian,LRW,Lorwyn
+885,886,Japanese,LRW,ローウィン
+886,887,Korean,LRW,로윈
+887,888,Portuguese (Brazil),LRW,Lorwyn
+888,889,Russian,LRW,Лорвин
+889,890,Spanish,LRW,Lorwyn
+890,891,Chinese Simplified,M10,核心系列2010
+891,892,Chinese Traditional,M10,核心系列2010
+892,893,French,M10,Édition de base 2010
+893,894,German,M10,2010 Hauptset
+894,895,Italian,M10,Set Base 2010
+895,896,Japanese,M10,基本セット2010
+896,897,Korean,M10,2010 코어세트
+897,898,Portuguese (Brazil),M10,Coleção Básica 2010
+898,899,Russian,M10,Базовый выпуск 2010
+899,900,Spanish,M10,Colección básica 2010
+900,901,Chinese Simplified,M11,核心系列2011
+901,902,Chinese Traditional,M11,核心系列2011
+902,903,French,M11,Édition de base 2011
+903,904,German,M11,2011 Hauptset
+904,905,Italian,M11,Set Base 2011
+905,906,Japanese,M11,基本セット2011
+906,907,Korean,M11,2011 코어세트
+907,908,Portuguese (Brazil),M11,Coleção Básica 2011
+908,909,Russian,M11,Базовый выпуск 2011
+909,910,Spanish,M11,Colección básica 2011
+910,911,Chinese Simplified,M12,核心系列2012
+911,912,Chinese Traditional,M12,核心系列2012
+912,913,French,M12,Édition de base 2012
+913,914,German,M12,2012 Hauptset
+914,915,Italian,M12,Set Base 2012
+915,916,Japanese,M12,基本セット2012
+916,917,Korean,M12,2012 코어세트
+917,918,Portuguese (Brazil),M12,Coleção Básica 2012
+918,919,Russian,M12,Базовый выпуск 2012
+919,920,Spanish,M12,Colección básica 2012
+920,921,Chinese Simplified,M13,核心系列2013
+921,922,Chinese Traditional,M13,核心系列2013
+922,923,French,M13,Colección básica 2013
+923,924,German,M13,2013 Hauptset
+924,925,Italian,M13,Set Base 2013
+925,926,Japanese,M13,『基本セット2013』
+926,927,Korean,M13,2013 코어세트
+927,928,Portuguese (Brazil),M13,Coleção Básica 2013
+928,929,Russian,M13,Базовый выпуск 2013
+929,930,Spanish,M13,Colección básica 2013
+930,931,Chinese Simplified,M14,万智牌2014 核心系列
+931,932,Chinese Traditional,M14,魔法風雲會2014 核心系列
+932,933,French,M14,Édition de base Magic 2014
+933,934,German,M14,Hauptset Magic 2014
+934,935,Italian,M14,Set Base Magic 2014
+935,936,Japanese,M14,『マジック基本セット2014』
+936,937,Korean,M14,매직 2014 코어세트
+937,938,Portuguese (Brazil),M14,Coleção Básica de Magic 2014
+938,939,Russian,M14,Базовый выпуск Magic 2014
+939,940,Spanish,M14,Colección básica Magic 2014
+940,941,Chinese Simplified,M15,万智牌2015 核心系列
+941,942,Chinese Traditional,M15,魔法風雲會2015 核心系列
+942,943,French,M15,Édition de base Magic 2015
+943,944,German,M15,Hauptset Magic 2015
+944,945,Italian,M15,Set Base Magic 2015
+945,946,Japanese,M15,『マジック基本セット2015』
+946,947,Korean,M15,매직 2015 코어세트
+947,948,Portuguese (Brazil),M15,Coleção Básica de Magic 2015
+948,949,Russian,M15,Базовый выпуск Magic 2015
+949,950,Spanish,M15,Colección básica Magic 2015
+950,951,Chinese Simplified,M19,2019核心系列
+951,952,Chinese Traditional,M19,2019核心系列
+952,953,French,M19,Édition de base 2019
+953,954,German,M19,Hauptset 2019
+954,955,Italian,M19,Set Base 2019
+955,956,Japanese,M19,『基本セット2019』
+956,957,Korean,M19,코어세트 2019
+957,958,Portuguese (Brazil),M19,COLEÇÃO BÁSICA 2019
+958,959,Russian,M19,БАЗОВЫЙ ВЫПУСК 2019
+959,960,Spanish,M19,COLECCIÓN BÁSICA 2019
+960,961,Chinese Simplified,MBS,围攻秘罗地
+961,962,Chinese Traditional,MBS,圍攻秘羅地
+962,963,French,MBS,Mirrodin Besieged
+963,964,German,MBS,Mirrodins Belagerung
+964,965,Italian,MBS,Mirrodin Assediato
+965,966,Japanese,MBS,ミラディン包囲戦
+966,967,Korean,MBS,미로딘 포위전
+967,968,Portuguese (Brazil),MBS,Mirrodin Sitiada
+968,969,Russian,MBS,Осада Мирродина
+969,970,Spanish,MBS,Mirrodin sitiado
+970,971,Chinese Simplified,ME1,Masters Edition
+971,972,Chinese Traditional,ME1,Masters Edition
+972,973,French,ME1,Masters Edition
+973,974,German,ME1,Masters Edition
+974,975,Italian,ME1,Masters Edition
+975,976,Japanese,ME1,Masters Edition
+976,977,Korean,ME1,Masters Edition
+977,978,Portuguese (Brazil),ME1,Masters Edition
+978,979,Russian,ME1,Masters Edition
+979,980,Spanish,ME1,Masters Edition
+980,981,Chinese Simplified,ME2,Masters Edition II
+981,982,Chinese Traditional,ME2,Masters Edition II
+982,983,French,ME2,Masters Edition II
+983,984,German,ME2,Masters Edition II
+984,985,Italian,ME2,Masters Edition II
+985,986,Japanese,ME2,Masters Edition II
+986,987,Korean,ME2,Masters Edition II
+987,988,Portuguese (Brazil),ME2,Masters Edition II
+988,989,Russian,ME2,Masters Edition II
+989,990,Spanish,ME2,Masters Edition II
+990,991,Chinese Simplified,ME3,Masters Edition III
+991,992,Chinese Traditional,ME3,Masters Edition III
+992,993,French,ME3,Masters Edition III
+993,994,German,ME3,Masters Edition III
+994,995,Italian,ME3,Masters Edition III
+995,996,Japanese,ME3,Masters Edition III
+996,997,Korean,ME3,Masters Edition III
+997,998,Portuguese (Brazil),ME3,Masters Edition III
+998,999,Russian,ME3,Masters Edition III
+999,1000,Spanish,ME3,Masters Edition III
+1000,1001,Chinese Simplified,ME4,Masters Edition IV
+1001,1002,Chinese Traditional,ME4,Masters Edition IV
+1002,1003,French,ME4,Masters Edition IV
+1003,1004,German,ME4,Masters Edition IV
+1004,1005,Italian,ME4,Masters Edition IV
+1005,1006,Japanese,ME4,Masters Edition IV
+1006,1007,Korean,ME4,Masters Edition IV
+1007,1008,Portuguese (Brazil),ME4,Masters Edition IV
+1008,1009,Russian,ME4,Masters Edition IV
+1009,1010,Spanish,ME4,Masters Edition IV
+1010,1011,Chinese Simplified,MIR,Mirage
+1011,1012,Chinese Traditional,MIR,Mirage
+1012,1013,French,MIR,Mirage
+1013,1014,German,MIR,Mirage
+1014,1015,Italian,MIR,Mirage
+1015,1016,Japanese,MIR,Mirage
+1016,1017,Korean,MIR,Mirage
+1017,1018,Portuguese (Brazil),MIR,Mirage
+1018,1019,Russian,MIR,Mirage
+1019,1020,Spanish,MIR,Mirage
+1020,1021,Chinese Simplified,MM2,Modern Masters 2015 Edition
+1021,1022,Chinese Traditional,MM2,Modern Masters 2015 Edition
+1022,1023,French,MM2,Modern Masters 2015 Edition
+1023,1024,German,MM2,Modern Masters 2015 Edition
+1024,1025,Italian,MM2,Modern Masters 2015 Edition
+1025,1026,Japanese,MM2,Modern Masters 2015 Edition
+1026,1027,Korean,MM2,Modern Masters 2015 Edition
+1027,1028,Portuguese (Brazil),MM2,Modern Masters 2015 Edition
+1028,1029,Russian,MM2,Modern Masters 2015 Edition
+1029,1030,Spanish,MM2,Modern Masters 2015 Edition
+1030,1031,Chinese Simplified,MMA,Modern Masters
+1031,1032,Chinese Traditional,MMA,Modern Masters
+1032,1033,French,MMA,Modern Masters
+1033,1034,German,MMA,Modern Masters
+1034,1035,Italian,MMA,Modern Masters
+1035,1036,Japanese,MMA,Modern Masters
+1036,1037,Korean,MMA,Modern Masters
+1037,1038,Portuguese (Brazil),MMA,Modern Masters
+1038,1039,Russian,MMA,Modern Masters
+1039,1040,Spanish,MMA,Modern Masters
+1040,1041,Chinese Simplified,MMQ,Mercadian Masques
+1041,1042,Chinese Traditional,MMQ,Mercadian Masques
+1042,1043,French,MMQ,Mercadian Masques
+1043,1044,German,MMQ,Mercadian Masques
+1044,1045,Italian,MMQ,Mercadian Masques
+1045,1046,Japanese,MMQ,Mercadian Masques
+1046,1047,Korean,MMQ,Mercadian Masques
+1047,1048,Portuguese (Brazil),MMQ,Mercadian Masques
+1048,1049,Russian,MMQ,Mercadian Masques
+1049,1050,Spanish,MMQ,Mercadian Masques
+1050,1051,Chinese Simplified,MOR,晨光
+1051,1052,Chinese Traditional,MOR,晨光
+1052,1053,French,MOR,Lèveciel
+1053,1054,German,MOR,Morgenluft
+1054,1055,Italian,MOR,Aurora
+1055,1056,Japanese,MOR,モーニングタイド
+1056,1057,Korean,MOR,일출
+1057,1058,Portuguese (Brazil),MOR,Alvorecer
+1058,1059,Russian,MOR,Рассвет
+1059,1060,Chinese Simplified,MRD,秘罗地
+1060,1061,Chinese Traditional,MRD,秘羅地
+1061,1062,French,MRD,Mirrodin
+1062,1063,German,MRD,Mirrodin
+1063,1064,Italian,MRD,Mirrodin
+1064,1065,Japanese,MRD,ミラディン
+1065,1066,Korean,MRD,미로딘
+1066,1067,Portuguese (Brazil),MRD,Mirrodin
+1067,1068,Russian,MRD,Mirrodin
+1068,1069,Spanish,MRD,Mirrodin
+1069,1070,Chinese Simplified,NEM,Nemesis
+1070,1071,Chinese Traditional,NEM,Nemesis
+1071,1072,French,NEM,Nemesis
+1072,1073,German,NEM,Nemesis
+1073,1074,Italian,NEM,Nemesis
+1074,1075,Japanese,NEM,Nemesis
+1075,1076,Korean,NEM,Nemesis
+1076,1077,Portuguese (Brazil),NEM,Nemesis
+1077,1078,Russian,NEM,Nemesis
+1078,1079,Spanish,NEM,Nemesis
+1079,1080,Chinese Simplified,NPH,新非瑞克西亚
+1080,1081,Chinese Traditional,NPH,新非瑞克西亞
+1081,1082,French,NPH,New Phyrexia
+1082,1083,German,NPH,Das neue Phyrexia
+1083,1084,Italian,NPH,Nuova Phyrexia
+1084,1085,Japanese,NPH,新たなるファイレクシア
+1085,1086,Korean,NPH,뉴 피렉시아
+1086,1087,Portuguese (Brazil),NPH,Nova Phyrexia
+1087,1088,Russian,NPH,Новая Фирексия
+1088,1089,Spanish,NPH,Nueva Phyrexia
+1089,1090,Chinese Simplified,ODY,奥德赛
+1090,1091,Chinese Traditional,ODY,奧德賽
+1091,1092,French,ODY,Odyssée
+1092,1093,German,ODY,Odyssee
+1093,1094,Italian,ODY,Odissea
+1094,1095,Japanese,ODY,オデッセイ
+1095,1096,Korean,ODY,오디세이
+1096,1097,Portuguese (Brazil),ODY,Odyssey
+1097,1098,Russian,ODY,Odyssey
+1098,1099,Spanish,ODY,Odisea
+1099,1100,Chinese Simplified,OGW,守护者誓约
+1100,1101,Chinese Traditional,OGW,守護者誓約
+1101,1102,French,OGW,Le serment des Sentinelles
+1102,1103,German,OGW,Eid der Wächter
+1103,1104,Italian,OGW,Giuramento dei Guardiani
+1104,1105,Japanese,OGW,『ゲートウォッチの誓い』
+1105,1106,Korean,OGW,관문수호대의 맹세
+1106,1107,Portuguese (Brazil),OGW,Juramento das Sentinelas
+1107,1108,Russian,OGW,Клятва Стражей
+1108,1109,Spanish,OGW,El juramento de los Guardianes
+1109,1110,French,ONS,Carnage
+1110,1111,German,ONS,Onslaught
+1111,1112,Spanish,ONS,Embestida
+1112,1113,Chinese Simplified,ORI,万智牌：起源
+1113,1114,Chinese Traditional,ORI,魔法風雲會：起源
+1114,1115,French,ORI,Magic Origines
+1115,1116,German,ORI,Magic Ursprünge
+1116,1117,Italian,ORI,Magic Origins
+1117,1118,Japanese,ORI,『マジック・オリジン』
+1118,1119,Korean,ORI,매직의 기원
+1119,1120,Portuguese (Brazil),ORI,Magic – Origens
+1120,1121,Russian,ORI,Magic: Истоки
+1121,1122,Spanish,ORI,Magic Orígenes
+1122,1123,Chinese Simplified,PC2,Planechase (2012 Edition)
+1123,1124,Chinese Traditional,PC2,Planechase (2012 Edition)
+1124,1125,French,PC2,Planechase (2012 Edition)
+1125,1126,German,PC2,Planechase (2012 Edition)
+1126,1127,Italian,PC2,Planechase (2012 Edition)
+1127,1128,Japanese,PC2,Planechase (2012 Edition)
+1128,1129,Korean,PC2,Planechase (2012 Edition)
+1129,1130,Portuguese (Brazil),PC2,Planechase (2012 Edition)
+1130,1131,Russian,PC2,Planechase (2012 Edition)
+1131,1132,Spanish,PC2,Planechase (2012 Edition)
+1132,1133,Chinese Simplified,PCA,Planechase Anthology
+1133,1134,Chinese Traditional,PCA,Planechase Anthology
+1134,1135,French,PCA,Planechase Anthology
+1135,1136,German,PCA,Planechase Anthology
+1136,1137,Italian,PCA,Planechase Anthology
+1137,1138,Japanese,PCA,Planechase Anthology
+1138,1139,Korean,PCA,Planechase Anthology
+1139,1140,Portuguese (Brazil),PCA,Planechase Anthology
+1140,1141,Russian,PCA,Planechase Anthology
+1141,1142,Spanish,PCA,Planechase Anthology
+1142,1143,Chinese Simplified,PCY,Prophecy
+1143,1144,Chinese Traditional,PCY,Prophecy
+1144,1145,French,PCY,Prophecy
+1145,1146,German,PCY,Prophecy
+1146,1147,Italian,PCY,Prophecy
+1147,1148,Japanese,PCY,Prophecy
+1148,1149,Korean,PCY,Prophecy
+1149,1150,Portuguese (Brazil),PCY,Prophecy
+1150,1151,Russian,PCY,Prophecy
+1151,1152,Spanish,PCY,Prophecy
+1152,1153,Chinese Simplified,PD2,Premium Deck Series: Fire & Lightning
+1153,1154,Chinese Traditional,PD2,Premium Deck Series: Fire & Lightning
+1154,1155,French,PD2,Premium Deck Series: Fire & Lightning
+1155,1156,German,PD2,Premium Deck Series: Fire & Lightning
+1156,1157,Italian,PD2,Premium Deck Series: Fire & Lightning
+1157,1158,Japanese,PD2,Premium Deck Series: Fire & Lightning
+1158,1159,Korean,PD2,Premium Deck Series: Fire & Lightning
+1159,1160,Portuguese (Brazil),PD2,Premium Deck Series: Fire & Lightning
+1160,1161,Russian,PD2,Premium Deck Series: Fire & Lightning
+1161,1162,Spanish,PD2,Premium Deck Series: Fire & Lightning
+1162,1163,Chinese Simplified,PD3,Premium Deck Series: Graveborn
+1163,1164,Chinese Traditional,PD3,Premium Deck Series: Graveborn
+1164,1165,French,PD3,Premium Deck Series: Graveborn
+1165,1166,German,PD3,Premium Deck Series: Graveborn
+1166,1167,Italian,PD3,Premium Deck Series: Graveborn
+1167,1168,Japanese,PD3,Premium Deck Series: Graveborn
+1168,1169,Korean,PD3,Premium Deck Series: Graveborn
+1169,1170,Portuguese (Brazil),PD3,Premium Deck Series: Graveborn
+1170,1171,Russian,PD3,Premium Deck Series: Graveborn
+1171,1172,Spanish,PD3,Premium Deck Series: Graveborn
+1172,1173,Chinese Simplified,PLC,时空混沌
+1173,1174,Chinese Traditional,PLC,Planar Chaos
+1174,1175,French,PLC,Chaos planaire
+1175,1176,German,PLC,Weltenchaos
+1176,1177,Italian,PLC,Caos Planar
+1177,1178,Japanese,PLC,次元の混乱
+1178,1179,Korean,PLC,차원의 혼돈
+1179,1180,Portuguese (Brazil),PLC,Caos Planar
+1180,1181,Russian,PLC,Вселенский Хаос
+1181,1182,Spanish,PLC,Caos Planar
+1182,1183,Chinese Simplified,PLS,Planeshift
+1183,1184,Chinese Traditional,PLS,Planeshift
+1184,1185,French,PLS,Planeshift
+1185,1186,German,PLS,Planeshift
+1186,1187,Italian,PLS,Planeshift
+1187,1188,Japanese,PLS,Planeshift
+1188,1189,Korean,PLS,Planeshift
+1189,1190,Portuguese (Brazil),PLS,Planeshift
+1190,1191,Russian,PLS,Planeshift
+1191,1192,Spanish,PLS,Planeshift
+1192,1193,Chinese Simplified,RAV,拉尼卡公会城
+1193,1194,Chinese Traditional,RAV,拉尼卡公會城
+1194,1195,French,RAV,Ravnica: la Cité des Guildes
+1195,1196,German,RAV,Ravnica: Stadt der Gilden
+1196,1197,Italian,RAV,Ravnica: Città delle Gilde
+1197,1198,Japanese,RAV,ラヴニカ：ギルドの都
+1198,1199,Korean,RAV,라브니카: 길드들의 도시
+1199,1200,Portuguese (Brazil),RAV,Ravnica: A Cidade das Guildas
+1200,1201,Russian,RAV,Равника: Город Гильдий
+1201,1202,Spanish,RAV,Rávnica: Ciudad de gremios
+1202,1203,Chinese Simplified,RIX,决胜伊夏兰
+1203,1204,Chinese Traditional,RIX,決勝依夏蘭
+1204,1205,French,RIX,LES COMBATTANTS D'IXALAN
+1205,1206,German,RIX,RIVALEN VON IXALAN
+1206,1207,Italian,RIX,RIVALI DI IXALAN
+1207,1208,Japanese,RIX,『イクサランの相克』
+1208,1209,Korean,RIX,익살란의 숙적들
+1209,1210,Portuguese (Brazil),RIX,RIVAIS DE IXALAN
+1210,1211,Russian,RIX,БОРЬБА ЗА ИКСАЛАН
+1211,1212,Spanish,RIX,RIVALES DE IXALAN
+1212,1213,Chinese Simplified,ROE,奥札奇再起
+1213,1214,Chinese Traditional,ROE,奧札奇再起
+1214,1215,French,ROE,L'ascension des Eldrazi
+1215,1216,German,ROE,Aufstieg der Eldrazi
+1216,1217,Italian,ROE,Ascesa degli Eldrazi
+1217,1218,Japanese,ROE,エルドラージ覚醒
+1218,1219,Korean,ROE,엘드라지의 궐기
+1219,1220,Portuguese (Brazil),ROE,Ascensão dos Eldrazi
+1220,1221,Russian,ROE,Возрождение Эльдрази
+1221,1222,Spanish,ROE,Levantamiento de los Eldrazi
+1222,1223,Chinese Simplified,RTR,再访拉尼卡
+1223,1224,Chinese Traditional,RTR,再訪拉尼卡
+1224,1225,French,RTR,Retour sur Ravnica
+1225,1226,German,RTR,Rückkehr nach Ravnica
+1226,1227,Italian,RTR,Ritorno a Ravnica
+1227,1228,Japanese,RTR,『ラヴニカへの回帰』
+1228,1229,Korean,RTR,라브니카로의 귀환
+1229,1230,Portuguese (Brazil),RTR,Retorno a Ravnica
+1230,1231,Russian,RTR,Возвращение в Равнику
+1231,1232,Spanish,RTR,Regreso a Rávnica
+1232,1233,French,SCG,Fléau
+1233,1234,German,SCG,Scourge
+1234,1235,Spanish,SCG,Azote
+1235,1236,Chinese Simplified,SHM,暗影荒原
+1236,1237,Chinese Traditional,SHM,闇影荒原
+1237,1238,French,SHM,Sombrelande
+1238,1239,German,SHM,Schattenmoor
+1239,1240,Italian,SHM,Landa Tenebrosa
+1240,1241,Japanese,SHM,シャドウムーア
+1241,1242,Korean,SHM,샤도우무어
+1242,1243,Portuguese (Brazil),SHM,Pântano Sombrio
+1243,1244,Russian,SHM,Шэдоумур
+1244,1245,Spanish,SHM,Páramo Sombrío
+1245,1246,Chinese Simplified,SOI,依尼翠暗影
+1246,1247,Chinese Traditional,SOI,依尼翠闇影
+1247,1248,French,SOI,Ténèbres sur Innistrad
+1248,1249,German,SOI,Schatten über Innistrad
+1249,1250,Italian,SOI,Ombre su Innistrad
+1250,1251,Japanese,SOI,『イニストラードを覆う影』
+1251,1252,Korean,SOI,이니스트라드에 드리운 그림자
+1252,1253,Portuguese (Brazil),SOI,Sombras Em Innistrad
+1253,1254,Russian,SOI,Тени над Иннистрадом
+1254,1255,Spanish,SOI,Sombras sobre Innistrad
+1255,1256,Chinese Simplified,SOK,神河任侠传
+1256,1257,Chinese Traditional,SOK,神河任俠傳
+1257,1258,French,SOK,神河救済
+1258,1259,German,SOK,Retter von Kamigawa
+1259,1260,Italian,SOK,Liberatori di Kamigawa
+1260,1261,Japanese,SOK,神河救済
+1261,1262,Korean,SOK,카미가와의 구원자
+1262,1263,Portuguese (Brazil),SOK,Salvadores de Kamigawa
+1263,1264,Russian,SOK,Saviors of Kamigawa
+1264,1265,Spanish,SOK,Salvadores de Kamigawa
+1265,1266,Chinese Simplified,SOM,秘罗地创痕
+1266,1267,Chinese Traditional,SOM,秘羅地創痕
+1267,1268,French,SOM,Scars of Mirrodin
+1268,1269,German,SOM,Die Narben von Mirrodin
+1269,1270,Italian,SOM,Cicatrici di Mirrodin
+1270,1271,Japanese,SOM,ミラディンの傷跡
+1271,1272,Korean,SOM,미로딘의 상처
+1272,1273,Portuguese (Brazil),SOM,Cicatrizes de Mirrodin
+1273,1274,Russian,SOM,Шрамы Мирродина
+1274,1275,Spanish,SOM,Cicatrices de Mirrodin
+1275,1276,Chinese Simplified,STH,Stronghold
+1276,1277,Chinese Traditional,STH,Stronghold
+1277,1278,French,STH,Stronghold
+1278,1279,German,STH,Stronghold
+1279,1280,Italian,STH,Stronghold
+1280,1281,Japanese,STH,Stronghold
+1281,1282,Korean,STH,Stronghold
+1282,1283,Portuguese (Brazil),STH,Stronghold
+1283,1284,Russian,STH,Stronghold
+1284,1285,Spanish,STH,Stronghold
+1285,1286,Chinese Simplified,THS,塞洛斯
+1286,1287,Chinese Traditional,THS,塞洛斯
+1287,1288,French,THS,Theros
+1288,1289,German,THS,Theros
+1289,1290,Italian,THS,Theros
+1290,1291,Japanese,THS,『テーロス』
+1291,1292,Korean,THS,테로스
+1292,1293,Portuguese (Brazil),THS,Theros
+1293,1294,Russian,THS,Терос
+1294,1295,Spanish,THS,Theros
+1295,1296,Chinese Simplified,TMP,Tempest
+1296,1297,Chinese Traditional,TMP,Tempest
+1297,1298,French,TMP,Tempest
+1298,1299,German,TMP,Tempest
+1299,1300,Italian,TMP,Tempest
+1300,1301,Japanese,TMP,Tempest
+1301,1302,Korean,TMP,Tempest
+1302,1303,Portuguese (Brazil),TMP,Tempest
+1303,1304,Russian,TMP,Tempest
+1304,1305,Spanish,TMP,Tempest
+1305,1306,Chinese Simplified,TOR,绝境
+1306,1307,Chinese Traditional,TOR,絕境
+1307,1308,French,TOR,Tourment
+1308,1309,German,TOR,Qualen
+1309,1310,Italian,TOR,Tormento
+1310,1311,Japanese,TOR,トーメント
+1311,1312,Korean,TOR,고통
+1312,1313,Portuguese (Brazil),TOR,Torment
+1313,1314,Russian,TOR,Torment
+1314,1315,Spanish,TOR,Tormento
+1315,1316,Chinese Simplified,TPR,Tempest Remastered
+1316,1317,Chinese Traditional,TPR,Tempest Remastered
+1317,1318,French,TPR,Tempest Remastered
+1318,1319,German,TPR,Tempest Remastered
+1319,1320,Italian,TPR,Tempest Remastered
+1320,1321,Japanese,TPR,Tempest Remastered
+1321,1322,Korean,TPR,Tempest Remastered
+1322,1323,Portuguese (Brazil),TPR,Tempest Remastered
+1323,1324,Russian,TPR,Tempest Remastered
+1324,1325,Spanish,TPR,Tempest Remastered
+1325,1326,Chinese Simplified,TSP,时间漩涡
+1326,1327,Chinese Traditional,TSP,Time Spiral
+1327,1328,French,TSP,Spirale temporelle
+1328,1329,German,TSP,Zeitspirale
+1329,1330,Italian,TSP,Espiral Temporal
+1330,1331,Japanese,TSP,時のらせん
+1331,1332,Korean,TSP,시간의 나선
+1332,1333,Portuguese (Brazil),TSP,Espiral Temporal
+1333,1334,Russian,TSP,Спираль Времени
+1334,1335,Spanish,TSP,Espiral del tiempo
+1335,1336,Chinese Simplified,UDS,Urza’s Destiny
+1336,1337,Chinese Traditional,UDS,Urza’s Destiny
+1337,1338,French,UDS,Urza’s Destiny
+1338,1339,German,UDS,Urza’s Destiny
+1339,1340,Italian,UDS,Urza’s Destiny
+1340,1341,Japanese,UDS,Urza’s Destiny
+1341,1342,Korean,UDS,Urza’s Destiny
+1342,1343,Portuguese (Brazil),UDS,Urza’s Destiny
+1343,1344,Russian,UDS,Urza’s Destiny
+1344,1345,Spanish,UDS,Urza’s Destiny
+1345,1346,Chinese Simplified,UGL,Unglued
+1346,1347,Chinese Traditional,UGL,Unglued
+1347,1348,French,UGL,Unglued
+1348,1349,German,UGL,Unglued
+1349,1350,Italian,UGL,Unglued
+1350,1351,Japanese,UGL,Unglued
+1351,1352,Korean,UGL,Unglued
+1352,1353,Portuguese (Brazil),UGL,Unglued
+1353,1354,Russian,UGL,Unglued
+1354,1355,Spanish,UGL,Unglued
+1355,1356,Chinese Simplified,ULG,Urza’s Legacy
+1356,1357,Chinese Traditional,ULG,Urza’s Legacy
+1357,1358,French,ULG,Urza’s Legacy
+1358,1359,German,ULG,Urza’s Legacy
+1359,1360,Italian,ULG,Urza’s Legacy
+1360,1361,Japanese,ULG,Urza’s Legacy
+1361,1362,Korean,ULG,Urza’s Legacy
+1362,1363,Portuguese (Brazil),ULG,Urza’s Legacy
+1363,1364,Russian,ULG,Urza’s Legacy
+1364,1365,Spanish,ULG,Urza’s Legacy
+1365,1366,Chinese Simplified,UMA,Ultimate Masters
+1366,1367,Chinese Traditional,UMA,Ultimate Masters
+1367,1368,French,UMA,Ultimate Masters
+1368,1369,German,UMA,Ultimate Masters
+1369,1370,Italian,UMA,Ultimate Masters
+1370,1371,Japanese,UMA,Ultimate Masters
+1371,1372,Korean,UMA,Ultimate Masters
+1372,1373,Portuguese (Brazil),UMA,Ultimate Masters
+1373,1374,Russian,UMA,Ultimate Masters
+1374,1375,Spanish,UMA,Ultimate Masters
+1375,1376,Chinese Simplified,UNH,Unhinged
+1376,1377,Chinese Traditional,UNH,Unhinged
+1377,1378,French,UNH,Unhinged
+1378,1379,German,UNH,Unhinged
+1379,1380,Italian,UNH,Unhinged
+1380,1381,Japanese,UNH,Unhinged
+1381,1382,Korean,UNH,Unhinged
+1382,1383,Portuguese (Brazil),UNH,Unhinged
+1383,1384,Russian,UNH,Unhinged
+1384,1385,Spanish,UNH,Unhinged
+1385,1386,Chinese Simplified,USG,Urza’s Saga
+1386,1387,Chinese Traditional,USG,Urza’s Saga
+1387,1388,French,USG,Urza’s Saga
+1388,1389,German,USG,Urza’s Saga
+1389,1390,Italian,USG,Urza’s Saga
+1390,1391,Japanese,USG,Urza’s Saga
+1391,1392,Korean,USG,Urza’s Saga
+1392,1393,Portuguese (Brazil),USG,Urza’s Saga
+1393,1394,Russian,USG,Urza’s Saga
+1394,1395,Spanish,USG,Urza’s Saga
+1395,1396,Chinese Simplified,UST,Unstable
+1396,1397,Chinese Traditional,UST,Unstable
+1397,1398,French,UST,Unstable
+1398,1399,German,UST,Unstable
+1399,1400,Italian,UST,Unstable
+1400,1401,Japanese,UST,Unstable
+1401,1402,Korean,UST,Unstable
+1402,1403,Portuguese (Brazil),UST,Unstable
+1403,1404,Russian,UST,Unstable
+1404,1405,Spanish,UST,Unstable
+1405,1406,Chinese Simplified,V09,From The Vault: Exiled
+1406,1407,Chinese Traditional,V09,From The Vault: Exiled
+1407,1408,French,V09,From The Vault: Exiled
+1408,1409,German,V09,From The Vault: Exiled
+1409,1410,Italian,V09,From The Vault: Exiled
+1410,1411,Japanese,V09,From The Vault: Exiled
+1411,1412,Korean,V09,From The Vault: Exiled
+1412,1413,Portuguese (Brazil),V09,From The Vault: Exiled
+1413,1414,Russian,V09,From The Vault: Exiled
+1414,1415,Spanish,V09,From The Vault: Exiled
+1415,1416,Chinese Simplified,V10,From The Vault: Relics
+1416,1417,Chinese Traditional,V10,From The Vault: Relics
+1417,1418,French,V10,From The Vault: Relics
+1418,1419,German,V10,From The Vault: Relics
+1419,1420,Italian,V10,From The Vault: Relics
+1420,1421,Japanese,V10,From The Vault: Relics
+1421,1422,Korean,V10,From The Vault: Relics
+1422,1423,Portuguese (Brazil),V10,From The Vault: Relics
+1423,1424,Russian,V10,From The Vault: Relics
+1424,1425,Spanish,V10,From The Vault: Relics
+1425,1426,Chinese Simplified,V11,From The Vault: Legends
+1426,1427,Chinese Traditional,V11,From The Vault: Legends
+1427,1428,French,V11,From The Vault: Legends
+1428,1429,German,V11,From The Vault: Legends
+1429,1430,Italian,V11,From The Vault: Legends
+1430,1431,Japanese,V11,From The Vault: Legends
+1431,1432,Korean,V11,From The Vault: Legends
+1432,1433,Portuguese (Brazil),V11,From The Vault: Legends
+1433,1434,Russian,V11,From The Vault: Legends
+1434,1435,Spanish,V11,From The Vault: Legends
+1435,1436,Chinese Simplified,V12,From The Vault: Realms
+1436,1437,Chinese Traditional,V12,From The Vault: Realms
+1437,1438,French,V12,From The Vault: Realms
+1438,1439,German,V12,From The Vault: Realms
+1439,1440,Italian,V12,From The Vault: Realms
+1440,1441,Japanese,V12,From The Vault: Realms
+1441,1442,Korean,V12,From The Vault: Realms
+1442,1443,Portuguese (Brazil),V12,From The Vault: Realms
+1443,1444,Russian,V12,From The Vault: Realms
+1444,1445,Spanish,V12,From The Vault: Realms
+1445,1446,Chinese Simplified,V13,From The Vault: Twenty
+1446,1447,Chinese Traditional,V13,From The Vault: Twenty
+1447,1448,French,V13,From The Vault: Twenty
+1448,1449,German,V13,From The Vault: Twenty
+1449,1450,Italian,V13,From The Vault: Twenty
+1450,1451,Japanese,V13,From The Vault: Twenty
+1451,1452,Korean,V13,From The Vault: Twenty
+1452,1453,Portuguese (Brazil),V13,From The Vault: Twenty
+1453,1454,Russian,V13,From The Vault: Twenty
+1454,1455,Spanish,V13,From The Vault: Twenty
+1455,1456,Chinese Simplified,V14,From The Vault: Annihilation
+1456,1457,Chinese Traditional,V14,From The Vault: Annihilation
+1457,1458,French,V14,From The Vault: Annihilation
+1458,1459,German,V14,From The Vault: Annihilation
+1459,1460,Italian,V14,From The Vault: Annihilation
+1460,1461,Japanese,V14,From The Vault: Annihilation
+1461,1462,Korean,V14,From The Vault: Annihilation
+1462,1463,Portuguese (Brazil),V14,From The Vault: Annihilation
+1463,1464,Russian,V14,From The Vault: Annihilation
+1464,1465,Spanish,V14,From The Vault: Annihilation
+1465,1466,Chinese Simplified,V15,From the Vault: Angels
+1466,1467,Chinese Traditional,V15,From the Vault: Angels
+1467,1468,French,V15,From the Vault: Angels
+1468,1469,German,V15,From the Vault: Angels
+1469,1470,Italian,V15,From the Vault: Angels
+1470,1471,Japanese,V15,From the Vault: Angels
+1471,1472,Korean,V15,From the Vault: Angels
+1472,1473,Portuguese (Brazil),V15,From the Vault: Angels
+1473,1474,Russian,V15,From the Vault: Angels
+1474,1475,Spanish,V15,From the Vault: Angels
+1475,1476,Chinese Simplified,V16,From The Vault: Lore
+1476,1477,Chinese Traditional,V16,From The Vault: Lore
+1477,1478,French,V16,From The Vault: Lore
+1478,1479,German,V16,From The Vault: Lore
+1479,1480,Italian,V16,From The Vault: Lore
+1480,1481,Japanese,V16,From The Vault: Lore
+1481,1482,Korean,V16,From The Vault: Lore
+1482,1483,Portuguese (Brazil),V16,From The Vault: Lore
+1483,1484,Russian,V16,From The Vault: Lore
+1484,1485,Spanish,V16,From The Vault: Lore
+1485,1486,Chinese Simplified,V17,From The Vault: Transform
+1486,1487,Chinese Traditional,V17,From The Vault: Transform
+1487,1488,French,V17,From The Vault: Transform
+1488,1489,German,V17,From The Vault: Transform
+1489,1490,Italian,V17,From The Vault: Transform
+1490,1491,Japanese,V17,From The Vault: Transform
+1491,1492,Korean,V17,From The Vault: Transform
+1492,1493,Portuguese (Brazil),V17,From The Vault: Transform
+1493,1494,Russian,V17,From The Vault: Transform
+1494,1495,Spanish,V17,From The Vault: Transform
+1495,1496,Chinese Simplified,VIS,Visions
+1496,1497,Chinese Traditional,VIS,Visions
+1497,1498,French,VIS,Visions
+1498,1499,German,VIS,Visions
+1499,1500,Italian,VIS,Visions
+1500,1501,Japanese,VIS,Visions
+1501,1502,Korean,VIS,Visions
+1502,1503,Portuguese (Brazil),VIS,Visions
+1503,1504,Russian,VIS,Visions
+1504,1505,Spanish,VIS,Visions
+1505,1506,Chinese Simplified,VMA,Vintage Masters
+1506,1507,Chinese Traditional,VMA,Vintage Masters
+1507,1508,French,VMA,Vintage Masters
+1508,1509,German,VMA,Vintage Masters
+1509,1510,Italian,VMA,Vintage Masters
+1510,1511,Japanese,VMA,Vintage Masters
+1511,1512,Korean,VMA,Vintage Masters
+1512,1513,Portuguese (Brazil),VMA,Vintage Masters
+1513,1514,Russian,VMA,Vintage Masters
+1514,1515,Spanish,VMA,Vintage Masters
+1515,1516,Chinese Simplified,WTH,Weatherlight
+1516,1517,Chinese Traditional,WTH,Weatherlight
+1517,1518,French,WTH,Weatherlight
+1518,1519,German,WTH,Weatherlight
+1519,1520,Italian,WTH,Weatherlight
+1520,1521,Japanese,WTH,Weatherlight
+1521,1522,Korean,WTH,Weatherlight
+1522,1523,Portuguese (Brazil),WTH,Weatherlight
+1523,1524,Russian,WTH,Weatherlight
+1524,1525,Spanish,WTH,Weatherlight
+1525,1526,Chinese Simplified,WWK,天地醒转
+1526,1527,Chinese Traditional,WWK,天地醒轉
+1527,1528,French,WWK,Worldwake
+1528,1529,German,WWK,Weltenerwachen
+1529,1530,Italian,WWK,Worldwake
+1530,1531,Japanese,WWK,ワールドウェイク
+1531,1532,Korean,WWK,월드웨이크
+1532,1533,Portuguese (Brazil),WWK,Despertar do Mundo
+1533,1534,Russian,WWK,Пробуждение мира
+1534,1535,Spanish,WWK,Despertar del mundo
+1535,1536,Chinese Simplified,XLN,依夏兰
+1536,1537,Chinese Traditional,XLN,依夏蘭
+1537,1538,French,XLN,Ixalan
+1538,1539,German,XLN,Ixalan
+1539,1540,Italian,XLN,Ixalan
+1540,1541,Japanese,XLN,『イクサラン』
+1541,1542,Korean,XLN,익살란
+1542,1543,Portuguese (Brazil),XLN,Ixalan
+1543,1544,Russian,XLN,Иксалан
+1544,1545,Spanish,XLN,Ixalan
+1545,1546,Chinese Simplified,ZEN,赞迪卡
+1546,1547,Chinese Traditional,ZEN,贊迪卡
+1547,1548,French,ZEN,Zendikar
+1548,1549,German,ZEN,Zendikar
+1549,1550,Italian,ZEN,Zendikar
+1550,1551,Japanese,ZEN,ゼンディカー
+1551,1552,Korean,ZEN,젠디카르
+1552,1553,Portuguese (Brazil),ZEN,Zendikar
+1553,1554,Russian,ZEN,Zendikar
+1554,1555,Spanish,ZEN,Zendikar
