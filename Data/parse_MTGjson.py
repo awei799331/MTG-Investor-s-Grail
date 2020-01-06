@@ -9,7 +9,7 @@ directory = 'MTGJSON'
 
 card_data = pd.read_csv(directory + "/" + "cards.csv")
 
-card_data = card_data[["manaCost", "convertedManaCost", "type", "text", "power", "toughness", "rarity", "uuid"]]
+card_data = card_data[["manaCost", "convertedManaCost", "type", "text", "power", "toughness", "rarity", "uuid", "setCode"]]
 
 list4df = []
 
@@ -126,10 +126,10 @@ tuple(card_types.values())
     
 
     #appending
-    list4df.append((tupleboi[8], ) + newtuple)
+    list4df.append((tupleboi[8], tupleboi[9]) + newtuple)
 
 processed_values = pd.DataFrame(list4df)
 
 processed_values.to_csv("data.csv", index=False, header=False)
-card_data[["text"]].to_csv(r'data.txt', header=None, index=None, sep=' ')
-card_data[['text']].to_csv("LSTMData.csv", index=False, columns=['text'])
+""" card_data[["text"]].to_csv(r'data.txt', header=None, index=None, sep=' ')
+card_data[['text']].to_csv("LSTMData.csv", index=False, columns=['text']) """
