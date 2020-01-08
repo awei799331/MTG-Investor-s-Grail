@@ -26,13 +26,20 @@
 
                 <nav>
                     <ul class="navbar navbar-search">
-                        <li class="navtext navtext-left" id="navLi"><a href="{% url 'index' %}">MTG Investor's Grail</a></li>
+                        <li class="navtext navtext-left"><a href="{% url 'index' %}">MTG Investor's Grail</a></li>
                         <form action="/search-card/" method="GET">
                             {{ form }}
                         </form>
-                        <li class="navtext" id="navLi"><a href="{% url 'contact' %}">Contact</a></li>
-                        <li class="navtext" id="navLi"><a href="{% url 'about' %}">About</a></li>
-                        <li class="navtext" id="navLi"><a href="{% url 'howItWorks' %}">How it Works</a></li>
+                        {% if user.is_authenticated %}
+                        <li class="navtext"><a href="{% url 'logout' %}">Log out</a></li>
+                        <li class="navtext"><a href="{% url 'profile' %}">Profile</a></li>
+                        {% else %}
+                        <li class="navtext"><a href="{% url 'register' %}">Register</a></li>
+                        <li class="navtext" id="navLi"><a href="{% url 'login' %}">Login</a></li>
+                        {% endif %}
+                        <li class="navtext"><a href="{% url 'contact' %}">Contact</a></li>
+                        <li class="navtext"><a href="{% url 'about' %}">About</a></li>
+                        <li class="navtext"><a href="{% url 'howItWorks' %}">How it Works</a></li>
                     </ul>
                 </nav>
 
@@ -56,7 +63,7 @@
                                 {{ each.name }}
                             </a>
                             <p>
-                                ${{ each.prices.usd }} USD &nbsp;&nbsp;&nbsp; ${{ each.prices.usd_foil }} USD Foil
+                                ${{ each.prices.usd }} USD <br> ${{ each.prices.usd_foil }} USD Foil
                             </p>
                         </div>
                     </div>

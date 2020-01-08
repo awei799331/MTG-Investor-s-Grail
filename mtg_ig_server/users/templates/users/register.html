@@ -1,4 +1,5 @@
 {% load static %}
+{% load crispy_forms_tags %}
 <!DOCTYPE html>
 <html>
     <head>
@@ -9,7 +10,7 @@
         <script src="{% static 'js/main.js' %}" defer></script>
 
         <link rel="stylesheet" href="{% static 'css/style.css' %}">
-        <link rel="stylesheet" href="{% static 'css/cardnotfound.css' %}">
+        <link rel="stylesheet" href="{% static 'css/register.css' %}">
         <link rel="stylesheet" href="{% static 'css/animations.css' %}">
 
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap" rel="stylesheet"> 
@@ -24,31 +25,34 @@
             <div class="content">
 
                 <nav>
-                    <ul class="navbar navbar-search">
-                        <li class="navtext navtext-left" id="navLi"><a href="{% url 'index' %}">MTG Investor's Grail</a></li>
-                        <form action="/search-card/" method="GET">
-                            {{ form }}
-                        </form>
-                        <li class="navtext" id="navLi"><a href="{% url 'contact' %}">Contact</a></li>
-                        <li class="navtext" id="navLi"><a href="{% url 'about' %}">About</a></li>
-                        <li class="navtext" id="navLi"><a href="{% url 'howItWorks' %}">How it Works</a></li>
+                    <ul class="navbar">
+                        <li class="navtext navtext-left"><a href="{% url 'index' %}">MTG Investor's Grail</a></li>
+                        {% if user.is_authenticated %}
+                        <li class="navtext"><a href="{% url 'logout' %}">Log out</a></li>
+                        <li class="navtext"><a href="{% url 'profile' %}">Profile</a></li>
+                        {% else %}
+                        <li class="navtext navtext-active"><a href="{% url 'register' %}">Register</a></li>
+                        <li class="navtext"><a href="{% url 'login' %}">Login</a></li>
+                        {% endif %}
+                        <li class="navtext"><a>Contact</a></li>
+                        <li class="navtext"><a href="{% url 'about' %}">About</a></li>
+                        <li class="navtext"><a href="{% url 'howItWorks' %}">How it Works</a></li>
                     </ul>
                 </nav>
 
                 <div class="mainContent">
-                    <div>
-                        <p class="errorText errorText-large">
-                            Error: The searched card cannot be found :(
-                        </p>
-                        <p class="errorText">
-                            This happens when the card doesn't exist or your search is too ambiguous.
-                        </p>
-                        <p class="errorText errorText-small">
-                            Try typing more of the name of the card.
-                            <br>
-                            If you don't know the card name but know some of its details, try filtering your search with 
-                            <a class="link" href="scryfall.com">Scryfall</a> or <a class="link" href="gatherer.wizards.com">Gatherer</a>.
-                        </p>
+                    <form method="POST">
+                        {% csrf_token %}
+                        <fieldset class="registerform">
+                            <legend class="registerlegend">Create an account now:</legend>
+                            {{ form|crispy }}
+                            <div>
+                                <button id="register" class="registerButton" type="submit">Register</input>
+                            </div>
+                        </fieldset>
+                    </form>
+                    <div class="bottomText">
+                        Already have an account? <a href="{% url 'index' %}"><strong>&nbsp Sign in</strong></a>
                     </div>
                 </div>
 

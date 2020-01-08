@@ -6,11 +6,10 @@
         <title>MTG Memes</title>
         <link rel="shortcut icon" type="image/ico" href="{% static 'images/favicon.ico' %}"/>
 
-        <script src="{% static 'js/index.js' %}" defer></script>
         <script src="{% static 'js/main.js' %}" defer></script>
 
         <link rel="stylesheet" href="{% static 'css/style.css' %}">
-        <link rel="stylesheet" href="{% static 'css/index.css' %}">
+        <link rel="stylesheet" href="{% static 'css/register.css' %}">
         <link rel="stylesheet" href="{% static 'css/animations.css' %}">
 
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap" rel="stylesheet"> 
@@ -26,31 +25,25 @@
 
                 <nav>
                     <ul class="navbar">
-                        <li class="navtext navtext-left navtext-active" id="navLi"><a>MTG Investor's Grail</a></li>
-                        <li class="navtext" id="navLi"><a href="{% url 'contact' %}">Contact</a></li>
-                        <li class="navtext" id="navLi"><a href="{% url 'about' %}">About</a></li>
-                        <li class="navtext" id="navLi"><a href="{% url 'howItWorks' %}">How it Works</a></li>
+                        <li class="navtext navtext-left"><a href="{% url 'index' %}">MTG Investor's Grail</a></li>
+                        {% if user.is_authenticated %}
+                        <li class="navtext navtext-active"><a href="{% url 'logout' %}">Log out</a></li>
+                        <li class="navtext"><a href="{% url 'profile' %}">Profile</a></li>
+                        {% else %}
+                        <li class="navtext"><a href="{% url 'register' %}">Register</a></li>
+                        <li class="navtext"><a href="{% url 'login' %}">Login</a></li>
+                        {% endif %}
+                        <li class="navtext"><a>Contact</a></li>
+                        <li class="navtext"><a href="{% url 'about' %}">About</a></li>
+                        <li class="navtext"><a href="{% url 'howItWorks' %}">How it Works</a></li>
                     </ul>
                 </nav>
-        
-                <div class="flex-container">
-                    <div>
-                        <h1 class="title">
-                            <strong>MTG Investor's Grail</strong>
-                            is the first
-                            <strong>machine learning</strong>
-                            based
-                            <br>
-                            <strong>Magic: The Gathering</strong>
-                            card price predictor
-                        </h1>
+
+                <div class="mainContent">
+                    <p class="logout">You have been logged out.</p>
+                    <div class="logout2">
+                        <a href="{% url 'register' %}">Log in again</a>
                     </div>
-                    <form action="/search-card/" method="GET">
-                        {{ form }}
-                        <div>
-                            <input id="search" type="submit" value="Search Card" class="searchButton"></input>
-                        </div>
-                    </form>
                 </div>
 
                 <footer class="footer">
@@ -60,8 +53,8 @@
                         <br>MTG Investor's Grail is not sponsored by, endorsed by, or affiliated with 
                         Wizards of the Coast.
                     </p>
-                    <p class="footertext">Website created by Alexander Wei</p class="footertext">
-                    <p class="footertext">Other content Copyright © 2019 MTG Investor's Grail</p class="footertext">
+                    <p class="footertext">Website created by Alexander Wei</p>
+                    <p class="footertext">Other content Copyright © 2019 MTG Investor's Grail</p>
                 </footer>
             </div>
         </div>

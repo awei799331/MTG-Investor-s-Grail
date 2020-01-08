@@ -1,0 +1,356 @@
+
+
+  var MTGGoldfishDygraph = MTGGoldfishDygraph || {}
+  MTGGoldfishDygraph.typePreference = "";
+
+  MTGGoldfishDygraph.annotationsOnline = [
+
+    {
+      series: "The Great Henge",
+      x: "2019-09-26",
+        icon: "https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif",
+        width: 21,
+        height: 23,
+        cssClass: 'graph-sprite-eld',
+      shortText: "AW",
+      text: "ELD Release on MTGO.",
+      link: "https://magic.wizards.com/en/products/throne-of-eldraine"
+    }
+    
+  ];
+
+  MTGGoldfishDygraph.annotationsPaper = [
+
+    {
+      series: "The Great Henge",
+      x: "2019-10-04",
+        icon: "https://assets1.mtggoldfish.com/assets/s-d69cbc552cfe8de4931deb191dd349a881ff4448ed3251571e0bacd0257519b1.gif",
+        width: 21,
+        height: 23,
+        cssClass: 'graph-sprite-eld',
+      shortText: "AW",
+      text: "ELD Release.",
+      link: "https://magic.wizards.com/en/products/throne-of-eldraine"
+    }
+    
+  ];
+
+
+  MTGGoldfishDygraph.bindTabs = function() {
+    $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+        if (e.target.hash == "#tab-paper") {
+            $(".price-sources-online").toggle(false);
+            $(".price-sources-paper").toggle(true);
+            
+var d = "Date,The Great Henge";
+  d += "\n2019-09-18, 11.99";
+  d += "\n2019-09-19, 11.7";
+  d += "\n2019-09-20, 11.69";
+  d += "\n2019-09-21, 11.98";
+  d += "\n2019-09-22, 11.98";
+  d += "\n2019-09-23, 12.14";
+  d += "\n2019-09-24, 11.99";
+  d += "\n2019-09-25, 11.99";
+  d += "\n2019-09-26, 11.92";
+  d += "\n2019-09-27, 12.0";
+  d += "\n2019-09-28, 12.0";
+  d += "\n2019-09-29, 12.0";
+  d += "\n2019-09-30, 11.99";
+  d += "\n2019-10-01, 11.99";
+  d += "\n2019-10-02, 12.0";
+  d += "\n2019-10-03, 11.95";
+  d += "\n2019-10-04, 11.98";
+  d += "\n2019-10-05, 12.48";
+  d += "\n2019-10-06, 12.5";
+  d += "\n2019-10-07, 12.77";
+  d += "\n2019-10-08, 12.43";
+  d += "\n2019-10-09, 12.27";
+  d += "\n2019-10-10, 12.5";
+  d += "\n2019-10-11, 12.88";
+  d += "\n2019-10-12, 12.89";
+  d += "\n2019-10-13, 13.62";
+  d += "\n2019-10-14, 13.93";
+  d += "\n2019-10-15, 13.95";
+  d += "\n2019-10-16, 14.0";
+  d += "\n2019-10-17, 13.95";
+  d += "\n2019-10-18, 13.85";
+  d += "\n2019-10-19, 13.49";
+  d += "\n2019-10-20, 13.62";
+  d += "\n2019-10-21, 13.84";
+  d += "\n2019-10-22, 13.92";
+  d += "\n2019-10-23, 13.92";
+  d += "\n2019-10-24, 13.9";
+  d += "\n2019-10-25, 13.66";
+  d += "\n2019-10-26, 13.87";
+  d += "\n2019-10-27, 13.5";
+  d += "\n2019-10-28, 13.17";
+  d += "\n2019-10-29, 13.21";
+  d += "\n2019-10-30, 13.08";
+  d += "\n2019-10-31, 13.0";
+  d += "\n2019-11-01, 13.0";
+  d += "\n2019-11-02, 12.94";
+  d += "\n2019-11-03, 12.74";
+  d += "\n2019-11-04, 12.5";
+  d += "\n2019-11-05, 12.5";
+  d += "\n2019-11-06, 12.5";
+  d += "\n2019-11-07, 12.24";
+  d += "\n2019-11-08, 12.13";
+  d += "\n2019-11-09, 12.13";
+  d += "\n2019-11-10, 12.0";
+  d += "\n2019-11-11, 11.98";
+  d += "\n2019-11-12, 11.82";
+  d += "\n2019-11-13, 11.55";
+  d += "\n2019-11-14, 11.51";
+  d += "\n2019-11-15, 11.5";
+  d += "\n2019-11-16, 11.47";
+  d += "\n2019-11-17, 11.25";
+  d += "\n2019-11-18, 11.73";
+  d += "\n2019-11-19, 11.92";
+  d += "\n2019-11-20, 11.82";
+  d += "\n2019-11-21, 11.74";
+  d += "\n2019-11-22, 11.72";
+  d += "\n2019-11-23, 11.64";
+  d += "\n2019-11-24, 11.51";
+  d += "\n2019-11-25, 11.37";
+  d += "\n2019-11-26, 11.0";
+  d += "\n2019-11-27, 11.0";
+  d += "\n2019-11-28, 11.38";
+  d += "\n2019-11-29, 11.51";
+  d += "\n2019-11-30, 11.66";
+  d += "\n2019-12-01, 11.46";
+  d += "\n2019-12-02, 11.99";
+  d += "\n2019-12-03, 12.0";
+  d += "\n2019-12-04, 12.19";
+  d += "\n2019-12-05, 12.35";
+  d += "\n2019-12-06, 12.16";
+  d += "\n2019-12-07, 12.29";
+  d += "\n2019-12-08, 12.34";
+  d += "\n2019-12-09, 12.48";
+  d += "\n2019-12-10, 12.52";
+  d += "\n2019-12-11, 12.62";
+  d += "\n2019-12-12, 12.77";
+  d += "\n2019-12-13, 12.93";
+  d += "\n2019-12-14, 12.77";
+  d += "\n2019-12-15, 12.6";
+  d += "\n2019-12-16, 12.99";
+  d += "\n2019-12-17, 13.06";
+  d += "\n2019-12-18, 13.59";
+  d += "\n2019-12-19, 13.99";
+  d += "\n2019-12-20, 14.19";
+  d += "\n2019-12-21, 14.49";
+  d += "\n2019-12-22, 14.49";
+  d += "\n2019-12-23, 14.59";
+  d += "\n2019-12-24, 14.73";
+  d += "\n2019-12-25, 14.6";
+  d += "\n2019-12-26, 14.97";
+  d += "\n2019-12-27, 15.27";
+  d += "\n2019-12-28, 15.74";
+  d += "\n2019-12-29, 15.65";
+  d += "\n2019-12-30, 15.99";
+  d += "\n2019-12-31, 16.14";
+  d += "\n2020-01-01, 16.03";
+  d += "\n2020-01-02, 15.99";
+  d += "\n2020-01-03, 16.22";
+  d += "\n2020-01-04, 16.26";
+  d += "\n2020-01-05, 16.24";
+  d += "\n2020-01-06, 16.24";
+g = new Dygraph(
+  // containing div
+  document.getElementById("graphdiv-paper"),
+  //data,
+  d,
+  {
+      colors: ['#0066dd'],
+    // fillGraph: true,
+    axisLineColor: 'rgb(150, 150, 150)',
+    strokeWidth: 1,
+    includeZero : true,
+    gridLineColor: 'rgb(230, 230, 240)',
+    axisLabelFontSize: 10,
+    showRangeSelector: true,
+    labelsDiv: 'legend-paper',
+
+    labelsDivStyles: { 'font-weight' : 'normal', 'font-size' : 6, 'textAlign': 'right', 'backgroundColor' : 'transparent' },
+
+      rangeSelectorPlotStrokeColor: '#0066dd',
+      rangeSelectorPlotFillColor: '#edf7ff',
+
+    underlayCallback: function(canvas, area, g) {
+
+      img = new Image();
+      img.src ="https://assets1.mtggoldfish.com/assets/watermark-3d2ae1a6745ce7ba3412022ad06e3b496192545beb33a5da5d7f42ca475f1577.png";
+      // watermark is 92 x 11
+      canvas.drawImage(img, canvas.canvas.width - 100, canvas.canvas.height - 85);
+    },
+    connectSeparatedPoints: true,
+    yAxisLabelWidth: 20,
+    axes: {
+      y: {
+        valueFormatter: function(y) {
+          return y.toFixed(1);
+        }
+      }
+    }
+  }
+);
+
+
+            MTGGoldfishDygraph.renderAnnotations("paper");
+            MTGGoldfishDygraph.bindGraphHandlers("paper");
+        } else if (e.target.hash == "#tab-online") {
+            $(".price-sources-online").toggle(true);
+            $(".price-sources-paper").toggle(false);
+            
+var d = "Date,The Great Henge";
+  d += "\n2019-09-25, 2.0";
+  d += "\n2019-09-26, 6.72";
+  d += "\n2019-09-27, 4.77";
+  d += "\n2019-09-28, 6.54";
+  d += "\n2019-09-29, 4.95";
+  d += "\n2019-09-30, 3.33";
+  d += "\n2019-10-01, 3.39";
+  d += "\n2019-10-02, 4.83";
+  d += "\n2019-10-03, 5.07";
+  d += "\n2019-10-04, 6.09";
+  d += "\n2019-10-05, 5.98";
+  d += "\n2019-10-06, 5.36";
+  d += "\n2019-10-07, 3.84";
+  d += "\n2019-10-08, 4.08";
+  d += "\n2019-10-09, 3.22";
+  d += "\n2019-10-10, 3.01";
+  d += "\n2019-10-11, 2.93";
+  d += "\n2019-10-12, 3.1";
+  d += "\n2019-10-13, 2.95";
+  d += "\n2019-10-14, 2.99";
+  d += "\n2019-10-15, 3.07";
+  d += "\n2019-10-16, 3.1";
+  d += "\n2019-10-17, 3.22";
+  d += "\n2019-10-18, 3.22";
+  d += "\n2019-10-19, 3.14";
+  d += "\n2019-10-20, 3.12";
+  d += "\n2019-10-21, 2.73";
+  d += "\n2019-10-22, 2.36";
+  d += "\n2019-10-23, 2.18";
+  d += "\n2019-10-24, 2.01";
+  d += "\n2019-10-25, 1.71";
+  d += "\n2019-10-26, 1.41";
+  d += "\n2019-10-27, 1.27";
+  d += "\n2019-10-28, 1.3";
+  d += "\n2019-10-29, 1.39";
+  d += "\n2019-10-30, 1.4";
+  d += "\n2019-10-31, 1.45";
+  d += "\n2019-11-01, 1.37";
+  d += "\n2019-11-02, 1.66";
+  d += "\n2019-11-03, 1.59";
+  d += "\n2019-11-04, 1.57";
+  d += "\n2019-11-05, 1.6";
+  d += "\n2019-11-06, 1.69";
+  d += "\n2019-11-07, 1.99";
+  d += "\n2019-11-08, 2.28";
+  d += "\n2019-11-09, 2.32";
+  d += "\n2019-11-10, 2.22";
+  d += "\n2019-11-11, 2.29";
+  d += "\n2019-11-12, 2.26";
+  d += "\n2019-11-13, 2.14";
+  d += "\n2019-11-14, 1.96";
+  d += "\n2019-11-15, 2.0";
+  d += "\n2019-11-16, 2.07";
+  d += "\n2019-11-17, 2.18";
+  d += "\n2019-11-18, 3.45";
+  d += "\n2019-11-19, 3.03";
+  d += "\n2019-11-20, 3.41";
+  d += "\n2019-11-21, 2.96";
+  d += "\n2019-11-22, 2.83";
+  d += "\n2019-11-23, 2.39";
+  d += "\n2019-11-24, 2.46";
+  d += "\n2019-11-25, 2.35";
+  d += "\n2019-11-26, 2.27";
+  d += "\n2019-11-27, 2.11";
+  d += "\n2019-11-28, 1.86";
+  d += "\n2019-11-29, 1.86";
+  d += "\n2019-11-30, 1.48";
+  d += "\n2019-12-01, 1.34";
+  d += "\n2019-12-02, 1.23";
+  d += "\n2019-12-03, 1.24";
+  d += "\n2019-12-04, 1.25";
+  d += "\n2019-12-05, 1.26";
+  d += "\n2019-12-06, 1.32";
+  d += "\n2019-12-07, 1.43";
+  d += "\n2019-12-08, 1.72";
+  d += "\n2019-12-09, 1.88";
+  d += "\n2019-12-10, 3.08";
+  d += "\n2019-12-11, 3.57";
+  d += "\n2019-12-12, 4.16";
+  d += "\n2019-12-13, 4.3";
+  d += "\n2019-12-14, 3.7";
+  d += "\n2019-12-15, 4.35";
+  d += "\n2019-12-16, 3.9";
+  d += "\n2019-12-17, 4.19";
+  d += "\n2019-12-18, 4.39";
+  d += "\n2019-12-19, 4.46";
+  d += "\n2019-12-20, 4.46";
+  d += "\n2019-12-21, 4.3";
+  d += "\n2019-12-22, 4.0";
+  d += "\n2019-12-23, 3.64";
+  d += "\n2019-12-24, 3.31";
+  d += "\n2019-12-25, 3.12";
+  d += "\n2019-12-26, 3.2";
+  d += "\n2019-12-27, 3.03";
+  d += "\n2019-12-28, 2.85";
+  d += "\n2019-12-29, 2.83";
+  d += "\n2019-12-30, 2.89";
+  d += "\n2019-12-31, 2.87";
+  d += "\n2020-01-01, 2.99";
+  d += "\n2020-01-02, 3.26";
+  d += "\n2020-01-03, 3.58";
+  d += "\n2020-01-04, 3.85";
+  d += "\n2020-01-05, 4.02";
+  d += "\n2020-01-06, 4.0";
+g = new Dygraph(
+  // containing div
+  document.getElementById("graphdiv-online"),
+  //data,
+  d,
+  {
+      colors: ['#C3593C', '#2A617B', '#2B8B55', '#C3843C'],
+    // fillGraph: true,
+    axisLineColor: 'rgb(150, 150, 150)',
+    strokeWidth: 1,
+    includeZero : true,
+    gridLineColor: 'rgb(230, 230, 240)',
+    axisLabelFontSize: 10,
+    showRangeSelector: true,
+    labelsDiv: 'legend-online',
+
+    labelsDivStyles: { 'font-weight' : 'normal', 'font-size' : 6, 'textAlign': 'right', 'backgroundColor' : 'transparent' },
+
+      rangeSelectorPlotStrokeColor: '#C3593C',
+      rangeSelectorPlotFillColor: '#F6E6E1',
+
+    underlayCallback: function(canvas, area, g) {
+
+      img = new Image();
+      img.src ="https://assets1.mtggoldfish.com/assets/watermark-3d2ae1a6745ce7ba3412022ad06e3b496192545beb33a5da5d7f42ca475f1577.png";
+      // watermark is 92 x 11
+      canvas.drawImage(img, canvas.canvas.width - 100, canvas.canvas.height - 85);
+    },
+    connectSeparatedPoints: true,
+    yAxisLabelWidth: 20,
+    axes: {
+      y: {
+        valueFormatter: function(y) {
+          return y.toFixed(1);
+        }
+      }
+    }
+  }
+);
+
+
+            MTGGoldfishDygraph.renderAnnotations("online");
+            MTGGoldfishDygraph.bindGraphHandlers("online");
+        }
+    }); 
+  }
+
+

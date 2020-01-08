@@ -15,19 +15,19 @@ def index(request):
     else:
         form = searchCardForm()
     
-    return render(request, 'index.html', {'form': form})
+    return render(request, 'application/index.html', {'form': form})
 
 
 def howItWorks(request):
-    return render(request, 'how-it-works.html')
+    return render(request, 'application/how-it-works.html')
 
 
 def about(request):
-    return render(request, 'about.html')
+    return render(request, 'application/about.html')
 
 
 def contact(request):
-    return render(request, 'contact.html')
+    return render(request, 'application/contact.html')
 
 
 def cardNotFound(request):
@@ -37,7 +37,7 @@ def cardNotFound(request):
             return HttpResponseRedirect('/search-card/')
     else:
         form = searchCardNavForm()
-    return render(request, 'card-not-found.html', {'form': form})
+    return render(request, 'application/card-not-found.html', {'form': form})
 
 
 def searchCard(request):
@@ -58,23 +58,23 @@ def searchCard(request):
                 else:
                     return HttpResponseRedirect('/card-not-found/')
             elif rJSON['total_cards'] == 1:
-                return render(request, 'search-card.html', {'form': form, 'card': rJSON['data'][0]})
+                return render(request, 'application/search-card.html', {'form': form, 'card': rJSON['data'][0]})
             else:
                 card_list_length = min(20, rJSON['total_cards'])
-                return render(request, 'multi-search.html', {'form': form, 'n': card_list_length, 'total_cards': rJSON['total_cards'], 'cards': rJSON['data'][0:card_list_length]})
+                return render(request, 'application/multi-search.html', {'form': form, 'n': card_list_length, 'total_cards': rJSON['total_cards'], 'cards': rJSON['data'][0:card_list_length]})
     else:
-        form = searchCardForm()
+        form = searchCardNavForm()
     
         if rJSON['object'] == 'error':
             if r2JSON['object'] == 'card':
-                return render(request, 'search-card.html', {'form': form, 'card': r2JSON})
+                return render(request, 'application/search-card.html', {'form': form, 'card': r2JSON})
             else:
                 return HttpResponseRedirect('/card-not-found/')
         elif rJSON['total_cards'] == 1:
-            return render(request, 'search-card.html', {'form': form, 'card': rJSON['data'][0]})
+            return render(request, 'application/search-card.html', {'form': form, 'card': rJSON['data'][0]})
         else:
             card_list_length = min(20, rJSON['total_cards'])
-            return render(request, 'multi-search.html', {'form': form, 'n': card_list_length, 'total_cards': rJSON['total_cards'], 'cards': rJSON['data'][0:card_list_length]})
+            return render(request, 'application/multi-search.html', {'form': form, 'n': card_list_length, 'total_cards': rJSON['total_cards'], 'cards': rJSON['data'][0:card_list_length]})
 
 
 def multiSearch(request):
@@ -91,24 +91,24 @@ def multiSearch(request):
         if form.is_valid():
             if rJSON['object'] == 'error':
                 if r2JSON['object'] == 'card':
-                    return render(request, 'search-card.html', {'form': form, 'card': r2JSON})
+                    return render(request, 'application/search-card.html', {'form': form, 'card': r2JSON})
                 else:
                     return HttpResponseRedirect('/card-not-found/')
             elif rJSON['total_cards'] == 1:
-                return render(request, 'search-card.html', {'form': form, 'card': rJSON['data'][0]})
+                return render(request, 'application/search-card.html', {'form': form, 'card': rJSON['data'][0]})
             else:
                 card_list_length = min(20, rJSON['total_cards'])
-                return render(request, 'multi-search.html', {'form': form, 'n': card_list_length, 'total_cards': rJSON['total_cards'], 'cards': rJSON['data'][0:card_list_length]})
+                return render(request, 'application/multi-search.html', {'form': form, 'n': card_list_length, 'total_cards': rJSON['total_cards'], 'cards': rJSON['data'][0:card_list_length]})
     else:
-        form = searchCardForm()
+        form = searchCardNavForm()
     
     if rJSON['object'] == 'error':
         if r2JSON['object'] == 'card':
-            return render(request, 'search-card.html', {'form': form, 'card': r2JSON})
+            return render(request, 'application/search-card.html', {'form': form, 'card': r2JSON})
         else:
             return HttpResponseRedirect('/card-not-found/')
     elif rJSON['total_cards'] == 1:
-        return render(request, 'search-card.html', {'form': form, 'card': rJSON['data'][0]})
+        return render(request, 'application/search-card.html', {'form': form, 'card': rJSON['data'][0]})
     else:
         card_list_length = min(20, rJSON['total_cards'])
-        return render(request, 'multi-search.html', {'form': form, 'n': card_list_length, 'total_cards': rJSON['total_cards'], 'cards': rJSON['data'][0:card_list_length]})
+        return render(request, 'application/multi-search.html', {'form': form, 'n': card_list_length, 'total_cards': rJSON['total_cards'], 'cards': rJSON['data'][0:card_list_length]})
