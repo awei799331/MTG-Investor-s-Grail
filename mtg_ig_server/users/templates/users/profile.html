@@ -41,6 +41,16 @@
 
                 <div class="mainContent">
                     <h1>Welcome {{ user.username }}</h1>
+                    <h2>View saved cards below:</h2>
+                    <div>
+                        <a class="savedCard" href="/search-card/?cardName={{ user.profile.card1 }}">{{ user.profile.card1 }}</a>
+                    </div>
+                    <div>
+                        <a class="savedCard" href="/search-card/?cardName={{ user.profile.card2 }}">{{ user.profile.card2 }}</a>
+                    </div>
+                    <div>
+                        <a class="savedCard" href="/search-card/?cardName={{ user.profile.card3 }}">{{ user.profile.card3 }}</a>
+                    </div>
                 </div>
 
                 <footer class="footer">
@@ -54,6 +64,7 @@
                     <p class="footertext">Other content Copyright © 2019 MTG Investor's Grail</p class="footertext">
                 </footer>
             </div>
+        </div>
         </div>
     </body>
 </html>

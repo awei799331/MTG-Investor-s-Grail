@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse, HttpResponseRedirect
 from django.urls import reverse
 from .forms import searchCardForm, searchCardNavForm
+from users.models import Profile
 import requests
 import time
 
@@ -112,3 +113,7 @@ def multiSearch(request):
     else:
         card_list_length = min(20, rJSON['total_cards'])
         return render(request, 'application/multi-search.html', {'form': form, 'n': card_list_length, 'total_cards': rJSON['total_cards'], 'cards': rJSON['data'][0:card_list_length]})
+
+def bookmark_card(user, card):
+    if user.Profile.card1 == "":
+        user.Profile.card1 = card

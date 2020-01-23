@@ -41,6 +41,15 @@
                 </nav>
 
                 <div class="mainContent">
+
+                    {% if messages %}
+                        <div class="messageBox">
+                            {% for message in messages %}
+                                <div class="messageText">{{ message }}</div>
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+                    <br>
                     <form method="POST">
                         {% csrf_token %}
                         <fieldset class="registerform">

@@ -23,6 +23,20 @@
     flex-direction: column;
 }
 
+.bookmarkButton {
+    font-size: 1em;
+    font-weight: 400;
+    font-family: "Source Sans Pro", sans-serif;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    margin: 1em auto 0 auto;
+    padding: 2px 6px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 3px;
+}
+
 .aboutImage {
     grid-column: 1;
     grid-row: 1 / 7;
