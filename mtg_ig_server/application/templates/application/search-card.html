@@ -60,6 +60,11 @@
                     <div class="aboutTextBox">
                         <p class="cardtext cardtext-name">{{ card.name }} — {{ card.mana_cost }}</p>
 
+                        <form method="POST">
+                            <button class="bookmarkButton" action="#" name="save">Save Card</button>
+                        </form>
+
+
                         <p class="cardtext cardtext-typeline"> {{ card.type_line }}</p>
                         <p class="cardtext cardtext-oracletext">{{ card.oracle_text|linebreaksbr }}</p>
                         <div>

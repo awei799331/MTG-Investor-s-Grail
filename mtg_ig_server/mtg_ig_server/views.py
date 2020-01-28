@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse, HttpResponseRedirect
 from django.urls import reverse
+from django.contrib.auth.models import User
 from .forms import searchCardForm, searchCardNavForm
 from users.models import Profile
 import requests
@@ -40,6 +41,10 @@ def cardNotFound(request):
         form = searchCardNavForm()
     return render(request, 'application/card-not-found.html', {'form': form})
 
+def save_card(request):
+    a = request.user.profile
+    if request.user.is_authenticated():
+        a.savedCards["cards"].append([{ card.name }, { card.image_uris.border_crop }])
 
 def searchCard(request):
     fuzzyName = request.GET.get('cardName', '')
@@ -113,7 +118,3 @@ def multiSearch(request):
     else:
         card_list_length = min(20, rJSON['total_cards'])
         return render(request, 'application/multi-search.html', {'form': form, 'n': card_list_length, 'total_cards': rJSON['total_cards'], 'cards': rJSON['data'][0:card_list_length]})
-
-def bookmark_card(user, card):
-    if user.Profile.card1 == "":
-        user.Profile.card1 = card

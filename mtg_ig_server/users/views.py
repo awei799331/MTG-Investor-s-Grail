@@ -17,5 +17,7 @@ def register(request):
 
 @login_required
 def profile(request):
-    
+    # a = request.user.profile
+    # a.savedCards["cards"].append("Cultivate")
+    # a.save()
     return render(request, 'users/profile.html')

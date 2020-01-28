@@ -1,12 +1,11 @@
 from django.db import models
 from django.contrib.auth.models import User
+from django.contrib.postgres.fields import JSONField
 
 # Create your models here.
 class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
-    card1 = models.CharField(max_length=200, blank=True)
-    card2 = models.CharField(max_length=200, blank=True)
-    card3 = models.CharField(max_length=200, blank=True)
+    savedCards = JSONField(default={"cards":[]})
 
     def __str__(self):
         return f"{self.user.username}"
