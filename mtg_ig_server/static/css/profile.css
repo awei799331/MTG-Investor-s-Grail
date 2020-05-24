@@ -1,12 +1,60 @@
-.mainContent {
-    width: 60vw;
-    margin: 10% auto;
-    padding: 3% 5%;
-    background-color: rgba(0, 0, 0, 0.5);
+.headerContent {
+    width: 80vw;
+    overflow: hidden;
+    margin: 5vh auto;
+    padding: 0;
     color: white;
 }
 
+.mainContent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 80vw;
+    align-items: stretch;
+    justify-content: center;
+    overflow: hidden;
+    margin: 5vh auto;
+    padding: 0;
+}
+
 .savedCard {
+    text-decoration: none;
+    color: white;
+}
+
+.topTextBox {
+    width: 100%;
+}
+
+.topText {
+    font-size: 28px;
+    color: white;
+}
+
+.cardBox {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 45%;
+    margin: 20px 2.5%;
+    display: flex;
+    flex-direction: row;
+}
+
+.cardImage {
+    height: 170px;
+    width: 120px;
+    margin: 10px 30px;
+    flex-shrink: 0;
+}
+
+.nameText {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 10px 30px;
+}
+
+a {
     text-decoration: none;
     color: white;
 }

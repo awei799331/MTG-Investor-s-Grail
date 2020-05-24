@@ -60,9 +60,21 @@
                     <div class="aboutTextBox">
                         <p class="cardtext cardtext-name">{{ card.name }} — {{ card.mana_cost }}</p>
 
+                        {% if user.is_authenticated %}
                         <form method="POST">
-                            <button class="bookmarkButton" action="#" name="save">Save Card</button>
+                            {{ form1 }}
+                            {% csrf_token %}
+                            <button class="saveButton" action="" name="save">Save Card</button>
                         </form>
+                        {% endif %}
+
+                        {% if user.is_authenticated %}
+                        <form method="POST">
+                            {{ form2 }}
+                            {% csrf_token %}
+                            <button class="saveButton" action="" name="save">Delete Saved Card</button>
+                        </form>
+                        {% endif %}
 
 
                         <p class="cardtext cardtext-typeline"> {{ card.type_line }}</p>

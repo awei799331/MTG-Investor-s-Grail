@@ -23,7 +23,8 @@
     flex-direction: column;
 }
 
-.bookmarkButton {
+.saveButton {
+    display: inline;
     font-size: 1em;
     font-weight: 400;
     font-family: "Source Sans Pro", sans-serif;

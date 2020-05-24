@@ -39,13 +39,18 @@
                     </ul>
                 </nav>
 
-                <div class="mainContent">
+                <div class="headerContent">
                     <h1>Welcome {{ user.username }}</h1>
                     <h2>View saved cards below:</h2>
+                </div>
+
+                <div class="mainContent">
                     {% for each in user.profile.savedCards.cards %}
-                    <div>
-                        
-                        <a class="savedCard" target="_blank" href="/search-card/?cardName={{ each.0 }}">{{ each.0 }}</a>
+                    <div class="cardBox">
+                        <img class="cardImage" href="/search-card/?cardName={{ each.0 }}" src="{{ each.1 }}">
+                        <div class="nameText">
+                            <a class="savedCard" target="_blank" href="/search-card/?cardName={{ each.0 }}">{{ each.0 }}</a>
+                        </div>
                     </div>
                     {% endfor %}
                 </div>

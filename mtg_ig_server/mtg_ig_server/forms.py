@@ -15,6 +15,11 @@ class searchCardNavForm(forms.Form):
     widget = forms.TextInput(attrs={'autocomplete': 'off',
     'maxlength': '200',
     'spellcheck': 'false',
-    'id': 'getCard',
     'class' : 'navSearch',
     }))
+
+class saveCardForm(forms.Form):
+    pass
+
+class deleteCardForm(forms.Form):
+    pass
