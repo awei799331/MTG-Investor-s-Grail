@@ -1,0 +1,12 @@
+.mainContent {
+    width: 60vw;
+    margin: 10% auto;
+    padding: 3% 5%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.savedCard {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,87 @@
+.mainContent {
+    width: 60vw;
+    margin: 10% auto;
+    padding: 3% 5%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.registerform {
+    padding: 10px;
+    color: white;
+    font-family: "Source Sans Pro", sans-serif;
+    border-left: transparent;
+    border-right: transparent;
+}
+
+.registerform p {
+    font-size: 1em;
+}
+
+.registerform li {
+    font-size: 0.8em;
+}
+
+.registerform input {
+    color: white;
+    background-color: transparent;
+    border: transparent;
+    border-bottom: #666666;
+    border-style: solid;
+}
+
+.registerform input:focus {
+    transition: 0.5s border;
+    color: white;
+    background-color: transparent;
+    border: transparent;
+    border-bottom: white;
+    border-style: solid;
+}
+
+.registerlegend {
+    margin-left: 15%;
+    border: white;
+    border-style: solid;
+    border-width: 2px;
+    color: white;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.5em;
+    padding: 3px 20px;
+}
+
+.registerButton {
+    font-size: 1em;
+    font-weight: 400;
+    font-family: "Source Sans Pro", sans-serif;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    margin: 1em auto 0 auto;
+    padding: 2px 6px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.bottomText {
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 15px;
+    font-size: 0.8em;
+}
+
+.bottomText a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.logout {
+    color: white;
+    font-size: 3em;
+}
+
+.logout2 a {
+    font-size: 1.2em;
+    color: white;
+    text-decoration: underline;
+    color: rgba(255, 255, 255, 0.8);
+}

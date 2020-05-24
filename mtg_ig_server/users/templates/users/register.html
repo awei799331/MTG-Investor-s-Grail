@@ -1,0 +1,72 @@
+{% load static %}
+{% load crispy_forms_tags %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>MTG Memes</title>
+        <link rel="shortcut icon" type="image/ico" href="{% static 'images/favicon.ico' %}"/>
+
+        <script src="{% static 'js/main.js' %}" defer></script>
+
+        <link rel="stylesheet" href="{% static 'css/style.css' %}">
+        <link rel="stylesheet" href="{% static 'css/register.css' %}">
+        <link rel="stylesheet" href="{% static 'css/animations.css' %}">
+
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Roboto:500&display=swap" rel="stylesheet"> 
+    </head>
+    <body>
+        <div class="wrapper">
+
+            <div id="background" class="background">
+            </div>
+
+            <div class="content">
+
+                <nav>
+                    <ul class="navbar">
+                        <li class="navtext navtext-left"><a href="{% url 'index' %}">MTG Investor's Grail</a></li>
+                        {% if user.is_authenticated %}
+                        <li class="navtext"><a href="{% url 'logout' %}">Log out</a></li>
+                        <li class="navtext"><a href="{% url 'profile' %}">Profile</a></li>
+                        {% else %}
+                        <li class="navtext navtext-active"><a href="{% url 'register' %}">Register</a></li>
+                        <li class="navtext"><a href="{% url 'login' %}">Login</a></li>
+                        {% endif %}
+                        <li class="navtext"><a>Contact</a></li>
+                        <li class="navtext"><a href="{% url 'about' %}">About</a></li>
+                        <li class="navtext"><a href="{% url 'howItWorks' %}">How it Works</a></li>
+                    </ul>
+                </nav>
+
+                <div class="mainContent">
+                    <form method="POST">
+                        {% csrf_token %}
+                        <fieldset class="registerform">
+                            <legend class="registerlegend">Create an account now:</legend>
+                            {{ form|crispy }}
+                            <div>
+                                <button id="register" class="registerButton" type="submit">Register</input>
+                            </div>
+                        </fieldset>
+                    </form>
+                    <div class="bottomText">
+                        Already have an account? <a href="{% url 'index' %}"><strong>&nbsp Sign in</strong></a>
+                    </div>
+                </div>
+
+                <footer class="footer">
+                    <p class="footertext">Parts of MTG Investor's Grail are unofficial fan content permitted under the Wizards of the Coast Fan Content Policy. 
+                        <br>The literal and graphical content shown on this website about Magic: The Gathering, including card images, oracle text, etc. is
+                        copyright Wizards of the Coast, LLC, a subsidiary of Hasbro, Inc. 
+                        <br>MTG Investor's Grail is not sponsored by, endorsed by, or affiliated with 
+                        Wizards of the Coast.
+                    </p>
+                    <p class="footertext">Website created by Alexander Wei</p>
+                    <p class="footertext">Other content Copyright © 2019 MTG Investor's Grail</p>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>
