@@ -18,7 +18,7 @@ class MTGJson(Dataset):
 
         self.card_data_full = pd.read_csv(datadir)
 
-        self.create_vecs(fields, mapped_funcs, to_csv, csv_filename)
+        self._create_vecs(fields, mapped_funcs, to_csv, csv_filename)
         
         if utildicts_path:
             if save_dicts:
@@ -31,10 +31,15 @@ class MTGJson(Dataset):
             self.utildicts = UtilDicts(self.card_data_full)
             self.utildicts.create_dictionaries(save_dicts, utildicts_path)
 
-    def create_vecs(self, fields, mapped_funcs, to_csv, csv_filename):
+        # definitions for class attributes that may or may not be used for each instance of the class
+
+        self.prices = None
+
+    def _create_vecs(self, fields, mapped_funcs, to_csv, csv_filename):
         self.card_data = self.card_data_full[fields]
 
         list4df = []
+        uuids = self.card_data_full[["uuid"]]
 
         for rowtuple in self.card_data.itertuples():
 
@@ -43,14 +48,15 @@ class MTGJson(Dataset):
             for i in range(0, len(rowtuple) - 1):
                 output += mapped_funcs[i](rowtuple[i+1])
             list4df.append(output)
-
-        processed_values = pd.DataFrame(list4df)
-        #TESTER
-        processed_values.head()
+        
+        processed_values = pd.DataFrame(list4df, index=uuids)
 
         self.card_data = processed_values
         if to_csv:
             processed_values.to_csv(csv_filename, index=False, header=False)
+        
+    def load_prices(self, filename):
+        pass
 
     def __len__(self):  
         return len(self.card_data)
@@ -60,7 +66,7 @@ class MTGJson(Dataset):
             idx = idx.tolist()
 
         if self.mode == "vecs":
-            sample = {"uuid": self.card_data.iloc[idx, 0], "vec": torch.tensor(self.card_data.iloc[idx, 1:].to_numpy(dtype=np.float32))}
+            sample = {"uuid": self.card_data.index[idx], "vec": torch.tensor(self.card_data.iloc[idx, :].to_numpy(dtype=np.float32))}
 
         return sample
 
