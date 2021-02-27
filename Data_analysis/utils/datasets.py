@@ -9,10 +9,30 @@ import datetime
 import pickle
 from . import parse_csv
 
-class MTGJson(Dataset):
-    '''dataset for MTG json'''
 
-    def __init__(self, datadir, fields, mapped_funcs, mode="vecs", to_csv=False, csv_filename="", save_dicts=False, utildicts_path=""):
+class MTGJson(Dataset):
+    '''dataset for MTGjson.com, a mixture of csv inputs and json inputs, 
+        all stored in the data folder,
+
+        Currently, file tree looks like:
+            data
+                AllPrices.json
+                AllPrintings.json
+                cards.csv
+                sets.csv
+
+        Inputs:
+            datadir: path to cards.csv, e.g. "data/cards.csv"
+            fields: list of fields to search for, column headers in cards.csv
+            mapped_funcs: list of functions that are applied to each element of columns in fields
+            mode: default "vecs", mode of operation
+            to_csv: default False, whether to save the processed data in a csv
+            csv_filename: default "data.csv", filename and path for csv
+            save_dicts: default False, saving utility dictionaries
+            utildicts_path: path to a pickled UtilDicts object
+    '''
+
+    def __init__(self, datadir, fields, mapped_funcs, mode="vecs", to_csv=False, csv_filename="data.csv", save_dicts=False, utildicts_path=""):
         
         self.mode = mode
 
@@ -20,6 +40,7 @@ class MTGJson(Dataset):
 
         self._create_vecs(fields, mapped_funcs, to_csv, csv_filename)
         
+        # logic for setting utildicts
         if utildicts_path:
             if save_dicts:
                 self.utildicts = UtilDicts(self.card_data_full)
@@ -32,15 +53,29 @@ class MTGJson(Dataset):
             self.utildicts.create_dictionaries(save_dicts, utildicts_path)
 
         # definitions for class attributes that may or may not be used for each instance of the class
+        # depends on mode
 
         self.prices = None
 
     def _create_vecs(self, fields, mapped_funcs, to_csv, csv_filename):
-        self.card_data = self.card_data_full[fields]
+        '''
+        creates a dataframe of vectors, with uuid as the index
+
+        Inputs:
+            fields: list of fields to search for, column headers in cards.csv
+            mapped_funcs: list of functions that are applied to each element of columns in fields
+            to_csv: default False, whether to save the processed data in a csv
+            csv_filename: default "data.csv", filename and path for csv
+        Outputs:
+            None
+            Saves self.card_data with vector info
+        '''
+        self.card_data = self.card_data_full[fields] # getting only fields
 
         list4df = []
-        uuids = self.card_data_full[["uuid"]]
+        uuids = self.card_data_full[["uuid"]] #isolating uuid
 
+        # mapping functions to each item in dataframe
         for rowtuple in self.card_data.itertuples():
 
             #1st index is index
@@ -52,6 +87,7 @@ class MTGJson(Dataset):
         processed_values = pd.DataFrame(list4df, index=uuids)
 
         self.card_data = processed_values
+        # saving to csv
         if to_csv:
             processed_values.to_csv(csv_filename, index=False, header=False)
         
@@ -70,11 +106,28 @@ class MTGJson(Dataset):
 
         return sample
 
+
 class UtilDicts():
+    '''
+    an object to store utility dictionaries for internal usage
+    Inputs:
+        card_data_full: a dataframe of cards.csv
+    '''
     def __init__(self, card_data_full):
         self.card_data_full = card_data_full
+
+        # potential dictionaries
+        # TODO describe dictionaries
+        self.uuid2cardName = None
+        self.uuid2scryfallId = None
+        self.uuid2set = None
+        self.set_data = None
+        self.set2date = None
+        self.uuid2date = None
     
     def create_dictionaries(self, save_dicts=False, save_path="utildicts.p"):
+
+
         #creating uuid 2 card name dictionary
         self.uuid2cardName = {vec[1]: vec[2] for vec in self.card_data_full[["uuid", "name"]].itertuples()}
         #creating uuid 2 scryfall id dictionary
