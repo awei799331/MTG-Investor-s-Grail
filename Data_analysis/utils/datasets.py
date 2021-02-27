@@ -8,6 +8,7 @@ import json
 import datetime
 import pickle
 from . import parse_csv
+from . import parse_json
 
 
 class MTGJson(Dataset):
@@ -91,8 +92,9 @@ class MTGJson(Dataset):
         if to_csv:
             processed_values.to_csv(csv_filename, index=False, header=False)
         
-    def load_prices(self, filename):
-        pass
+    def load_prices(self, filename, platform="paper", site="tcgplayer", buylist="retail", foil="normal"):
+        with open("data\AllPrices.json") as f:
+            self.card_prices = parse_json.parse_price(json.load(f), platform, site, buylist, foil)
 
     def __len__(self):  
         return len(self.card_data)
