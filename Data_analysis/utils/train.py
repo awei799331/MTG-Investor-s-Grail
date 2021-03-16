@@ -17,7 +17,7 @@ def format_time(elapsed):
 def train(model, dataloader, epochs=1, loss_fn=None, optimizer=None, lr=0.0001, callbacks=[], device=None, callback_args={}):
     # define default loss functions and optimizer
     if loss_fn is None:
-        loss_fn = nn.CrossEntropyLoss() #x is (batch_size, classes), targets are integers that correspond to the index of class (batch_size,)
+        loss_fn = nn.MSELoss() #x is (batch_size, classes), targets are integers that correspond to the index of class (batch_size,)
     if optimizer is None:
         optimizer = optim.Adam(model.parameters(), lr=lr)
 
@@ -43,7 +43,7 @@ def train(model, dataloader, epochs=1, loss_fn=None, optimizer=None, lr=0.0001, 
         
         # training model
         for i, data in enumerate(dataloader):
-            inputs, label = data["image"].to(device), data["label"].to(device)
+            inputs, label = data["vec"].to(device), data["price"].to(device)
 
             optimizer.zero_grad()
 
