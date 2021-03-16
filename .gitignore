@@ -7,3 +7,5 @@ Data_analysis/data
 *.h5
 .vs
 .vscode
+__pycache__/
+.pyc
