@@ -1,7 +1,8 @@
 # functions to operate on standard outdict
 import pandas as pd
+import datetime
 
-def filter_dict_(currency="USD", price_avg_floor=1.0):
+def filter_dict(currency="USD", price_avg_floor=1.0):
     '''returns a function that filters the original dictionary'''
     def tmp(inp):
         output_dict = {}
@@ -37,4 +38,11 @@ def dfify(inp):
     for uuid, values in inp.items():
         data.extend([[uuid, price, date] for date, price in values["prices"]])
     
-    return pd.DataFrame(data, column=columns)
+    return pd.DataFrame(data, columns=columns)
+
+def poopy_encoding(inp):
+    ''' really poopy encoding of time xd, days since MTG was released: August 5, 1993'''
+    d0 = datetime.date(1993, 8, 5)
+    inp["date"] = inp["date"].map(lambda out: (out.date()-d0).days)
+
+    return inp
