@@ -33,13 +33,32 @@ class MTGJson(Dataset):
             utildicts_path: path to a pickled UtilDicts object
     '''
 
-    def __init__(self, datadir, fields, mapped_funcs, mode="vecs", to_csv=False, csv_filename="data.csv", save_dicts=False, utildicts_path=""):
+    def __init__(self, 
+                datadir, 
+                fields, 
+                mapped_funcs,
+                mode="vecs", 
+                to_csv=False, 
+                csv_filename="data.csv", 
+                save_dicts=False, 
+                utildicts_path="",
+                # price input arguments
+                price_transforms=[], 
+                price_filename="data\AllPrices.json", 
+                platform="paper", 
+                site="tcgplayer", 
+                buylist="retail", 
+                foil="normal"):
         
         self.mode = mode
 
         self.card_data_full = pd.read_csv(datadir)
-
-        self._create_vecs(fields, mapped_funcs, to_csv, csv_filename)
+        
+        if self.mode == "vecs":
+            self._create_vecs(fields, mapped_funcs, to_csv, csv_filename)
+        if self.mode == "prices":
+            self._create_price_vecs(fields, mapped_funcs, price_transforms, to_csv, 
+                csv_filename, price_filename, platform, site, buylist, foil)
         
         # logic for setting utildicts
         if utildicts_path:
@@ -56,7 +75,7 @@ class MTGJson(Dataset):
         # definitions for class attributes that may or may not be used for each instance of the class
         # depends on mode
 
-        self.prices = None
+        self.card_prices = None
 
     def _create_vecs(self, fields, mapped_funcs, to_csv, csv_filename):
         '''
@@ -74,7 +93,7 @@ class MTGJson(Dataset):
         self.card_data = self.card_data_full[fields] # getting only fields
 
         list4df = []
-        uuids = self.card_data_full[["uuid"]] #isolating uuid
+        uuids = self.card_data_full["uuid"] #isolating uuid
 
         # mapping functions to each item in dataframe
         for rowtuple in self.card_data.itertuples():
@@ -86,18 +105,46 @@ class MTGJson(Dataset):
             list4df.append(output)
         
         processed_values = pd.DataFrame(list4df, index=uuids)
-
+        
         self.card_data = processed_values
         # saving to csv
         if to_csv:
             processed_values.to_csv(csv_filename, index=False, header=False)
         
-    def load_prices(self, filename, platform="paper", site="tcgplayer", buylist="retail", foil="normal"):
-        with open("data\AllPrices.json") as f:
+    def _load_prices(self, filename="data\AllPrices.json", platform="paper", site="tcgplayer", buylist="retail", foil="normal"):
+        ''' creates a card_prices attribute'''
+        with open(filename) as f:
             self.card_prices = parse_json.parse_price(json.load(f), platform, site, buylist, foil)
+    
+    def _create_price_vecs(self, fields, mapped_funcs, price_transforms, to_csv, 
+                            csv_filename, price_filename, platform, site, buylist, foil):
+        '''
+        creates price vectors according to price_transforms
+        First calls internal method create vecs
+        
+        Outputs:
+            None
+            Internal var changes:
+                self.price_vecs = dataframe with "uuid", "price" columns, and rest of relevant numbers
+        
+        '''
+        self._create_vecs(fields, mapped_funcs, to_csv, csv_filename) # creates and populates self.card_data
+        
+        self._load_prices(price_filename, platform, site, buylist, foil) # creates and populates self.card_prices
+
+        output = self.card_prices
+        
+        for transform in price_transforms:
+            output = transform(output)
+        
+        self.price_vecs = output
 
     def __len__(self):  
-        return len(self.card_data)
+        if self.mode == "vecs":
+            return len(self.card_data)
+
+        if self.mode == "prices":
+            return len(self.price_vecs)
         
     def __getitem__(self, idx):
         if torch.is_tensor(idx):
@@ -105,8 +152,40 @@ class MTGJson(Dataset):
 
         if self.mode == "vecs":
             sample = {"uuid": self.card_data.index[idx], "vec": torch.tensor(self.card_data.iloc[idx, :].to_numpy(dtype=np.float32))}
+        
+        if self.mode == "prices":
+            #simple concatenation of context vector to the end of price vector
+            # price is just price, in dollars of whatever currency that was put in
+            sample = {
+                        "price": torch.tensor(self.price_vecs.loc[idx, "price"], dtype=torch.float32), 
+                        "vec": torch.tensor(
+                                np.concatenate((self.price_vecs.drop(columns=["uuid", "price"]).loc[idx, :].to_numpy(dtype=np.float32), 
+                                                self.card_data.loc[self.price_vecs.loc[idx, "uuid"], :].to_numpy(dtype=np.float32)), 
+                                                axis=0
+                                                )
+                                            )
+                    }
 
         return sample
+    
+    def get_num_features(self):
+        ''' 
+        Method to get the number of features in the input vec
+        
+        output: int
+        internal variable changes:
+            self.num_features: updated with new num of features
+
+        '''
+        
+        if self.mode == "vecs":
+            self.num_features = self[0]["vec"].shape[0]
+        
+        if self.mode == "prices":
+            self.num_features = self[0]["vec"].shape[0]
+
+        return self.num_features
+
 
 
 class UtilDicts():
@@ -139,7 +218,8 @@ class UtilDicts():
         self.uuid2set = {vec[1]: vec[2] for vec in self.card_data_full[["uuid", "setCode"]].itertuples()}
         
         self.set_data = pd.read_csv("data/sets.csv") # UNHARDCODETHIS TODO FIX TESTER
-        self.set2date = {vec[1]: datetime.datetime.strptime(vec[2], '%Y-%m-%d') for vec in self.set_data[["code", "releaseDate"]].itertuples()}
+        self.set2date = {vec[1]: datetime.datetime.strptime(vec[2], 
+                                                            '%Y-%m-%d') for vec in self.set_data[["code", "releaseDate"]].itertuples()}
         self.uuid2date = {key : self.set2date[value] for key, value in self.uuid2set.items()}
 
         if save_dicts is True:
