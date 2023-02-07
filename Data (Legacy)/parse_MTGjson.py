@@ -16,7 +16,7 @@ def parse_cards(directory="MTGJSON"):
         #1st index is index
 
         #Handling Mana Cost
-        jankydict = sadness.jankydict.copy()
+        color_dict = sadness.color_dict.copy()
         generic_mana = 0.0
         if str(tupleboi[1]) != 'nan':
             mana_cost = str(tupleboi[1])
@@ -34,16 +34,16 @@ def parse_cards(directory="MTGJSON"):
                     try:
                         float(yoch)
                     except:
-                        if yoch in jankydict:
-                            jankydict[yoch] += 0.5
+                        if yoch in color_dict:
+                            color_dict[yoch] += 0.5
             elif each != '':
                 try:
                     float(each)
                     generic_mana = each
                 except:
-                    if each in jankydict:
-                        jankydict[each] += 1
-        newtuple = (generic_mana,) + tuple(jankydict.values())
+                    if each in color_dict:
+                        color_dict[each] += 1
+        newtuple = (generic_mana,) + tuple(color_dict.values())
         
         #handling cmc
         if str(tupleboi[2]) != 'nan':

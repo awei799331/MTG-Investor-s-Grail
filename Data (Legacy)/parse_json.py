@@ -35,7 +35,7 @@ def parse_json(directory="JsonAll"):
         #1st index is index
 
         #Handling Mana Cost
-        jankydict = sadness.jankydict.copy()
+        color_dict = sadness.color_dict.copy()
         generic_mana = 0.0
         if tupleboi[1] != 'nan':
             mana_cost = str(tupleboi[1])
@@ -53,15 +53,15 @@ def parse_json(directory="JsonAll"):
                     try:
                         float(yoch)
                     except:
-                        jankydict[yoch] += 0.5
+                        color_dict[yoch] += 0.5
             else:
                 try:
                     float(each)
                     generic_mana = each
                 except:
-                    if each in jankydict:
-                        jankydict[each] += 1
-        newtuple = (generic_mana,) + tuple(jankydict.values())
+                    if each in color_dict:
+                        color_dict[each] += 1
+        newtuple = (generic_mana,) + tuple(color_dict.values())
         
         #handling cmc
         if str(tupleboi[2]) != 'nan':

@@ -3,6 +3,7 @@ Data/MTGENV/**
 MTGENV/
 Data_analysis/mtgenv/**
 Data_analysis/data
+tcgplayer/**
 
 *.h5
 .vs

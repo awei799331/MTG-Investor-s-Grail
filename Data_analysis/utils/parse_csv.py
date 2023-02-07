@@ -7,7 +7,7 @@ def mana_cost(inp):
     '''(str) -> tuple
     converts string representation of mana cost to tuple
     with format of (generic, w, u, b, r, g)'''
-    jankydict = sadness.jankydict.copy()
+    color_dict = sadness.color_dict.copy()
     generic_mana = 0.0
     if str(inp) != 'nan':
         mana_cost = str(inp)
@@ -26,16 +26,16 @@ def mana_cost(inp):
                     float(yoch)
                     generic_mana += 0.5*yoch
                 except:
-                    if yoch in jankydict:
-                        jankydict[yoch] += 0.5
+                    if yoch in color_dict:
+                        color_dict[yoch] += 0.5
         elif each != '':
             try:
                 float(each)
                 generic_mana = each
             except:
-                if each in jankydict:
-                    jankydict[each] += 1
-    return (generic_mana,) + tuple(jankydict.values())
+                if each in color_dict:
+                    color_dict[each] += 1
+    return (generic_mana,) + tuple(color_dict.values())
 
 def cmc(inp):
     '''(str) -> tuple
@@ -117,4 +117,5 @@ def rarity(inp):
         pass
     return tuple(rarity_dict.values())
 
-def pass_through(inp): return (inp,)
+def pass_through(inp):
+    return (inp,)
