@@ -4,6 +4,7 @@ MTGENV/
 Data_analysis/mtgenv/**
 Data_analysis/data
 tcgplayer/**
+env
 
 *.h5
 .vs
